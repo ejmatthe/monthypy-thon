@@ -1,0 +1,2715 @@
+Notes,Year,Year Code,State,State Code,Race,Race Code,Deaths,Population,Crude Rate
+,1999,1999,Alabama,1,Black or African American,2054-5,61,1162673,5.2
+,1999,1999,Alabama,1,White,2106-3,492,3211308,15.3
+,1999,1999,Alaska,2,American Indian or Alaska Native,1002-5,34,105727,32.2
+,1999,1999,Alaska,2,White,2106-3,60,462052,13
+,1999,1999,Arizona,4,American Indian or Alaska Native,1002-5,43,275286,15.6
+,1999,1999,Arizona,4,Black or African American,2054-5,18,177619,Unreliable
+,1999,1999,Arizona,4,White,2106-3,698,4460582,15.6
+,1999,1999,Arkansas,5,Black or African American,2054-5,13,424438,Unreliable
+,1999,1999,Arkansas,5,White,2106-3,320,2187944,14.6
+,1999,1999,California,6,American Indian or Alaska Native,1002-5,14,453029,Unreliable
+,1999,1999,California,6,Asian or Pacific Islander,A-PI,233,4051272,5.8
+,1999,1999,California,6,Black or African American,2054-5,145,2502469,5.8
+,1999,1999,California,6,White,2106-3,2679,26492434,10.1
+,1999,1999,Colorado,8,Asian or Pacific Islander,A-PI,11,106980,Unreliable
+,1999,1999,Colorado,8,Black or African American,2054-5,16,183070,Unreliable
+,1999,1999,Colorado,8,White,2106-3,545,3882901,14
+,1999,1999,Connecticut,9,Black or African American,2054-5,10,341801,Unreliable
+,1999,1999,Connecticut,9,White,2106-3,260,2944775,8.8
+,1999,1999,Delaware,10,White,2106-3,78,601213,13
+,1999,1999,District of Columbia,11,Black or African American,2054-5,19,354021,Unreliable
+,1999,1999,Florida,12,Asian or Pacific Islander,A-PI,11,300702,Unreliable
+,1999,1999,Florida,12,Black or African American,2054-5,99,2419083,4.1
+,1999,1999,Florida,12,White,2106-3,1915,12978723,14.8
+,1999,1999,Georgia,13,Asian or Pacific Islander,A-PI,12,177250,Unreliable
+,1999,1999,Georgia,13,Black or African American,2054-5,129,2343624,5.5
+,1999,1999,Georgia,13,White,2106-3,730,5503608,13.3
+,1999,1999,Hawaii,15,Asian or Pacific Islander,A-PI,83,811734,10.2
+,1999,1999,Hawaii,15,White,2106-3,51,362728,14.1
+,1999,1999,Idaho,16,White,2106-3,173,1236009,14
+,1999,1999,Illinois,17,Asian or Pacific Islander,A-PI,11,444409,Unreliable
+,1999,1999,Illinois,17,Black or African American,2054-5,122,1923260,6.3
+,1999,1999,Illinois,17,White,2106-3,886,9951765,8.9
+,1999,1999,Indiana,18,Black or African American,2054-5,39,525171,7.4
+,1999,1999,Indiana,18,White,2106-3,587,5439927,10.8
+,1999,1999,Iowa,19,White,2106-3,296,2806468,10.5
+,1999,1999,Kansas,20,Black or African American,2054-5,12,164954,Unreliable
+,1999,1999,Kansas,20,White,2106-3,282,2435163,11.6
+,1999,1999,Kentucky,21,Black or African American,2054-5,17,303644,Unreliable
+,1999,1999,Kentucky,21,White,2106-3,452,3676835,12.3
+,1999,1999,Louisiana,22,Black or African American,2054-5,83,1461433,5.7
+,1999,1999,Louisiana,22,White,2106-3,431,2915561,14.8
+,1999,1999,Maine,23,White,2106-3,173,1241976,13.9
+,1999,1999,Maryland,24,Asian or Pacific Islander,A-PI,13,220863,Unreliable
+,1999,1999,Maryland,24,Black or African American,2054-5,72,1503532,4.8
+,1999,1999,Maryland,24,White,2106-3,347,3511643,9.9
+,1999,1999,Massachusetts,25,Black or African American,2054-5,12,416891,Unreliable
+,1999,1999,Massachusetts,25,White,2106-3,412,5632754,7.3
+,1999,1999,Michigan,26,Black or African American,2054-5,99,1455082,6.8
+,1999,1999,Michigan,26,White,2106-3,862,8186898,10.5
+,1999,1999,Minnesota,27,White,2106-3,419,4484942,9.3
+,1999,1999,Mississippi,28,Black or African American,2054-5,54,1038253,5.2
+,1999,1999,Mississippi,28,White,2106-3,246,1760835,14
+,1999,1999,Missouri,29,Black or African American,2054-5,55,642019,8.6
+,1999,1999,Missouri,29,White,2106-3,638,4824973,13.2
+,1999,1999,Montana,30,American Indian or Alaska Native,1002-5,15,58604,Unreliable
+,1999,1999,Montana,30,White,2106-3,146,830780,17.6
+,1999,1999,Nebraska,31,Black or African American,2054-5,11,72024,Unreliable
+,1999,1999,Nebraska,31,White,2106-3,165,1594738,10.3
+,1999,1999,Nevada,32,Black or African American,2054-5,14,143853,Unreliable
+,1999,1999,Nevada,32,White,2106-3,377,1657752,22.7
+,1999,1999,New Hampshire,33,White,2106-3,135,1192000,11.3
+,1999,1999,New Jersey,34,Asian or Pacific Islander,A-PI,16,492259,Unreliable
+,1999,1999,New Jersey,34,Black or African American,2054-5,46,1231242,3.7
+,1999,1999,New Jersey,34,White,2106-3,501,6609191,7.6
+,1999,1999,New Mexico,35,American Indian or Alaska Native,1002-5,34,178885,19
+,1999,1999,New Mexico,35,White,2106-3,279,1563421,17.8
+,1999,1999,New York,36,Asian or Pacific Islander,A-PI,59,1122472,5.3
+,1999,1999,New York,36,Black or African American,2054-5,129,3410768,3.8
+,1999,1999,New York,36,White,2106-3,1006,14235763,7.1
+,1999,1999,North Carolina,37,Black or African American,2054-5,90,1758625,5.1
+,1999,1999,North Carolina,37,White,2106-3,779,5970867,13
+,1999,1999,North Dakota,38,White,2106-3,67,604999,11.1
+,1999,1999,Ohio,39,Black or African American,2054-5,89,1347742,6.6
+,1999,1999,Ohio,39,White,2106-3,1004,9816458,10.2
+,1999,1999,Oklahoma,40,American Indian or Alaska Native,1002-5,21,307908,6.8
+,1999,1999,Oklahoma,40,Black or African American,2054-5,23,277057,8.3
+,1999,1999,Oklahoma,40,White,2106-3,445,2800181,15.9
+,1999,1999,Oregon,41,White,2106-3,459,3154256,14.6
+,1999,1999,Pennsylvania,42,Asian or Pacific Islander,A-PI,17,228127,Unreliable
+,1999,1999,Pennsylvania,42,Black or African American,2054-5,86,1279925,6.7
+,1999,1999,Pennsylvania,42,White,2106-3,1181,10734583,11
+,1999,1999,Rhode Island,44,White,2106-3,89,945387,9.4
+,1999,1999,South Carolina,45,Black or African American,2054-5,50,1192652,4.2
+,1999,1999,South Carolina,45,White,2106-3,366,2729841,13.4
+,1999,1999,South Dakota,46,American Indian or Alaska Native,1002-5,12,63170,Unreliable
+,1999,1999,South Dakota,46,White,2106-3,91,678197,13.4
+,1999,1999,Tennessee,47,Black or African American,2054-5,52,939791,5.5
+,1999,1999,Tennessee,47,White,2106-3,672,4625327,14.5
+,1999,1999,Texas,48,Asian or Pacific Islander,A-PI,27,602951,4.5
+,1999,1999,Texas,48,Black or African American,2054-5,113,2461293,4.6
+,1999,1999,Texas,48,White,2106-3,1864,17358613,10.7
+,1999,1999,Utah,49,Asian or Pacific Islander,A-PI,10,56931,Unreliable
+,1999,1999,Utah,49,White,2106-3,263,2092488,12.6
+,1999,1999,Vermont,50,White,2106-3,63,593357,10.6
+,1999,1999,Virginia,51,Asian or Pacific Islander,A-PI,14,273732,Unreliable
+,1999,1999,Virginia,51,Black or African American,2054-5,85,1422517,6
+,1999,1999,Virginia,51,White,2106-3,693,5282184,13.1
+,1999,1999,Washington,53,American Indian or Alaska Native,1002-5,24,110034,21.8
+,1999,1999,Washington,53,Asian or Pacific Islander,A-PI,35,371604,9.4
+,1999,1999,Washington,53,Black or African American,2054-5,20,222319,9
+,1999,1999,Washington,53,White,2106-3,736,5138607,14.3
+,1999,1999,West Virginia,54,White,2106-3,224,1740096,12.9
+,1999,1999,Wisconsin,55,Black or African American,2054-5,22,315230,7
+,1999,1999,Wisconsin,55,White,2106-3,553,4874589,11.3
+,1999,1999,Wyoming,56,White,2106-3,95,472739,20.1
+,2000,2000,Alabama,1,Black or African American,2054-5,67,1167623,5.7
+,2000,2000,Alabama,1,White,2106-3,513,3218218,15.9
+,2000,2000,Alaska,2,American Indian or Alaska Native,1002-5,55,107715,51.1
+,2000,2000,Alaska,2,White,2106-3,79,460782,17.1
+,2000,2000,Arizona,4,American Indian or Alaska Native,1002-5,40,278265,14.4
+,2000,2000,Arizona,4,Black or African American,2054-5,10,183298,Unreliable
+,2000,2000,Arizona,4,White,2106-3,726,4554233,15.9
+,2000,2000,Arkansas,5,Black or African American,2054-5,25,425864,5.9
+,2000,2000,Arkansas,5,White,2106-3,323,2203157,14.7
+,2000,2000,California,6,American Indian or Alaska Native,1002-5,12,472692,Unreliable
+,2000,2000,California,6,Asian or Pacific Islander,A-PI,219,4133030,5.3
+,2000,2000,California,6,Black or African American,2054-5,144,2516935,5.7
+,2000,2000,California,6,White,2106-3,2588,26748991,9.7
+,2000,2000,Colorado,8,Black or African American,2054-5,15,188402,Unreliable
+,2000,2000,Colorado,8,White,2106-3,588,3941906,14.9
+,2000,2000,Connecticut,9,Black or African American,2054-5,16,347678,Unreliable
+,2000,2000,Connecticut,9,White,2106-3,285,2953244,9.7
+,2000,2000,Delaware,10,White,2106-3,78,605429,12.9
+,2000,2000,District of Columbia,11,White,2106-3,14,198984,Unreliable
+,2000,2000,Florida,12,Black or African American,2054-5,138,2468478,5.6
+,2000,2000,Florida,12,White,2106-3,1938,13132090,14.8
+,2000,2000,Georgia,13,Asian or Pacific Islander,A-PI,10,192400,Unreliable
+,2000,2000,Georgia,13,Black or African American,2054-5,125,2395234,5.2
+,2000,2000,Georgia,13,White,2106-3,706,5572036,12.7
+,2000,2000,Hawaii,15,Asian or Pacific Islander,A-PI,87,816218,10.7
+,2000,2000,Hawaii,15,White,2106-3,48,360274,13.3
+,2000,2000,Idaho,16,White,2106-3,158,1250538,12.6
+,2000,2000,Illinois,17,Asian or Pacific Islander,A-PI,10,460311,Unreliable
+,2000,2000,Illinois,17,Black or African American,2054-5,104,1933802,5.4
+,2000,2000,Illinois,17,White,2106-3,888,9981520,8.9
+,2000,2000,Indiana,18,Black or African American,2054-5,35,533138,6.6
+,2000,2000,Indiana,18,White,2106-3,644,5460032,11.8
+,2000,2000,Iowa,19,White,2106-3,282,2805323,10.1
+,2000,2000,Kansas,20,Black or African American,2054-5,10,167269,Unreliable
+,2000,2000,Kansas,20,White,2106-3,311,2437323,12.8
+,2000,2000,Kentucky,21,Black or African American,2054-5,19,307871,Unreliable
+,2000,2000,Kentucky,21,White,2106-3,497,3690141,13.5
+,2000,2000,Louisiana,22,Black or African American,2054-5,74,1468317,5
+,2000,2000,Louisiana,22,White,2106-3,392,2912011,13.5
+,2000,2000,Maine,23,White,2106-3,153,1247712,12.3
+,2000,2000,Maryland,24,Asian or Pacific Islander,A-PI,12,229606,Unreliable
+,2000,2000,Maryland,24,Black or African American,2054-5,74,1524783,4.9
+,2000,2000,Maryland,24,White,2106-3,385,3522415,10.9
+,2000,2000,Massachusetts,25,Black or African American,2054-5,18,426216,Unreliable
+,2000,2000,Massachusetts,25,White,2106-3,364,5642547,6.5
+,2000,2000,Michigan,26,Asian or Pacific Islander,A-PI,16,195651,Unreliable
+,2000,2000,Michigan,26,Black or African American,2054-5,85,1463500,5.8
+,2000,2000,Michigan,26,White,2106-3,868,8205268,10.6
+,2000,2000,Minnesota,27,American Indian or Alaska Native,1002-5,12,62673,Unreliable
+,2000,2000,Minnesota,27,Asian or Pacific Islander,A-PI,15,155206,Unreliable
+,2000,2000,Minnesota,27,White,2106-3,405,4506574,9
+,2000,2000,Mississippi,28,Black or African American,2054-5,53,1041069,5.1
+,2000,2000,Mississippi,28,White,2106-3,236,1770126,13.3
+,2000,2000,Missouri,29,Black or African American,2054-5,37,649528,5.7
+,2000,2000,Missouri,29,White,2106-3,660,4841938,13.6
+,2000,2000,Montana,30,White,2106-3,149,832467,17.9
+,2000,2000,Nebraska,31,White,2106-3,185,1594895,11.6
+,2000,2000,Nevada,32,Black or African American,2054-5,14,149647,Unreliable
+,2000,2000,Nevada,32,White,2106-3,377,1705295,22.1
+,2000,2000,New Hampshire,33,White,2106-3,126,1202862,10.5
+,2000,2000,New Jersey,34,Asian or Pacific Islander,A-PI,21,514273,4.1
+,2000,2000,New Jersey,34,Black or African American,2054-5,55,1241469,4.4
+,2000,2000,New Jersey,34,White,2106-3,483,6629830,7.3
+,2000,2000,New Mexico,35,American Indian or Alaska Native,1002-5,32,185372,17.3
+,2000,2000,New Mexico,35,White,2106-3,287,1565780,18.3
+,2000,2000,New York,36,Asian or Pacific Islander,A-PI,40,1157977,3.5
+,2000,2000,New York,36,Black or African American,2054-5,124,3434584,3.6
+,2000,2000,New York,36,White,2106-3,967,14263541,6.8
+,2000,2000,North Carolina,37,Black or African American,2054-5,103,1775634,5.8
+,2000,2000,North Carolina,37,White,2106-3,852,6037509,14.1
+,2000,2000,North Dakota,38,White,2106-3,60,600226,10
+,2000,2000,Ohio,39,Black or African American,2054-5,84,1359717,6.2
+,2000,2000,Ohio,39,White,2106-3,1000,9812402,10.2
+,2000,2000,Oklahoma,40,American Indian or Alaska Native,1002-5,29,312425,9.3
+,2000,2000,Oklahoma,40,Black or African American,2054-5,21,279982,7.5
+,2000,2000,Oklahoma,40,White,2106-3,444,2803557,15.8
+,2000,2000,Oregon,41,Asian or Pacific Islander,A-PI,11,122837,Unreliable
+,2000,2000,Oregon,41,White,2106-3,474,3172360,14.9
+,2000,2000,Pennsylvania,42,Asian or Pacific Islander,A-PI,15,238261,Unreliable
+,2000,2000,Pennsylvania,42,Black or African American,2054-5,84,1293698,6.5
+,2000,2000,Pennsylvania,42,White,2106-3,1256,10725447,11.7
+,2000,2000,Rhode Island,44,White,2106-3,66,949046,7
+,2000,2000,South Carolina,45,Black or African American,2054-5,54,1199993,4.5
+,2000,2000,South Carolina,45,White,2106-3,386,2754751,14
+,2000,2000,South Dakota,46,American Indian or Alaska Native,1002-5,14,65126,Unreliable
+,2000,2000,South Dakota,46,White,2106-3,80,678523,11.8
+,2000,2000,Tennessee,47,Black or African American,2054-5,54,950101,5.7
+,2000,2000,Tennessee,47,White,2106-3,672,4657382,14.4
+,2000,2000,Texas,48,Asian or Pacific Islander,A-PI,24,634472,3.8
+,2000,2000,Texas,48,Black or African American,2054-5,136,2489759,5.5
+,2000,2000,Texas,48,White,2106-3,1886,17575478,10.7
+,2000,2000,Utah,49,White,2106-3,289,2117025,13.7
+,2000,2000,Vermont,50,White,2106-3,76,595963,12.8
+,2000,2000,Virginia,51,Asian or Pacific Islander,A-PI,14,289647,Unreliable
+,2000,2000,Virginia,51,Black or African American,2054-5,87,1438727,6
+,2000,2000,Virginia,51,White,2106-3,667,5324398,12.5
+,2000,2000,Washington,53,American Indian or Alaska Native,1002-5,15,112006,Unreliable
+,2000,2000,Washington,53,Asian or Pacific Islander,A-PI,28,385181,7.3
+,2000,2000,Washington,53,Black or African American,2054-5,13,230096,Unreliable
+,2000,2000,Washington,53,White,2106-3,671,5166838,13
+,2000,2000,West Virginia,54,White,2106-3,241,1732909,13.9
+,2000,2000,Wisconsin,55,Black or African American,2054-5,26,322099,8.1
+,2000,2000,Wisconsin,55,White,2106-3,551,4891131,11.3
+,2000,2000,Wyoming,56,White,2106-3,79,473335,16.7
+,2001,2001,Alabama,1,Black or African American,2054-5,56,1177479,4.8
+,2001,2001,Alabama,1,White,2106-3,453,3225628,14
+,2001,2001,Alaska,2,American Indian or Alaska Native,1002-5,31,108715,28.5
+,2001,2001,Alaska,2,White,2106-3,69,463818,14.9
+,2001,2001,Arizona,4,American Indian or Alaska Native,1002-5,60,284705,21.1
+,2001,2001,Arizona,4,Black or African American,2054-5,17,194201,Unreliable
+,2001,2001,Arizona,4,White,2106-3,677,4669299,14.5
+,2001,2001,Arkansas,5,Black or African American,2054-5,22,429929,5.1
+,2001,2001,Arkansas,5,White,2106-3,357,2214656,16.1
+,2001,2001,California,6,American Indian or Alaska Native,1002-5,12,495065,Unreliable
+,2001,2001,California,6,Asian or Pacific Islander,A-PI,204,4338380,4.7
+,2001,2001,California,6,Black or African American,2054-5,125,2547829,4.9
+,2001,2001,California,6,White,2106-3,2479,27098184,9.1
+,2001,2001,Colorado,8,Black or African American,2054-5,18,196376,Unreliable
+,2001,2001,Colorado,8,White,2106-3,690,4046133,17.1
+,2001,2001,Connecticut,9,Black or African American,2054-5,15,355440,Unreliable
+,2001,2001,Connecticut,9,White,2106-3,263,2965228,8.9
+,2001,2001,Delaware,10,Black or African American,2054-5,14,162206,Unreliable
+,2001,2001,Delaware,10,White,2106-3,93,610442,15.2
+,2001,2001,District of Columbia,11,Black or African American,2054-5,26,349536,7.4
+,2001,2001,District of Columbia,11,White,2106-3,12,204684,Unreliable
+,2001,2001,Florida,12,Asian or Pacific Islander,A-PI,10,340453,Unreliable
+,2001,2001,Florida,12,Black or African American,2054-5,129,2553214,5.1
+,2001,2001,Florida,12,White,2106-3,2169,13392855,16.2
+,2001,2001,Georgia,13,Asian or Pacific Islander,A-PI,13,211322,Unreliable
+,2001,2001,Georgia,13,Black or African American,2054-5,99,2468186,4
+,2001,2001,Georgia,13,White,2106-3,819,5668444,14.4
+,2001,2001,Hawaii,15,Asian or Pacific Islander,A-PI,83,823147,10.1
+,2001,2001,Hawaii,15,White,2106-3,52,365535,14.2
+,2001,2001,Idaho,16,White,2106-3,201,1273704,15.8
+,2001,2001,Illinois,17,Asian or Pacific Islander,A-PI,22,484828,4.5
+,2001,2001,Illinois,17,Black or African American,2054-5,110,1940249,5.7
+,2001,2001,Illinois,17,White,2106-3,1004,10015499,10
+,2001,2001,Indiana,18,Black or African American,2054-5,35,545974,6.4
+,2001,2001,Indiana,18,White,2106-3,678,5488228,12.4
+,2001,2001,Iowa,19,White,2106-3,298,2805838,10.6
+,2001,2001,Kansas,20,Black or African American,2054-5,12,169671,Unreliable
+,2001,2001,Kansas,20,White,2106-3,274,2444755,11.2
+,2001,2001,Kentucky,21,Black or African American,2054-5,20,314168,6.4
+,2001,2001,Kentucky,21,White,2106-3,472,3707359,12.7
+,2001,2001,Louisiana,22,Black or African American,2054-5,82,1475975,5.6
+,2001,2001,Louisiana,22,White,2106-3,404,2910410,13.9
+,2001,2001,Maine,23,White,2106-3,157,1256397,12.5
+,2001,2001,Maryland,24,Black or African American,2054-5,75,1561491,4.8
+,2001,2001,Maryland,24,White,2106-3,367,3546882,10.3
+,2001,2001,Massachusetts,25,Black or African American,2054-5,15,441594,Unreliable
+,2001,2001,Massachusetts,25,White,2106-3,405,5655031,7.2
+,2001,2001,Michigan,26,Asian or Pacific Islander,A-PI,12,208508,Unreliable
+,2001,2001,Michigan,26,Black or African American,2054-5,95,1477489,6.4
+,2001,2001,Michigan,26,White,2106-3,937,8230173,11.4
+,2001,2001,Minnesota,27,American Indian or Alaska Native,1002-5,17,64033,Unreliable
+,2001,2001,Minnesota,27,Asian or Pacific Islander,A-PI,10,165126,Unreliable
+,2001,2001,Minnesota,27,Black or African American,2054-5,12,208738,Unreliable
+,2001,2001,Minnesota,27,White,2106-3,439,4544899,9.7
+,2001,2001,Mississippi,28,Black or African American,2054-5,36,1046375,3.4
+,2001,2001,Mississippi,28,White,2106-3,291,1771836,16.4
+,2001,2001,Missouri,29,Black or African American,2054-5,50,661223,7.6
+,2001,2001,Missouri,29,White,2106-3,667,4870383,13.7
+,2001,2001,Montana,30,White,2106-3,166,835441,19.9
+,2001,2001,Nebraska,31,White,2106-3,184,1598826,11.5
+,2001,2001,Nevada,32,American Indian or Alaska Native,1002-5,12,33816,Unreliable
+,2001,2001,Nevada,32,Asian or Pacific Islander,A-PI,12,125577,Unreliable
+,2001,2001,Nevada,32,Black or African American,2054-5,14,161746,Unreliable
+,2001,2001,Nevada,32,White,2106-3,349,1777260,19.6
+,2001,2001,New Hampshire,33,White,2106-3,162,1218748,13.3
+,2001,2001,New Jersey,34,Asian or Pacific Islander,A-PI,21,551565,3.8
+,2001,2001,New Jersey,34,Black or African American,2054-5,49,1257274,3.9
+,2001,2001,New Jersey,34,White,2106-3,517,6652117,7.8
+,2001,2001,New Mexico,35,American Indian or Alaska Native,1002-5,33,189218,17.4
+,2001,2001,New Mexico,35,White,2106-3,317,1572453,20.2
+,2001,2001,New York,36,Asian or Pacific Islander,A-PI,41,1213384,3.4
+,2001,2001,New York,36,Black or African American,2054-5,132,3457658,3.8
+,2001,2001,New York,36,White,2106-3,1075,14281400,7.5
+,2001,2001,North Carolina,37,American Indian or Alaska Native,1002-5,10,111924,Unreliable
+,2001,2001,North Carolina,37,Asian or Pacific Islander,A-PI,10,141623,Unreliable
+,2001,2001,North Carolina,37,Black or African American,2054-5,96,1814985,5.3
+,2001,2001,North Carolina,37,White,2106-3,881,6141590,14.3
+,2001,2001,North Dakota,38,American Indian or Alaska Native,1002-5,10,33149,Unreliable
+,2001,2001,North Dakota,38,White,2106-3,66,595709,11.1
+,2001,2001,Ohio,39,Black or African American,2054-5,97,1381459,7
+,2001,2001,Ohio,39,White,2106-3,1112,9816057,11.3
+,2001,2001,Oklahoma,40,American Indian or Alaska Native,1002-5,28,318918,8.8
+,2001,2001,Oklahoma,40,Black or African American,2054-5,19,282978,Unreliable
+,2001,2001,Oklahoma,40,White,2106-3,466,2807711,16.6
+,2001,2001,Oregon,41,Asian or Pacific Islander,A-PI,10,130093,Unreliable
+,2001,2001,Oregon,41,White,2106-3,483,3206792,15.1
+,2001,2001,Pennsylvania,42,Asian or Pacific Islander,A-PI,11,253927,Unreliable
+,2001,2001,Pennsylvania,42,Black or African American,2054-5,70,1311557,5.3
+,2001,2001,Pennsylvania,42,White,2106-3,1193,10707684,11.1
+,2001,2001,Rhode Island,44,White,2106-3,83,953319,8.7
+,2001,2001,South Carolina,45,Black or African American,2054-5,56,1214753,4.6
+,2001,2001,South Carolina,45,White,2106-3,404,2789474,14.5
+,2001,2001,South Dakota,46,American Indian or Alaska Native,1002-5,19,66230,Unreliable
+,2001,2001,South Dakota,46,White,2106-3,84,679387,12.4
+,2001,2001,Tennessee,47,Black or African American,2054-5,59,967178,6.1
+,2001,2001,Tennessee,47,White,2106-3,644,4696634,13.7
+,2001,2001,Texas,48,Asian or Pacific Islander,A-PI,33,684712,4.8
+,2001,2001,Texas,48,Black or African American,2054-5,139,2551645,5.4
+,2001,2001,Texas,48,White,2106-3,2046,17922031,11.4
+,2001,2001,Utah,49,White,2106-3,314,2161013,14.5
+,2001,2001,Vermont,50,White,2106-3,70,598383,11.7
+,2001,2001,Virginia,51,Asian or Pacific Islander,A-PI,13,313207,Unreliable
+,2001,2001,Virginia,51,Black or African American,2054-5,102,1462901,7
+,2001,2001,Virginia,51,White,2106-3,681,5394417,12.6
+,2001,2001,Washington,53,American Indian or Alaska Native,1002-5,12,115121,Unreliable
+,2001,2001,Washington,53,Asian or Pacific Islander,A-PI,29,408480,7.1
+,2001,2001,Washington,53,Black or African American,2054-5,10,239036,Unreliable
+,2001,2001,Washington,53,White,2106-3,661,5223085,12.7
+,2001,2001,West Virginia,54,White,2106-3,276,1725478,16
+,2001,2001,Wisconsin,55,Black or African American,2054-5,19,331554,Unreliable
+,2001,2001,Wisconsin,55,White,2106-3,610,4918108,12.4
+,2001,2001,Wyoming,56,White,2106-3,82,473249,17.3
+,2002,2002,Alabama,1,Black or African American,2054-5,63,1182591,5.3
+,2002,2002,Alabama,1,White,2106-3,448,3229712,13.9
+,2002,2002,Alaska,2,American Indian or Alaska Native,1002-5,42,109756,38.3
+,2002,2002,Alaska,2,White,2106-3,90,468708,19.2
+,2002,2002,Arizona,4,American Indian or Alaska Native,1002-5,52,291458,17.8
+,2002,2002,Arizona,4,Black or African American,2054-5,12,204176,Unreliable
+,2002,2002,Arizona,4,White,2106-3,815,4766279,17.1
+,2002,2002,Arkansas,5,Black or African American,2054-5,23,432330,5.3
+,2002,2002,Arkansas,5,White,2106-3,352,2224117,15.8
+,2002,2002,California,6,American Indian or Alaska Native,1002-5,23,513001,4.5
+,2002,2002,California,6,Asian or Pacific Islander,A-PI,252,4482498,5.6
+,2002,2002,California,6,Black or African American,2054-5,161,2567326,6.3
+,2002,2002,California,6,White,2106-3,2784,27309018,10.2
+,2002,2002,Colorado,8,Black or African American,2054-5,17,201149,Unreliable
+,2002,2002,Colorado,8,White,2106-3,692,4097747,16.9
+,2002,2002,Connecticut,9,Black or African American,2054-5,14,363022,Unreliable
+,2002,2002,Connecticut,9,White,2106-3,244,2975939,8.2
+,2002,2002,Delaware,10,Black or African American,2054-5,10,166583,Unreliable
+,2002,2002,Delaware,10,White,2106-3,63,615028,10.2
+,2002,2002,District of Columbia,11,Black or African American,2054-5,20,346080,5.8
+,2002,2002,Florida,12,Asian or Pacific Islander,A-PI,18,363758,Unreliable
+,2002,2002,Florida,12,Black or African American,2054-5,104,2627531,4
+,2002,2002,Florida,12,White,2106-3,2210,13623576,16.2
+,2002,2002,Georgia,13,Black or African American,2054-5,111,2522522,4.4
+,2002,2002,Georgia,13,White,2106-3,783,5727405,13.7
+,2002,2002,Hawaii,15,Asian or Pacific Islander,A-PI,79,828889,9.5
+,2002,2002,Hawaii,15,White,2106-3,40,371782,10.8
+,2002,2002,Idaho,16,White,2106-3,198,1291938,15.3
+,2002,2002,Illinois,17,Asian or Pacific Islander,A-PI,20,503613,4
+,2002,2002,Illinois,17,Black or African American,2054-5,92,1942243,4.7
+,2002,2002,Illinois,17,White,2106-3,1025,10028334,10.2
+,2002,2002,Indiana,18,Black or African American,2054-5,43,555017,7.7
+,2002,2002,Indiana,18,White,2106-3,696,5501795,12.7
+,2002,2002,Iowa,19,White,2106-3,311,2803526,11.1
+,2002,2002,Kansas,20,White,2106-3,335,2450143,13.7
+,2002,2002,Kentucky,21,Black or African American,2054-5,19,318571,Unreliable
+,2002,2002,Kentucky,21,White,2106-3,518,3722159,13.9
+,2002,2002,Louisiana,22,Black or African American,2054-5,60,1485575,4
+,2002,2002,Louisiana,22,White,2106-3,435,2916968,14.9
+,2002,2002,Maine,23,White,2106-3,164,1264617,13
+,2002,2002,Maryland,24,Black or African American,2054-5,81,1592833,5.1
+,2002,2002,Maryland,24,White,2106-3,385,3566844,10.8
+,2002,2002,Massachusetts,25,Asian or Pacific Islander,A-PI,15,291477,Unreliable
+,2002,2002,Massachusetts,25,Black or African American,2054-5,18,453484,Unreliable
+,2002,2002,Massachusetts,25,White,2106-3,403,5648553,7.1
+,2002,2002,Michigan,26,Asian or Pacific Islander,A-PI,11,218778,Unreliable
+,2002,2002,Michigan,26,Black or African American,2054-5,92,1483051,6.2
+,2002,2002,Michigan,26,White,2106-3,996,8237822,12.1
+,2002,2002,Minnesota,27,American Indian or Alaska Native,1002-5,10,65300,Unreliable
+,2002,2002,Minnesota,27,Black or African American,2054-5,17,219791,Unreliable
+,2002,2002,Minnesota,27,White,2106-3,460,4561120,10.1
+,2002,2002,Mississippi,28,Black or African American,2054-5,54,1049194,5.1
+,2002,2002,Mississippi,28,White,2106-3,286,1773296,16.1
+,2002,2002,Missouri,29,Black or African American,2054-5,43,669160,6.4
+,2002,2002,Missouri,29,White,2106-3,644,4891238,13.2
+,2002,2002,Montana,30,American Indian or Alaska Native,1002-5,11,61507,Unreliable
+,2002,2002,Montana,30,White,2106-3,173,838973,20.6
+,2002,2002,Nebraska,31,White,2106-3,196,1603540,12.2
+,2002,2002,Nevada,32,Black or African American,2054-5,23,171629,13.4
+,2002,2002,Nevada,32,White,2106-3,392,1828699,21.4
+,2002,2002,New Hampshire,33,White,2106-3,129,1229485,10.5
+,2002,2002,New Jersey,34,Asian or Pacific Islander,A-PI,18,582299,Unreliable
+,2002,2002,New Jersey,34,Black or African American,2054-5,43,1268823,3.4
+,2002,2002,New Jersey,34,White,2106-3,492,6667078,7.4
+,2002,2002,New Mexico,35,American Indian or Alaska Native,1002-5,29,192786,15
+,2002,2002,New Mexico,35,White,2106-3,311,1589442,19.6
+,2002,2002,New York,36,Asian or Pacific Islander,A-PI,51,1255048,4.1
+,2002,2002,New York,36,Black or African American,2054-5,124,3467250,3.6
+,2002,2002,New York,36,White,2106-3,1049,14276260,7.3
+,2002,2002,North Carolina,37,Black or African American,2054-5,99,1844291,5.4
+,2002,2002,North Carolina,37,White,2106-3,875,6214771,14.1
+,2002,2002,North Dakota,38,White,2106-3,85,593517,14.3
+,2002,2002,Ohio,39,Black or African American,2054-5,85,1397560,6.1
+,2002,2002,Ohio,39,White,2106-3,1193,9812513,12.2
+,2002,2002,Oklahoma,40,American Indian or Alaska Native,1002-5,35,325082,10.8
+,2002,2002,Oklahoma,40,Black or African American,2054-5,18,285840,Unreliable
+,2002,2002,Oklahoma,40,White,2106-3,447,2818258,15.9
+,2002,2002,Oregon,41,American Indian or Alaska Native,1002-5,10,60964,Unreliable
+,2002,2002,Oregon,41,White,2106-3,498,3242079,15.4
+,2002,2002,Pennsylvania,42,Asian or Pacific Islander,A-PI,12,268041,Unreliable
+,2002,2002,Pennsylvania,42,Black or African American,2054-5,100,1329750,7.5
+,2002,2002,Pennsylvania,42,White,2106-3,1224,10705281,11.4
+,2002,2002,Rhode Island,44,White,2106-3,82,957652,8.6
+,2002,2002,South Carolina,45,Black or African American,2054-5,46,1222658,3.8
+,2002,2002,South Carolina,45,White,2106-3,389,2820732,13.8
+,2002,2002,South Dakota,46,American Indian or Alaska Native,1002-5,17,67133,Unreliable
+,2002,2002,South Dakota,46,White,2106-3,75,679515,11
+,2002,2002,Tennessee,47,Black or African American,2054-5,52,980256,5.3
+,2002,2002,Tennessee,47,White,2106-3,718,4723797,15.2
+,2002,2002,Texas,48,Asian or Pacific Islander,A-PI,26,726265,3.6
+,2002,2002,Texas,48,Black or African American,2054-5,134,2602237,5.1
+,2002,2002,Texas,48,White,2106-3,2145,18192259,11.8
+,2002,2002,Utah,49,White,2106-3,332,2196834,15.1
+,2002,2002,Vermont,50,White,2106-3,92,600887,15.3
+,2002,2002,Virginia,51,Asian or Pacific Islander,A-PI,17,332353,Unreliable
+,2002,2002,Virginia,51,Black or African American,2054-5,91,1480645,6.1
+,2002,2002,Virginia,51,White,2106-3,690,5444069,12.7
+,2002,2002,Washington,53,American Indian or Alaska Native,1002-5,20,117689,17
+,2002,2002,Washington,53,Asian or Pacific Islander,A-PI,24,426682,5.6
+,2002,2002,Washington,53,Black or African American,2054-5,15,245869,Unreliable
+,2002,2002,Washington,53,White,2106-3,752,5262109,14.3
+,2002,2002,West Virginia,54,White,2106-3,269,1728416,15.6
+,2002,2002,Wisconsin,55,Black or African American,2054-5,20,339499,5.9
+,2002,2002,Wisconsin,55,White,2106-3,595,4942435,12
+,2002,2002,Wyoming,56,White,2106-3,102,477938,21.3
+,2003,2003,Alabama,1,Black or African American,2054-5,50,1190183,4.2
+,2003,2003,Alabama,1,White,2106-3,468,3241836,14.4
+,2003,2003,Alaska,2,American Indian or Alaska Native,1002-5,42,110936,37.9
+,2003,2003,Alaska,2,White,2106-3,75,471541,15.9
+,2003,2003,Arizona,4,American Indian or Alaska Native,1002-5,52,298633,17.4
+,2003,2003,Arizona,4,Black or African American,2054-5,24,213993,11.2
+,2003,2003,Arizona,4,White,2106-3,759,4854518,15.6
+,2003,2003,Arkansas,5,Black or African American,2054-5,31,435025,7.1
+,2003,2003,Arkansas,5,White,2106-3,338,2237427,15.1
+,2003,2003,California,6,American Indian or Alaska Native,1002-5,25,534792,4.7
+,2003,2003,California,6,Asian or Pacific Islander,A-PI,244,4621258,5.3
+,2003,2003,California,6,Black or African American,2054-5,138,2585567,5.3
+,2003,2003,California,6,White,2106-3,2985,27511542,10.8
+,2003,2003,Colorado,8,Black or African American,2054-5,14,203049,Unreliable
+,2003,2003,Colorado,8,White,2106-3,702,4127630,17
+,2003,2003,Connecticut,9,Black or African American,2054-5,10,370417,Unreliable
+,2003,2003,Connecticut,9,White,2106-3,259,2986138,8.7
+,2003,2003,Delaware,10,White,2106-3,89,620499,14.3
+,2003,2003,District of Columbia,11,Black or African American,2054-5,27,340751,7.9
+,2003,2003,Florida,12,Asian or Pacific Islander,A-PI,20,387049,5.2
+,2003,2003,Florida,12,Black or African American,2054-5,119,2700143,4.4
+,2003,2003,Florida,12,White,2106-3,2152,13838602,15.6
+,2003,2003,Georgia,13,Asian or Pacific Islander,A-PI,10,240749,Unreliable
+,2003,2003,Georgia,13,Black or African American,2054-5,126,2571491,4.9
+,2003,2003,Georgia,13,White,2106-3,822,5776586,14.2
+,2003,2003,Hawaii,15,Asian or Pacific Islander,A-PI,71,837056,8.5
+,2003,2003,Hawaii,15,White,2106-3,58,375506,15.4
+,2003,2003,Idaho,16,White,2106-3,211,1312571,16.1
+,2003,2003,Illinois,17,Asian or Pacific Islander,A-PI,18,521161,Unreliable
+,2003,2003,Illinois,17,Black or African American,2054-5,76,1942340,3.9
+,2003,2003,Illinois,17,White,2106-3,913,10037309,9.1
+,2003,2003,Indiana,18,Black or African American,2054-5,43,565411,7.6
+,2003,2003,Indiana,18,White,2106-3,689,5526320,12.5
+,2003,2003,Iowa,19,White,2106-3,341,2806004,12.2
+,2003,2003,Kansas,20,White,2106-3,335,2454735,13.6
+,2003,2003,Kentucky,21,Black or African American,2054-5,32,322254,9.9
+,2003,2003,Kentucky,21,White,2106-3,530,3743343,14.2
+,2003,2003,Louisiana,22,Black or African American,2054-5,55,1496609,3.7
+,2003,2003,Louisiana,22,White,2106-3,397,2926521,13.6
+,2003,2003,Maine,23,White,2106-3,137,1272827,10.8
+,2003,2003,Maryland,24,Asian or Pacific Islander,A-PI,19,270259,Unreliable
+,2003,2003,Maryland,24,Black or African American,2054-5,64,1621856,3.9
+,2003,2003,Maryland,24,White,2106-3,408,3579519,11.4
+,2003,2003,Massachusetts,25,Asian or Pacific Islander,A-PI,14,302516,Unreliable
+,2003,2003,Massachusetts,25,Black or African American,2054-5,20,464146,4.3
+,2003,2003,Massachusetts,25,White,2106-3,397,5630854,7.1
+,2003,2003,Michigan,26,Black or African American,2054-5,92,1488590,6.2
+,2003,2003,Michigan,26,White,2106-3,921,8245792,11.2
+,2003,2003,Minnesota,27,Asian or Pacific Islander,A-PI,13,179550,Unreliable
+,2003,2003,Minnesota,27,Black or African American,2054-5,13,231089,Unreliable
+,2003,2003,Minnesota,27,White,2106-3,464,4576328,10.1
+,2003,2003,Mississippi,28,Black or African American,2054-5,52,1053803,4.9
+,2003,2003,Mississippi,28,White,2106-3,283,1776834,15.9
+,2003,2003,Missouri,29,Black or African American,2054-5,43,676844,6.4
+,2003,2003,Missouri,29,White,2106-3,630,4913336,12.8
+,2003,2003,Montana,30,American Indian or Alaska Native,1002-5,11,62325,Unreliable
+,2003,2003,Montana,30,White,2106-3,169,845586,20
+,2003,2003,Nebraska,31,White,2106-3,169,1609719,10.5
+,2003,2003,Nevada,32,Asian or Pacific Islander,A-PI,13,150442,Unreliable
+,2003,2003,Nevada,32,Black or African American,2054-5,19,181213,Unreliable
+,2003,2003,Nevada,32,White,2106-3,394,1880102,21
+,2003,2003,New Hampshire,33,White,2106-3,155,1237630,12.5
+,2003,2003,New Jersey,34,Asian or Pacific Islander,A-PI,19,610067,Unreliable
+,2003,2003,New Jersey,34,Black or African American,2054-5,56,1279601,4.4
+,2003,2003,New Jersey,34,White,2106-3,513,6674697,7.7
+,2003,2003,New Mexico,35,American Indian or Alaska Native,1002-5,36,196291,18.3
+,2003,2003,New Mexico,35,White,2106-3,300,1605625,18.7
+,2003,2003,New York,36,Asian or Pacific Islander,A-PI,54,1293519,4.2
+,2003,2003,New York,36,Black or African American,2054-5,110,3471007,3.2
+,2003,2003,New York,36,White,2106-3,999,14263472,7
+,2003,2003,North Carolina,37,Black or African American,2054-5,104,1869334,5.6
+,2003,2003,North Carolina,37,White,2106-3,839,6271850,13.4
+,2003,2003,North Dakota,38,American Indian or Alaska Native,1002-5,12,34227,Unreliable
+,2003,2003,North Dakota,38,White,2106-3,68,592924,11.5
+,2003,2003,Ohio,39,Black or African American,2054-5,82,1413170,5.8
+,2003,2003,Ohio,39,White,2106-3,986,9814964,10
+,2003,2003,Oklahoma,40,American Indian or Alaska Native,1002-5,30,331462,9.1
+,2003,2003,Oklahoma,40,Black or African American,2054-5,27,287387,9.4
+,2003,2003,Oklahoma,40,White,2106-3,411,2824128,14.6
+,2003,2003,Oregon,41,White,2106-3,575,3267254,17.6
+,2003,2003,Pennsylvania,42,Asian or Pacific Islander,A-PI,13,282881,Unreliable
+,2003,2003,Pennsylvania,42,Black or African American,2054-5,99,1349739,7.3
+,2003,2003,Pennsylvania,42,White,2106-3,1226,10711817,11.4
+,2003,2003,Rhode Island,44,White,2106-3,81,958870,8.4
+,2003,2003,South Carolina,45,Black or African American,2054-5,60,1231581,4.9
+,2003,2003,South Carolina,45,White,2106-3,410,2850639,14.4
+,2003,2003,South Dakota,46,American Indian or Alaska Native,1002-5,14,68275,Unreliable
+,2003,2003,South Dakota,46,White,2106-3,87,681095,12.8
+,2003,2003,Tennessee,47,Black or African American,2054-5,54,993443,5.4
+,2003,2003,Tennessee,47,White,2106-3,699,4757541,14.7
+,2003,2003,Texas,48,Asian or Pacific Islander,A-PI,44,764885,5.8
+,2003,2003,Texas,48,Black or African American,2054-5,125,2646739,4.7
+,2003,2003,Texas,48,White,2106-3,2184,18440940,11.8
+,2003,2003,Utah,49,White,2106-3,322,2227843,14.5
+,2003,2003,Vermont,50,White,2106-3,83,602530,13.8
+,2003,2003,Virginia,51,Asian or Pacific Islander,A-PI,15,351495,Unreliable
+,2003,2003,Virginia,51,Black or African American,2054-5,94,1496240,6.3
+,2003,2003,Virginia,51,White,2106-3,697,5487553,12.7
+,2003,2003,Washington,53,American Indian or Alaska Native,1002-5,11,120618,Unreliable
+,2003,2003,Washington,53,Asian or Pacific Islander,A-PI,32,443413,7.2
+,2003,2003,Washington,53,Black or African American,2054-5,20,250925,8
+,2003,2003,Washington,53,White,2106-3,738,5289159,14
+,2003,2003,West Virginia,54,White,2106-3,260,1733784,15
+,2003,2003,Wisconsin,55,American Indian or Alaska Native,1002-5,10,56937,Unreliable
+,2003,2003,Wisconsin,55,Asian or Pacific Islander,A-PI,10,112146,Unreliable
+,2003,2003,Wisconsin,55,Black or African American,2054-5,25,346353,7.2
+,2003,2003,Wisconsin,55,White,2106-3,601,4963767,12.1
+,2003,2003,Wyoming,56,White,2106-3,105,480960,21.8
+,2004,2004,Alabama,1,Black or African American,2054-5,73,1199192,6.1
+,2004,2004,Alabama,1,White,2106-3,458,3255811,14.1
+,2004,2004,Alaska,2,American Indian or Alaska Native,1002-5,59,112721,52.3
+,2004,2004,Alaska,2,White,2106-3,89,478466,18.6
+,2004,2004,Arizona,4,American Indian or Alaska Native,1002-5,54,306256,17.6
+,2004,2004,Arizona,4,Black or African American,2054-5,20,226956,8.8
+,2004,2004,Arizona,4,White,2106-3,801,4965804,16.1
+,2004,2004,Arkansas,5,Black or African American,2054-5,17,438712,Unreliable
+,2004,2004,Arkansas,5,White,2106-3,341,2255345,15.1
+,2004,2004,California,6,American Indian or Alaska Native,1002-5,22,557610,3.9
+,2004,2004,California,6,Asian or Pacific Islander,A-PI,287,4750147,6
+,2004,2004,California,6,Black or African American,2054-5,142,2603152,5.5
+,2004,2004,California,6,White,2106-3,2898,27663667,10.5
+,2004,2004,Colorado,8,Asian or Pacific Islander,A-PI,14,136838,Unreliable
+,2004,2004,Colorado,8,Black or African American,2054-5,23,208322,11
+,2004,2004,Colorado,8,White,2106-3,753,4160952,18.1
+,2004,2004,Connecticut,9,Black or African American,2054-5,15,375875,Unreliable
+,2004,2004,Connecticut,9,White,2106-3,274,2986255,9.2
+,2004,2004,Delaware,10,Black or African American,2054-5,10,175605,Unreliable
+,2004,2004,Delaware,10,White,2106-3,82,626833,13.1
+,2004,2004,District of Columbia,11,Black or African American,2054-5,14,335297,Unreliable
+,2004,2004,District of Columbia,11,White,2106-3,16,210252,Unreliable
+,2004,2004,Florida,12,Asian or Pacific Islander,A-PI,20,414998,4.8
+,2004,2004,Florida,12,Black or African American,2054-5,112,2786446,4
+,2004,2004,Florida,12,White,2106-3,2251,14131892,15.9
+,2004,2004,Georgia,13,Asian or Pacific Islander,A-PI,13,256011,Unreliable
+,2004,2004,Georgia,13,Black or African American,2054-5,132,2635336,5
+,2004,2004,Georgia,13,White,2106-3,817,5841377,14
+,2004,2004,Hawaii,15,Asian or Pacific Islander,A-PI,63,852273,7.4
+,2004,2004,Hawaii,15,White,2106-3,52,383013,13.6
+,2004,2004,Idaho,16,White,2106-3,231,1338380,17.3
+,2004,2004,Illinois,17,Asian or Pacific Islander,A-PI,17,538214,Unreliable
+,2004,2004,Illinois,17,Black or African American,2054-5,85,1944473,4.4
+,2004,2004,Illinois,17,White,2106-3,923,10047833,9.2
+,2004,2004,Indiana,18,Asian or Pacific Islander,A-PI,11,87942,Unreliable
+,2004,2004,Indiana,18,Black or African American,2054-5,39,575734,6.8
+,2004,2004,Indiana,18,White,2106-3,652,5546480,11.8
+,2004,2004,Iowa,19,White,2106-3,334,2812023,11.9
+,2004,2004,Kansas,20,Black or African American,2054-5,19,175310,Unreliable
+,2004,2004,Kansas,20,White,2106-3,346,2460978,14.1
+,2004,2004,Kentucky,21,Black or African American,2054-5,11,328546,Unreliable
+,2004,2004,Kentucky,21,White,2106-3,544,3763011,14.5
+,2004,2004,Louisiana,22,Black or African American,2054-5,84,1509822,5.6
+,2004,2004,Louisiana,22,White,2106-3,450,2940900,15.3
+,2004,2004,Maine,23,White,2106-3,168,1278082,13.1
+,2004,2004,Maryland,24,Asian or Pacific Islander,A-PI,11,282937,Unreliable
+,2004,2004,Maryland,24,Black or African American,2054-5,71,1652016,4.3
+,2004,2004,Maryland,24,White,2106-3,413,3585789,11.5
+,2004,2004,Massachusetts,25,Asian or Pacific Islander,A-PI,11,313272,Unreliable
+,2004,2004,Massachusetts,25,Black or African American,2054-5,11,472524,Unreliable
+,2004,2004,Massachusetts,25,White,2106-3,397,5600102,7.1
+,2004,2004,Michigan,26,American Indian or Alaska Native,1002-5,13,78246,Unreliable
+,2004,2004,Michigan,26,Asian or Pacific Islander,A-PI,17,237897,Unreliable
+,2004,2004,Michigan,26,Black or African American,2054-5,67,1492884,4.5
+,2004,2004,Michigan,26,White,2106-3,1000,8246288,12.1
+,2004,2004,Minnesota,27,American Indian or Alaska Native,1002-5,16,68115,Unreliable
+,2004,2004,Minnesota,27,Asian or Pacific Islander,A-PI,11,186774,Unreliable
+,2004,2004,Minnesota,27,Black or African American,2054-5,11,242890,Unreliable
+,2004,2004,Minnesota,27,White,2106-3,484,4589934,10.5
+,2004,2004,Mississippi,28,Black or African American,2054-5,53,1062637,5
+,2004,2004,Mississippi,28,White,2106-3,294,1786952,16.5
+,2004,2004,Missouri,29,Black or African American,2054-5,56,685468,8.2
+,2004,2004,Missouri,29,White,2106-3,646,4937590,13.1
+,2004,2004,Montana,30,American Indian or Alaska Native,1002-5,20,63172,31.7
+,2004,2004,Montana,30,White,2106-3,154,854417,18
+,2004,2004,Nebraska,31,White,2106-3,156,1616304,9.7
+,2004,2004,Nevada,32,Asian or Pacific Islander,A-PI,12,165090,Unreliable
+,2004,2004,Nevada,32,Black or African American,2054-5,13,194114,Unreliable
+,2004,2004,Nevada,32,White,2106-3,413,1947914,21.2
+,2004,2004,New Hampshire,33,White,2106-3,130,1245528,10.4
+,2004,2004,New Jersey,34,Asian or Pacific Islander,A-PI,22,635855,3.5
+,2004,2004,New Jersey,34,Black or African American,2054-5,54,1288238,4.2
+,2004,2004,New Jersey,34,White,2106-3,521,6670703,7.8
+,2004,2004,New Mexico,35,American Indian or Alaska Native,1002-5,41,199634,20.5
+,2004,2004,New Mexico,35,White,2106-3,305,1625510,18.8
+,2004,2004,New York,36,Asian or Pacific Islander,A-PI,61,1327853,4.6
+,2004,2004,New York,36,Black or African American,2054-5,140,3464246,4
+,2004,2004,New York,36,White,2106-3,978,14222791,6.9
+,2004,2004,North Carolina,37,Black or African American,2054-5,105,1901343,5.5
+,2004,2004,North Carolina,37,White,2106-3,907,6355906,14.3
+,2004,2004,North Dakota,38,White,2106-3,65,596952,10.9
+,2004,2004,Ohio,39,Asian or Pacific Islander,A-PI,10,180109,Unreliable
+,2004,2004,Ohio,39,Black or African American,2054-5,102,1427023,7.1
+,2004,2004,Ohio,39,White,2106-3,1203,9810680,12.3
+,2004,2004,Oklahoma,40,American Indian or Alaska Native,1002-5,36,337623,10.7
+,2004,2004,Oklahoma,40,Black or African American,2054-5,20,290375,6.9
+,2004,2004,Oklahoma,40,White,2106-3,445,2833383,15.7
+,2004,2004,Oregon,41,White,2106-3,536,3281938,16.3
+,2004,2004,Pennsylvania,42,Asian or Pacific Islander,A-PI,11,297339,Unreliable
+,2004,2004,Pennsylvania,42,Black or African American,2054-5,90,1372319,6.6
+,2004,2004,Pennsylvania,42,White,2106-3,1308,10708454,12.2
+,2004,2004,Rhode Island,44,White,2106-3,80,958378,8.3
+,2004,2004,South Carolina,45,Black or African American,2054-5,61,1244041,4.9
+,2004,2004,South Carolina,45,White,2106-3,418,2894711,14.4
+,2004,2004,South Dakota,46,American Indian or Alaska Native,1002-5,24,69565,34.5
+,2004,2004,South Dakota,46,White,2106-3,87,685440,12.7
+,2004,2004,Tennessee,47,Black or African American,2054-5,55,1009077,5.5
+,2004,2004,Tennessee,47,White,2106-3,733,4799162,15.3
+,2004,2004,Texas,48,Asian or Pacific Islander,A-PI,31,802430,3.9
+,2004,2004,Texas,48,Black or African American,2054-5,137,2697339,5.1
+,2004,2004,Texas,48,White,2106-3,2121,18705854,11.3
+,2004,2004,Utah,49,White,2106-3,361,2264136,15.9
+,2004,2004,Vermont,50,White,2106-3,92,603896,15.2
+,2004,2004,Virginia,51,Asian or Pacific Islander,A-PI,25,372253,6.7
+,2004,2004,Virginia,51,Black or African American,2054-5,85,1519571,5.6
+,2004,2004,Virginia,51,White,2106-3,716,5550005,12.9
+,2004,2004,Washington,53,American Indian or Alaska Native,1002-5,18,124543,Unreliable
+,2004,2004,Washington,53,Asian or Pacific Islander,A-PI,30,461698,6.5
+,2004,2004,Washington,53,Black or African American,2054-5,22,257470,8.5
+,2004,2004,Washington,53,White,2106-3,759,5334934,14.2
+,2004,2004,West Virginia,54,White,2106-3,281,1736570,16.2
+,2004,2004,Wisconsin,55,Black or African American,2054-5,27,352749,7.7
+,2004,2004,Wisconsin,55,White,2106-3,622,4986571,12.5
+,2004,2004,Wyoming,56,White,2106-3,86,485888,17.7
+,2005,2005,Alabama,1,Black or African American,2054-5,65,1210903,5.4
+,2005,2005,Alabama,1,White,2106-3,467,3279048,14.2
+,2005,2005,Alaska,2,American Indian or Alaska Native,1002-5,51,114256,44.6
+,2005,2005,Alaska,2,White,2106-3,78,482692,16.2
+,2005,2005,Arizona,4,American Indian or Alaska Native,1002-5,58,316197,18.3
+,2005,2005,Arizona,4,Asian or Pacific Islander,A-PI,11,167814,Unreliable
+,2005,2005,Arizona,4,White,2106-3,867,5111992,17
+,2005,2005,Arkansas,5,Black or African American,2054-5,29,442674,6.6
+,2005,2005,Arkansas,5,White,2106-3,368,2278997,16.1
+,2005,2005,California,6,American Indian or Alaska Native,1002-5,18,581877,Unreliable
+,2005,2005,California,6,Asian or Pacific Islander,A-PI,247,4884264,5.1
+,2005,2005,California,6,Black or African American,2054-5,138,2615407,5.3
+,2005,2005,California,6,White,2106-3,2792,27746395,10.1
+,2005,2005,Colorado,8,Black or African American,2054-5,22,211476,10.4
+,2005,2005,Colorado,8,White,2106-3,766,4206548,18.2
+,2005,2005,Connecticut,9,Black or African American,2054-5,16,381552,Unreliable
+,2005,2005,Connecticut,9,White,2106-3,272,2984742,9.1
+,2005,2005,Delaware,10,White,2106-3,73,633398,11.5
+,2005,2005,District of Columbia,11,Black or African American,2054-5,16,329329,Unreliable
+,2005,2005,District of Columbia,11,White,2106-3,14,215554,Unreliable
+,2005,2005,Florida,12,Asian or Pacific Islander,A-PI,25,445860,5.6
+,2005,2005,Florida,12,Black or African American,2054-5,128,2881786,4.4
+,2005,2005,Florida,12,White,2106-3,2180,14428647,15.1
+,2005,2005,Georgia,13,Black or African American,2054-5,141,2702396,5.2
+,2005,2005,Georgia,13,White,2106-3,773,5911406,13.1
+,2005,2005,Hawaii,15,Asian or Pacific Islander,A-PI,62,861818,7.2
+,2005,2005,Hawaii,15,White,2106-3,44,391585,11.2
+,2005,2005,Idaho,16,White,2106-3,220,1371294,16
+,2005,2005,Illinois,17,Asian or Pacific Islander,A-PI,23,555402,4.1
+,2005,2005,Illinois,17,Black or African American,2054-5,86,1944853,4.4
+,2005,2005,Illinois,17,White,2106-3,975,10046377,9.7
+,2005,2005,Indiana,18,Black or African American,2054-5,31,586943,5.3
+,2005,2005,Indiana,18,White,2106-3,712,5574542,12.8
+,2005,2005,Iowa,19,White,2106-3,323,2816975,11.5
+,2005,2005,Kansas,20,Black or African American,2054-5,14,176749,Unreliable
+,2005,2005,Kansas,20,White,2106-3,342,2467205,13.9
+,2005,2005,Kentucky,21,Black or African American,2054-5,22,334402,6.6
+,2005,2005,Kentucky,21,White,2106-3,543,3790752,14.3
+,2005,2005,Louisiana,22,Black or African American,2054-5,65,1521031,4.3
+,2005,2005,Louisiana,22,White,2106-3,431,2951023,14.6
+,2005,2005,Maine,23,White,2106-3,171,1281091,13.3
+,2005,2005,Maryland,24,Asian or Pacific Islander,A-PI,14,295829,Unreliable
+,2005,2005,Maryland,24,Black or African American,2054-5,75,1680707,4.5
+,2005,2005,Maryland,24,White,2106-3,381,3587986,10.6
+,2005,2005,Massachusetts,25,Asian or Pacific Islander,A-PI,15,323694,Unreliable
+,2005,2005,Massachusetts,25,Black or African American,2054-5,18,481830,Unreliable
+,2005,2005,Massachusetts,25,White,2106-3,446,5570042,8
+,2005,2005,Michigan,26,Black or African American,2054-5,82,1494262,5.5
+,2005,2005,Michigan,26,White,2106-3,1014,8231910,12.3
+,2005,2005,Minnesota,27,American Indian or Alaska Native,1002-5,21,70018,30
+,2005,2005,Minnesota,27,Asian or Pacific Islander,A-PI,13,194207,Unreliable
+,2005,2005,Minnesota,27,White,2106-3,504,4600739,11
+,2005,2005,Mississippi,28,Black or African American,2054-5,57,1070369,5.3
+,2005,2005,Mississippi,28,White,2106-3,302,1794500,16.8
+,2005,2005,Missouri,29,Asian or Pacific Islander,A-PI,10,95260,Unreliable
+,2005,2005,Missouri,29,Black or African American,2054-5,42,694231,6
+,2005,2005,Missouri,29,White,2106-3,669,4965900,13.5
+,2005,2005,Montana,30,American Indian or Alaska Native,1002-5,15,64369,Unreliable
+,2005,2005,Montana,30,White,2106-3,191,862916,22.1
+,2005,2005,Nebraska,31,White,2106-3,176,1624229,10.8
+,2005,2005,Nevada,32,Black or African American,2054-5,16,207275,Unreliable
+,2005,2005,Nevada,32,White,2106-3,450,2002853,22.5
+,2005,2005,New Hampshire,33,White,2106-3,162,1251338,12.9
+,2005,2005,New Jersey,34,Asian or Pacific Islander,A-PI,26,661776,3.9
+,2005,2005,New Jersey,34,Black or African American,2054-5,38,1293607,2.9
+,2005,2005,New Jersey,34,White,2106-3,471,6654085,7.1
+,2005,2005,New Mexico,35,American Indian or Alaska Native,1002-5,30,202659,14.8
+,2005,2005,New Mexico,35,White,2106-3,307,1648132,18.6
+,2005,2005,New York,36,Asian or Pacific Islander,A-PI,74,1362726,5.4
+,2005,2005,New York,36,Black or African American,2054-5,116,3457681,3.4
+,2005,2005,New York,36,White,2106-3,997,14146723,7
+,2005,2005,North Carolina,37,Black or African American,2054-5,101,1936792,5.2
+,2005,2005,North Carolina,37,White,2106-3,891,6456650,13.8
+,2005,2005,North Dakota,38,American Indian or Alaska Native,1002-5,17,35578,Unreliable
+,2005,2005,North Dakota,38,White,2106-3,74,596748,12.4
+,2005,2005,Ohio,39,Black or African American,2054-5,81,1441701,5.6
+,2005,2005,Ohio,39,White,2106-3,1256,9798651,12.8
+,2005,2005,Oklahoma,40,American Indian or Alaska Native,1002-5,48,344806,13.9
+,2005,2005,Oklahoma,40,Black or African American,2054-5,25,293204,8.5
+,2005,2005,Oklahoma,40,White,2106-3,436,2845221,15.3
+,2005,2005,Oregon,41,Asian or Pacific Islander,A-PI,10,150553,Unreliable
+,2005,2005,Oregon,41,White,2106-3,540,3315027,16.3
+,2005,2005,Pennsylvania,42,Asian or Pacific Islander,A-PI,14,312561,Unreliable
+,2005,2005,Pennsylvania,42,Black or African American,2054-5,102,1395186,7.3
+,2005,2005,Pennsylvania,42,White,2106-3,1311,10707324,12.2
+,2005,2005,Rhode Island,44,White,2106-3,67,949218,7.1
+,2005,2005,South Carolina,45,Black or African American,2054-5,59,1255105,4.7
+,2005,2005,South Carolina,45,White,2106-3,445,2938716,15.1
+,2005,2005,South Dakota,46,American Indian or Alaska Native,1002-5,16,70603,Unreliable
+,2005,2005,South Dakota,46,White,2106-3,105,688470,15.3
+,2005,2005,Tennessee,47,Black or African American,2054-5,61,1026372,5.9
+,2005,2005,Tennessee,47,White,2106-3,791,4856223,16.3
+,2005,2005,Texas,48,Asian or Pacific Islander,A-PI,31,844072,3.7
+,2005,2005,Texas,48,Black or African American,2054-5,155,2753898,5.6
+,2005,2005,Texas,48,White,2106-3,2220,18980757,11.7
+,2005,2005,Utah,49,White,2106-3,322,2313863,13.9
+,2005,2005,Vermont,50,White,2106-3,77,604380,12.7
+,2005,2005,Virginia,51,Asian or Pacific Islander,A-PI,15,394694,Unreliable
+,2005,2005,Virginia,51,Black or African American,2054-5,90,1541027,5.8
+,2005,2005,Virginia,51,White,2106-3,758,5605707,13.5
+,2005,2005,Washington,53,American Indian or Alaska Native,1002-5,12,127959,Unreliable
+,2005,2005,Washington,53,Asian or Pacific Islander,A-PI,32,481562,6.6
+,2005,2005,Washington,53,Black or African American,2054-5,16,264736,Unreliable
+,2005,2005,Washington,53,White,2106-3,761,5383048,14.1
+,2005,2005,West Virginia,54,White,2106-3,249,1739381,14.3
+,2005,2005,Wisconsin,55,American Indian or Alaska Native,1002-5,20,59895,33.4
+,2005,2005,Wisconsin,55,Black or African American,2054-5,19,359771,Unreliable
+,2005,2005,Wisconsin,55,White,2106-3,593,5005823,11.8
+,2005,2005,Wyoming,56,White,2106-3,88,490272,17.9
+,2006,2006,Alabama,1,Black or African American,2054-5,62,1230534,5
+,2006,2006,Alabama,1,White,2106-3,512,3314160,15.4
+,2006,2006,Alaska,2,American Indian or Alaska Native,1002-5,48,115621,41.5
+,2006,2006,Alaska,2,White,2106-3,83,487954,17
+,2006,2006,Arizona,4,American Indian or Alaska Native,1002-5,55,327058,16.8
+,2006,2006,Arizona,4,Asian or Pacific Islander,A-PI,14,184455,Unreliable
+,2006,2006,Arizona,4,Black or African American,2054-5,21,262150,8
+,2006,2006,Arizona,4,White,2106-3,886,5255478,16.9
+,2006,2006,Arkansas,5,Black or African American,2054-5,21,450382,4.7
+,2006,2006,Arkansas,5,White,2106-3,346,2308449,15
+,2006,2006,California,6,American Indian or Alaska Native,1002-5,13,607308,Unreliable
+,2006,2006,California,6,Asian or Pacific Islander,A-PI,265,5013374,5.3
+,2006,2006,California,6,Black or African American,2054-5,131,2626937,5
+,2006,2006,California,6,White,2106-3,2914,27773583,10.5
+,2006,2006,Colorado,8,Asian or Pacific Islander,A-PI,16,147694,Unreliable
+,2006,2006,Colorado,8,Black or African American,2054-5,21,218810,9.6
+,2006,2006,Colorado,8,White,2106-3,686,4278464,16
+,2006,2006,Connecticut,9,Asian or Pacific Islander,A-PI,11,130310,Unreliable
+,2006,2006,Connecticut,9,Black or African American,2054-5,16,388120,Unreliable
+,2006,2006,Connecticut,9,White,2106-3,264,2982114,8.9
+,2006,2006,Delaware,10,Black or African American,2054-5,10,187148,Unreliable
+,2006,2006,Delaware,10,White,2106-3,80,640053,12.5
+,2006,2006,District of Columbia,11,Black or African American,2054-5,13,325064,Unreliable
+,2006,2006,District of Columbia,11,White,2106-3,14,221264,Unreliable
+,2006,2006,Florida,12,Asian or Pacific Islander,A-PI,30,473540,6.3
+,2006,2006,Florida,12,Black or African American,2054-5,101,2969250,3.4
+,2006,2006,Florida,12,White,2106-3,2290,14634243,15.6
+,2006,2006,Georgia,13,Asian or Pacific Islander,A-PI,21,293130,7.2
+,2006,2006,Georgia,13,Black or African American,2054-5,131,2805927,4.7
+,2006,2006,Georgia,13,White,2106-3,769,6014480,12.8
+,2006,2006,Hawaii,15,Asian or Pacific Islander,A-PI,71,870882,8.2
+,2006,2006,Hawaii,15,White,2106-3,49,399166,12.3
+,2006,2006,Idaho,16,White,2106-3,218,1408456,15.5
+,2006,2006,Illinois,17,Asian or Pacific Islander,A-PI,18,574103,Unreliable
+,2006,2006,Illinois,17,Black or African American,2054-5,93,1947836,4.8
+,2006,2006,Illinois,17,White,2106-3,895,10054436,8.9
+,2006,2006,Indiana,18,Black or African American,2054-5,33,600368,5.5
+,2006,2006,Indiana,18,White,2106-3,787,5608431,14
+,2006,2006,Iowa,19,Black or African American,2054-5,10,90031,Unreliable
+,2006,2006,Iowa,19,White,2106-3,324,2828308,11.5
+,2006,2006,Kansas,20,Black or African American,2054-5,15,180509,Unreliable
+,2006,2006,Kansas,20,White,2106-3,355,2478392,14.3
+,2006,2006,Kentucky,21,Black or African American,2054-5,19,339736,Unreliable
+,2006,2006,Kentucky,21,White,2106-3,596,3819323,15.6
+,2006,2006,Louisiana,22,Black or African American,2054-5,63,1369467,4.6
+,2006,2006,Louisiana,22,White,2106-3,427,2834087,15.1
+,2006,2006,Maine,23,White,2106-3,155,1284124,12.1
+,2006,2006,Maryland,24,Asian or Pacific Islander,A-PI,20,307699,6.5
+,2006,2006,Maryland,24,Black or African American,2054-5,82,1705298,4.8
+,2006,2006,Maryland,24,White,2106-3,391,3584885,10.9
+,2006,2006,Massachusetts,25,Asian or Pacific Islander,A-PI,14,334515,Unreliable
+,2006,2006,Massachusetts,25,Black or African American,2054-5,17,492621,Unreliable
+,2006,2006,Massachusetts,25,White,2106-3,418,5553858,7.5
+,2006,2006,Michigan,26,American Indian or Alaska Native,1002-5,10,80565,Unreliable
+,2006,2006,Michigan,26,Asian or Pacific Islander,A-PI,20,252099,7.9
+,2006,2006,Michigan,26,Black or African American,2054-5,93,1494911,6.2
+,2006,2006,Michigan,26,White,2106-3,1014,8208506,12.4
+,2006,2006,Minnesota,27,American Indian or Alaska Native,1002-5,13,71771,Unreliable
+,2006,2006,Minnesota,27,Asian or Pacific Islander,A-PI,10,202595,Unreliable
+,2006,2006,Minnesota,27,Black or African American,2054-5,20,268698,7.4
+,2006,2006,Minnesota,27,White,2106-3,511,4620491,11.1
+,2006,2006,Mississippi,28,Black or African American,2054-5,53,1080399,4.9
+,2006,2006,Mississippi,28,White,2106-3,270,1782659,15.1
+,2006,2006,Missouri,29,Black or African American,2054-5,43,704464,6.1
+,2006,2006,Missouri,29,White,2106-3,744,5002188,14.9
+,2006,2006,Montana,30,American Indian or Alaska Native,1002-5,15,65146,Unreliable
+,2006,2006,Montana,30,White,2106-3,172,874054,19.7
+,2006,2006,Nebraska,31,White,2106-3,198,1630684,12.1
+,2006,2006,Nevada,32,Asian or Pacific Islander,A-PI,15,197762,Unreliable
+,2006,2006,Nevada,32,Black or African American,2054-5,21,221504,9.5
+,2006,2006,Nevada,32,White,2106-3,444,2060010,21.6
+,2006,2006,New Hampshire,33,White,2106-3,151,1258795,12
+,2006,2006,New Jersey,34,Asian or Pacific Islander,A-PI,21,684887,3.1
+,2006,2006,New Jersey,34,Black or African American,2054-5,49,1298653,3.8
+,2006,2006,New Jersey,34,White,2106-3,512,6632976,7.7
+,2006,2006,New Mexico,35,American Indian or Alaska Native,1002-5,30,205369,14.6
+,2006,2006,New Mexico,35,White,2106-3,314,1672039,18.8
+,2006,2006,New York,36,Asian or Pacific Islander,A-PI,63,1398778,4.5
+,2006,2006,New York,36,Black or African American,2054-5,108,3453892,3.1
+,2006,2006,New York,36,White,2106-3,1149,14077386,8.2
+,2006,2006,North Carolina,37,American Indian or Alaska Native,1002-5,10,136103,Unreliable
+,2006,2006,North Carolina,37,Black or African American,2054-5,93,1986797,4.7
+,2006,2006,North Carolina,37,White,2106-3,987,6600137,15
+,2006,2006,North Dakota,38,American Indian or Alaska Native,1002-5,16,36431,Unreliable
+,2006,2006,North Dakota,38,White,2106-3,74,598442,12.4
+,2006,2006,Ohio,39,Black or African American,2054-5,95,1457396,6.5
+,2006,2006,Ohio,39,White,2106-3,1219,9793409,12.4
+,2006,2006,Oklahoma,40,American Indian or Alaska Native,1002-5,45,353538,12.7
+,2006,2006,Oklahoma,40,Black or African American,2054-5,17,299029,Unreliable
+,2006,2006,Oklahoma,40,White,2106-3,470,2873569,16.4
+,2006,2006,Oregon,41,American Indian or Alaska Native,1002-5,10,70114,Unreliable
+,2006,2006,Oregon,41,White,2106-3,549,3360395,16.3
+,2006,2006,Pennsylvania,42,Asian or Pacific Islander,A-PI,14,328092,Unreliable
+,2006,2006,Pennsylvania,42,Black or African American,2054-5,82,1421259,5.8
+,2006,2006,Pennsylvania,42,White,2106-3,1293,10724159,12.1
+,2006,2006,Rhode Island,44,White,2106-3,87,942374,9.2
+,2006,2006,South Carolina,45,Black or African American,2054-5,61,1273536,4.8
+,2006,2006,South Carolina,45,White,2106-3,458,3003350,15.2
+,2006,2006,South Dakota,46,American Indian or Alaska Native,1002-5,20,71942,27.8
+,2006,2006,South Dakota,46,White,2106-3,105,693610,15.1
+,2006,2006,Tennessee,47,Black or African American,2054-5,51,1047600,4.9
+,2006,2006,Tennessee,47,White,2106-3,815,4926508,16.5
+,2006,2006,Texas,48,Asian or Pacific Islander,A-PI,40,895701,4.5
+,2006,2006,Texas,48,Black or African American,2054-5,130,2904002,4.5
+,2006,2006,Texas,48,White,2106-3,2170,19346962,11.2
+,2006,2006,Utah,49,White,2106-3,350,2374257,14.7
+,2006,2006,Vermont,50,White,2106-3,79,605116,13.1
+,2006,2006,Virginia,51,Asian or Pacific Islander,A-PI,16,415502,Unreliable
+,2006,2006,Virginia,51,Black or African American,2054-5,90,1565510,5.7
+,2006,2006,Virginia,51,White,2106-3,768,5654946,13.6
+,2006,2006,Washington,53,American Indian or Alaska Native,1002-5,30,131727,22.8
+,2006,2006,Washington,53,Asian or Pacific Islander,A-PI,40,505829,7.9
+,2006,2006,Washington,53,Black or African American,2054-5,23,275137,8.4
+,2006,2006,Washington,53,White,2106-3,716,5458060,13.1
+,2006,2006,West Virginia,54,White,2106-3,260,1744654,14.9
+,2006,2006,Wisconsin,55,American Indian or Alaska Native,1002-5,10,61283,Unreliable
+,2006,2006,Wisconsin,55,Asian or Pacific Islander,A-PI,13,125123,Unreliable
+,2006,2006,Wisconsin,55,Black or African American,2054-5,30,367132,8.2
+,2006,2006,Wisconsin,55,White,2106-3,615,5024117,12.2
+,2006,2006,Wyoming,56,White,2106-3,107,497710,21.5
+,2007,2007,Alabama,1,Black or African American,2054-5,51,1243867,4.1
+,2007,2007,Alabama,1,White,2106-3,536,3340633,16
+,2007,2007,Alaska,2,American Indian or Alaska Native,1002-5,48,116298,41.3
+,2007,2007,Alaska,2,White,2106-3,94,490413,19.2
+,2007,2007,Arizona,4,American Indian or Alaska Native,1002-5,36,336800,10.7
+,2007,2007,Arizona,4,Asian or Pacific Islander,A-PI,12,197939,Unreliable
+,2007,2007,Arizona,4,Black or African American,2054-5,18,278537,Unreliable
+,2007,2007,Arizona,4,White,2106-3,949,5354405,17.7
+,2007,2007,Arkansas,5,Black or African American,2054-5,26,453433,5.7
+,2007,2007,Arkansas,5,White,2106-3,372,2328952,16
+,2007,2007,California,6,American Indian or Alaska Native,1002-5,24,636353,3.8
+,2007,2007,California,6,Asian or Pacific Islander,A-PI,325,5142253,6.3
+,2007,2007,California,6,Black or African American,2054-5,166,2639369,6.3
+,2007,2007,California,6,White,2106-3,3071,27832336,11
+,2007,2007,Colorado,8,American Indian or Alaska Native,1002-5,10,79271,Unreliable
+,2007,2007,Colorado,8,Asian or Pacific Islander,A-PI,13,153365,Unreliable
+,2007,2007,Colorado,8,Black or African American,2054-5,22,224746,9.8
+,2007,2007,Colorado,8,White,2106-3,766,4346486,17.6
+,2007,2007,Connecticut,9,White,2106-3,259,2979313,8.7
+,2007,2007,Delaware,10,White,2106-3,86,645106,13.3
+,2007,2007,District of Columbia,11,Black or African American,2054-5,20,321494,6.2
+,2007,2007,District of Columbia,11,White,2106-3,14,228646,Unreliable
+,2007,2007,Florida,12,Asian or Pacific Islander,A-PI,44,494671,8.9
+,2007,2007,Florida,12,Black or African American,2054-5,133,3029024,4.4
+,2007,2007,Florida,12,White,2106-3,2403,14750985,16.3
+,2007,2007,Georgia,13,Asian or Pacific Islander,A-PI,12,310982,Unreliable
+,2007,2007,Georgia,13,Black or African American,2054-5,122,2891925,4.2
+,2007,2007,Georgia,13,White,2106-3,861,6101972,14.1
+,2007,2007,Hawaii,15,Asian or Pacific Islander,A-PI,71,879253,8.1
+,2007,2007,Hawaii,15,White,2106-3,59,397872,14.8
+,2007,2007,Idaho,16,White,2106-3,214,1441249,14.8
+,2007,2007,Illinois,17,Asian or Pacific Islander,A-PI,32,594345,5.4
+,2007,2007,Illinois,17,Black or African American,2054-5,91,1951157,4.7
+,2007,2007,Illinois,17,White,2106-3,980,10078343,9.7
+,2007,2007,Indiana,18,Black or African American,2054-5,27,612333,4.4
+,2007,2007,Indiana,18,White,2106-3,759,5637322,13.5
+,2007,2007,Iowa,19,White,2106-3,315,2837532,11.1
+,2007,2007,Kansas,20,White,2106-3,367,2492659,14.7
+,2007,2007,Kentucky,21,Black or African American,2054-5,29,347061,8.4
+,2007,2007,Kentucky,21,White,2106-3,615,3846623,16
+,2007,2007,Louisiana,22,Black or African American,2054-5,72,1411396,5.1
+,2007,2007,Louisiana,22,White,2106-3,445,2861100,15.6
+,2007,2007,Maine,23,White,2106-3,185,1285828,14.4
+,2007,2007,Maryland,24,Asian or Pacific Islander,A-PI,16,319141,Unreliable
+,2007,2007,Maryland,24,Black or African American,2054-5,83,1724204,4.8
+,2007,2007,Maryland,24,White,2106-3,417,3578891,11.7
+,2007,2007,Massachusetts,25,Asian or Pacific Islander,A-PI,11,345003,Unreliable
+,2007,2007,Massachusetts,25,Black or African American,2054-5,22,503993,4.4
+,2007,2007,Massachusetts,25,White,2106-3,483,5552029,8.7
+,2007,2007,Michigan,26,Black or African American,2054-5,74,1492428,5
+,2007,2007,Michigan,26,White,2106-3,1038,8170744,12.7
+,2007,2007,Minnesota,27,American Indian or Alaska Native,1002-5,16,73720,Unreliable
+,2007,2007,Minnesota,27,Asian or Pacific Islander,A-PI,10,211024,Unreliable
+,2007,2007,Minnesota,27,Black or African American,2054-5,14,282436,Unreliable
+,2007,2007,Minnesota,27,White,2106-3,532,4640023,11.5
+,2007,2007,Mississippi,28,Black or African American,2054-5,62,1092496,5.7
+,2007,2007,Mississippi,28,White,2106-3,331,1792287,18.5
+,2007,2007,Missouri,29,Black or African American,2054-5,42,712454,5.9
+,2007,2007,Missouri,29,White,2106-3,758,5033689,15.1
+,2007,2007,Montana,30,American Indian or Alaska Native,1002-5,12,66288,Unreliable
+,2007,2007,Montana,30,White,2106-3,184,884439,20.8
+,2007,2007,Nebraska,31,White,2106-3,175,1637196,10.7
+,2007,2007,Nevada,32,Asian or Pacific Islander,A-PI,17,213624,Unreliable
+,2007,2007,Nevada,32,Black or African American,2054-5,18,233966,Unreliable
+,2007,2007,Nevada,32,White,2106-3,432,2107687,20.5
+,2007,2007,New Hampshire,33,White,2106-3,154,1261147,12.2
+,2007,2007,New Jersey,34,Asian or Pacific Islander,A-PI,31,710111,4.4
+,2007,2007,New Jersey,34,Black or African American,2054-5,35,1304334,2.7
+,2007,2007,New Jersey,34,White,2106-3,526,6615252,8
+,2007,2007,New Mexico,35,American Indian or Alaska Native,1002-5,52,209060,24.9
+,2007,2007,New Mexico,35,White,2106-3,342,1693476,20.2
+,2007,2007,New York,36,Asian or Pacific Islander,A-PI,72,1439779,5
+,2007,2007,New York,36,Black or African American,2054-5,125,3456802,3.6
+,2007,2007,New York,36,White,2106-3,1194,14051624,8.5
+,2007,2007,North Carolina,37,American Indian or Alaska Native,1002-5,15,141646,Unreliable
+,2007,2007,North Carolina,37,Black or African American,2054-5,83,2035660,4.1
+,2007,2007,North Carolina,37,White,2106-3,971,6733129,14.4
+,2007,2007,North Dakota,38,American Indian or Alaska Native,1002-5,10,37093,Unreliable
+,2007,2007,North Dakota,38,White,2106-3,84,600351,14
+,2007,2007,Ohio,39,Black or African American,2054-5,93,1473382,6.3
+,2007,2007,Ohio,39,White,2106-3,1194,9789179,12.2
+,2007,2007,Oklahoma,40,American Indian or Alaska Native,1002-5,41,361816,11.3
+,2007,2007,Oklahoma,40,Black or African American,2054-5,20,304098,6.6
+,2007,2007,Oklahoma,40,White,2106-3,461,2897699,15.9
+,2007,2007,Oregon,41,Asian or Pacific Islander,A-PI,10,163331,Unreliable
+,2007,2007,Oregon,41,White,2106-3,572,3399653,16.8
+,2007,2007,Pennsylvania,42,Asian or Pacific Islander,A-PI,16,342928,Unreliable
+,2007,2007,Pennsylvania,42,Black or African American,2054-5,76,1445762,5.3
+,2007,2007,Pennsylvania,42,White,2106-3,1342,10735235,12.5
+,2007,2007,Rhode Island,44,White,2106-3,93,934336,10
+,2007,2007,South Carolina,45,Black or African American,2054-5,53,1289462,4.1
+,2007,2007,South Carolina,45,White,2106-3,470,3068677,15.3
+,2007,2007,South Dakota,46,American Indian or Alaska Native,1002-5,20,73358,27.3
+,2007,2007,South Dakota,46,White,2106-3,78,699485,11.2
+,2007,2007,Tennessee,47,Black or African American,2054-5,54,1062187,5.1
+,2007,2007,Tennessee,47,White,2106-3,778,4992038,15.6
+,2007,2007,Texas,48,Asian or Pacific Islander,A-PI,49,948153,5.2
+,2007,2007,Texas,48,Black or African American,2054-5,120,2962118,4.1
+,2007,2007,Texas,48,White,2106-3,2260,19694301,11.5
+,2007,2007,Utah,49,American Indian or Alaska Native,1002-5,10,41360,Unreliable
+,2007,2007,Utah,49,White,2106-3,362,2437796,14.8
+,2007,2007,Vermont,50,White,2106-3,88,604985,14.5
+,2007,2007,Virginia,51,Asian or Pacific Islander,A-PI,25,435854,5.7
+,2007,2007,Virginia,51,Black or African American,2054-5,88,1583256,5.6
+,2007,2007,Virginia,51,White,2106-3,762,5692111,13.4
+,2007,2007,Washington,53,American Indian or Alaska Native,1002-5,15,136097,Unreliable
+,2007,2007,Washington,53,Asian or Pacific Islander,A-PI,31,527842,5.9
+,2007,2007,Washington,53,Black or African American,2054-5,18,283382,Unreliable
+,2007,2007,Washington,53,White,2106-3,798,5514266,14.5
+,2007,2007,West Virginia,54,Black or African American,2054-5,10,67505,Unreliable
+,2007,2007,West Virginia,54,White,2106-3,288,1749103,16.5
+,2007,2007,Wisconsin,55,Asian or Pacific Islander,A-PI,12,129485,Unreliable
+,2007,2007,Wisconsin,55,Black or African American,2054-5,23,374709,6.1
+,2007,2007,Wisconsin,55,White,2106-3,686,5043468,13.6
+,2007,2007,Wyoming,56,White,2106-3,93,508757,18.3
+,2008,2008,Alabama,1,Black or African American,2054-5,67,1259177,5.3
+,2008,2008,Alabama,1,White,2106-3,531,3366536,15.8
+,2008,2008,Alaska,2,American Indian or Alaska Native,1002-5,52,117376,44.3
+,2008,2008,Alaska,2,White,2106-3,112,493965,22.7
+,2008,2008,Arizona,4,American Indian or Alaska Native,1002-5,53,346539,15.3
+,2008,2008,Arizona,4,Asian or Pacific Islander,A-PI,14,209252,Unreliable
+,2008,2008,Arizona,4,Black or African American,2054-5,20,294617,6.8
+,2008,2008,Arizona,4,White,2106-3,885,5429954,16.3
+,2008,2008,Arkansas,5,Black or African American,2054-5,25,458375,5.5
+,2008,2008,Arkansas,5,White,2106-3,418,2346846,17.8
+,2008,2008,California,6,American Indian or Alaska Native,1002-5,26,669667,3.9
+,2008,2008,California,6,Asian or Pacific Islander,A-PI,309,5281970,5.9
+,2008,2008,California,6,Black or African American,2054-5,176,2662354,6.6
+,2008,2008,California,6,White,2106-3,3254,27990346,11.6
+,2008,2008,Colorado,8,Asian or Pacific Islander,A-PI,15,159295,Unreliable
+,2008,2008,Colorado,8,Black or African American,2054-5,21,231792,9.1
+,2008,2008,Colorado,8,White,2106-3,759,4414527,17.2
+,2008,2008,Connecticut,9,Black or African American,2054-5,11,401643,Unreliable
+,2008,2008,Connecticut,9,White,2106-3,299,2984016,10
+,2008,2008,Delaware,10,Black or African American,2054-5,14,197813,Unreliable
+,2008,2008,Delaware,10,White,2106-3,93,650311,14.3
+,2008,2008,District of Columbia,11,Black or African American,2054-5,18,318392,Unreliable
+,2008,2008,District of Columbia,11,White,2106-3,22,235420,9.3
+,2008,2008,Florida,12,Asian or Pacific Islander,A-PI,21,512331,4.1
+,2008,2008,Florida,12,Black or African American,2054-5,127,3086395,4.1
+,2008,2008,Florida,12,White,2106-3,2583,14832937,17.4
+,2008,2008,Georgia,13,Asian or Pacific Islander,A-PI,22,327759,6.7
+,2008,2008,Georgia,13,Black or African American,2054-5,144,2962628,4.9
+,2008,2008,Georgia,13,White,2106-3,814,6165916,13.2
+,2008,2008,Hawaii,15,Asian or Pacific Islander,A-PI,72,889527,8.1
+,2008,2008,Hawaii,15,White,2106-3,59,403775,14.6
+,2008,2008,Idaho,16,White,2106-3,241,1467743,16.4
+,2008,2008,Illinois,17,Asian or Pacific Islander,A-PI,22,612326,3.6
+,2008,2008,Illinois,17,Black or African American,2054-5,84,1955231,4.3
+,2008,2008,Illinois,17,White,2106-3,1086,10102663,10.7
+,2008,2008,Indiana,18,Black or African American,2054-5,29,624185,4.6
+,2008,2008,Indiana,18,White,2106-3,776,5664810,13.7
+,2008,2008,Iowa,19,White,2106-3,367,2847918,12.9
+,2008,2008,Kansas,20,Black or African American,2054-5,15,188485,Unreliable
+,2008,2008,Kansas,20,White,2106-3,318,2508363,12.7
+,2008,2008,Kentucky,21,Black or African American,2054-5,19,352036,Unreliable
+,2008,2008,Kentucky,21,White,2106-3,588,3872310,15.2
+,2008,2008,Louisiana,22,Black or African American,2054-5,74,1444476,5.1
+,2008,2008,Louisiana,22,White,2106-3,450,2883647,15.6
+,2008,2008,Maine,23,White,2106-3,182,1287317,14.1
+,2008,2008,Maryland,24,Asian or Pacific Islander,A-PI,20,330748,6
+,2008,2008,Maryland,24,Black or African American,2054-5,80,1741767,4.6
+,2008,2008,Maryland,24,White,2106-3,403,3579667,11.3
+,2008,2008,Massachusetts,25,Asian or Pacific Islander,A-PI,11,357575,Unreliable
+,2008,2008,Massachusetts,25,Black or African American,2054-5,15,517040,Unreliable
+,2008,2008,Massachusetts,25,White,2106-3,482,5562217,8.7
+,2008,2008,Michigan,26,Asian or Pacific Islander,A-PI,11,260068,Unreliable
+,2008,2008,Michigan,26,Black or African American,2054-5,103,1485681,6.9
+,2008,2008,Michigan,26,White,2106-3,1061,8118649,13.1
+,2008,2008,Minnesota,27,American Indian or Alaska Native,1002-5,10,75748,Unreliable
+,2008,2008,Minnesota,27,Asian or Pacific Islander,A-PI,12,219151,Unreliable
+,2008,2008,Minnesota,27,Black or African American,2054-5,23,294544,7.8
+,2008,2008,Minnesota,27,White,2106-3,550,4657575,11.8
+,2008,2008,Mississippi,28,Black or African American,2054-5,51,1103216,4.6
+,2008,2008,Mississippi,28,White,2106-3,356,1799399,19.8
+,2008,2008,Missouri,29,Black or African American,2054-5,39,719723,5.4
+,2008,2008,Missouri,29,White,2106-3,737,5057536,14.6
+,2008,2008,Montana,30,American Indian or Alaska Native,1002-5,16,67202,Unreliable
+,2008,2008,Montana,30,White,2106-3,186,894799,20.8
+,2008,2008,Nebraska,31,White,2106-3,179,1644461,10.9
+,2008,2008,Nevada,32,Asian or Pacific Islander,A-PI,12,226589,Unreliable
+,2008,2008,Nevada,32,Black or African American,2054-5,17,244200,Unreliable
+,2008,2008,Nevada,32,White,2106-3,494,2135244,23.1
+,2008,2008,New Hampshire,33,White,2106-3,179,1262351,14.2
+,2008,2008,New Jersey,34,Asian or Pacific Islander,A-PI,37,736423,5
+,2008,2008,New Jersey,34,Black or African American,2054-5,42,1311696,3.2
+,2008,2008,New Jersey,34,White,2106-3,532,6611708,8
+,2008,2008,New Mexico,35,American Indian or Alaska Native,1002-5,51,213396,23.9
+,2008,2008,New Mexico,35,White,2106-3,356,1707457,20.8
+,2008,2008,New York,36,Asian or Pacific Islander,A-PI,69,1485783,4.6
+,2008,2008,New York,36,Black or African American,2054-5,115,3473867,3.3
+,2008,2008,New York,36,White,2106-3,1216,14057786,8.7
+,2008,2008,North Carolina,37,American Indian or Alaska Native,1002-5,12,147170,Unreliable
+,2008,2008,North Carolina,37,Asian or Pacific Islander,A-PI,17,221145,Unreliable
+,2008,2008,North Carolina,37,Black or African American,2054-5,112,2084901,5.4
+,2008,2008,North Carolina,37,White,2106-3,1019,6856233,14.9
+,2008,2008,North Dakota,38,White,2106-3,77,603568,12.8
+,2008,2008,Ohio,39,Asian or Pacific Islander,A-PI,13,207654,Unreliable
+,2008,2008,Ohio,39,Black or African American,2054-5,114,1488002,7.7
+,2008,2008,Ohio,39,White,2106-3,1281,9781972,13.1
+,2008,2008,Oklahoma,40,American Indian or Alaska Native,1002-5,38,370624,10.3
+,2008,2008,Oklahoma,40,Black or African American,2054-5,23,307270,7.5
+,2008,2008,Oklahoma,40,White,2106-3,507,2917406,17.4
+,2008,2008,Oregon,41,White,2106-3,550,3434397,16
+,2008,2008,Pennsylvania,42,Asian or Pacific Islander,A-PI,12,356895,Unreliable
+,2008,2008,Pennsylvania,42,Black or African American,2054-5,81,1469600,5.5
+,2008,2008,Pennsylvania,42,White,2106-3,1444,10743098,13.4
+,2008,2008,Rhode Island,44,White,2106-3,105,929381,11.3
+,2008,2008,South Carolina,45,Black or African American,2054-5,61,1308465,4.7
+,2008,2008,South Carolina,45,White,2106-3,499,3129618,15.9
+,2008,2008,South Dakota,46,American Indian or Alaska Native,1002-5,27,74790,36.1
+,2008,2008,South Dakota,46,White,2106-3,96,704618,13.6
+,2008,2008,Tennessee,47,Black or African American,2054-5,79,1074684,7.4
+,2008,2008,Tennessee,47,White,2106-3,886,5046296,17.6
+,2008,2008,Texas,48,Asian or Pacific Islander,A-PI,32,1000104,3.2
+,2008,2008,Texas,48,Black or African American,2054-5,114,3027152,3.8
+,2008,2008,Texas,48,White,2106-3,2397,20037899,12
+,2008,2008,Utah,49,White,2106-3,372,2495003,14.9
+,2008,2008,Vermont,50,White,2106-3,93,605092,15.4
+,2008,2008,Virginia,51,Asian or Pacific Islander,A-PI,34,455516,7.5
+,2008,2008,Virginia,51,Black or African American,2054-5,105,1602530,6.6
+,2008,2008,Virginia,51,White,2106-3,805,5733461,14
+,2008,2008,Washington,53,American Indian or Alaska Native,1002-5,23,140912,16.3
+,2008,2008,Washington,53,Asian or Pacific Islander,A-PI,35,549453,6.4
+,2008,2008,Washington,53,Black or African American,2054-5,14,294548,Unreliable
+,2008,2008,Washington,53,White,2106-3,813,5577318,14.6
+,2008,2008,West Virginia,54,White,2106-3,257,1753592,14.7
+,2008,2008,Wisconsin,55,American Indian or Alaska Native,1002-5,10,64716,Unreliable
+,2008,2008,Wisconsin,55,Black or African American,2054-5,20,381998,5.2
+,2008,2008,Wisconsin,55,White,2106-3,704,5060201,13.9
+,2008,2008,Wyoming,56,White,2106-3,121,519057,23.3
+,2009,2009,Alabama,1,Black or African American,2054-5,60,1271247,4.7
+,2009,2009,Alabama,1,White,2106-3,610,3389202,18
+,2009,2009,Alaska,2,American Indian or Alaska Native,1002-5,44,119327,36.9
+,2009,2009,Alaska,2,White,2106-3,92,499867,18.4
+,2009,2009,Arizona,4,American Indian or Alaska Native,1002-5,58,353144,16.4
+,2009,2009,Arizona,4,Asian or Pacific Islander,A-PI,17,217943,Unreliable
+,2009,2009,Arizona,4,Black or African American,2054-5,27,308020,8.8
+,2009,2009,Arizona,4,White,2106-3,956,5464047,17.5
+,2009,2009,Arkansas,5,Black or African American,2054-5,17,462207,Unreliable
+,2009,2009,Arkansas,5,White,2106-3,397,2361582,16.8
+,2009,2009,California,6,American Indian or Alaska Native,1002-5,29,709279,4.1
+,2009,2009,California,6,Asian or Pacific Islander,A-PI,342,5412716,6.3
+,2009,2009,California,6,Black or African American,2054-5,142,2691724,5.3
+,2009,2009,California,6,White,2106-3,3297,28147510,11.7
+,2009,2009,Colorado,8,American Indian or Alaska Native,1002-5,11,88634,Unreliable
+,2009,2009,Colorado,8,Asian or Pacific Islander,A-PI,10,165687,Unreliable
+,2009,2009,Colorado,8,Black or African American,2054-5,24,239309,10
+,2009,2009,Colorado,8,White,2106-3,896,4478565,20
+,2009,2009,Connecticut,9,Black or African American,2054-5,20,409897,4.9
+,2009,2009,Connecticut,9,White,2106-3,291,2985844,9.7
+,2009,2009,Delaware,10,Black or African American,2054-5,14,201775,Unreliable
+,2009,2009,Delaware,10,White,2106-3,93,652605,14.3
+,2009,2009,District of Columbia,11,Black or African American,2054-5,17,317978,Unreliable
+,2009,2009,District of Columbia,11,White,2106-3,11,247187,Unreliable
+,2009,2009,Florida,12,Asian or Pacific Islander,A-PI,30,527477,5.7
+,2009,2009,Florida,12,Black or African American,2054-5,173,3133488,5.5
+,2009,2009,Florida,12,White,2106-3,2645,14894191,17.8
+,2009,2009,Georgia,13,Asian or Pacific Islander,A-PI,21,342019,6.1
+,2009,2009,Georgia,13,Black or African American,2054-5,143,3023009,4.7
+,2009,2009,Georgia,13,White,2106-3,967,6204180,15.6
+,2009,2009,Hawaii,15,Asian or Pacific Islander,A-PI,83,900614,9.2
+,2009,2009,Hawaii,15,White,2106-3,87,406833,21.4
+,2009,2009,Idaho,16,White,2106-3,293,1485165,19.7
+,2009,2009,Illinois,17,Asian or Pacific Islander,A-PI,28,629853,4.4
+,2009,2009,Illinois,17,Black or African American,2054-5,77,1960826,3.9
+,2009,2009,Illinois,17,White,2106-3,1071,10123738,10.6
+,2009,2009,Indiana,18,Black or African American,2054-5,24,635234,3.8
+,2009,2009,Indiana,18,White,2106-3,794,5681764,14
+,2009,2009,Iowa,19,White,2106-3,349,2856456,12.2
+,2009,2009,Kansas,20,Black or African American,2054-5,12,192058,Unreliable
+,2009,2009,Kansas,20,White,2106-3,365,2525097,14.5
+,2009,2009,Kentucky,21,Black or African American,2054-5,26,359228,7.2
+,2009,2009,Kentucky,21,White,2106-3,560,3889498,14.4
+,2009,2009,Louisiana,22,Black or African American,2054-5,64,1468988,4.4
+,2009,2009,Louisiana,22,White,2106-3,420,2910509,14.4
+,2009,2009,Maine,23,White,2106-3,191,1284844,14.9
+,2009,2009,Maryland,24,Asian or Pacific Islander,A-PI,17,343110,Unreliable
+,2009,2009,Maryland,24,Black or African American,2054-5,95,1764644,5.4
+,2009,2009,Maryland,24,White,2106-3,438,3587821,12.2
+,2009,2009,Massachusetts,25,Asian or Pacific Islander,A-PI,16,371539,Unreliable
+,2009,2009,Massachusetts,25,Black or African American,2054-5,21,530509,4
+,2009,2009,Massachusetts,25,White,2106-3,493,5581686,8.8
+,2009,2009,Michigan,26,American Indian or Alaska Native,1002-5,10,83957,Unreliable
+,2009,2009,Michigan,26,Asian or Pacific Islander,A-PI,11,263190,Unreliable
+,2009,2009,Michigan,26,Black or African American,2054-5,88,1481101,5.9
+,2009,2009,Michigan,26,White,2106-3,1060,8073343,13.1
+,2009,2009,Minnesota,27,American Indian or Alaska Native,1002-5,14,76722,Unreliable
+,2009,2009,Minnesota,27,Black or African American,2054-5,18,304750,Unreliable
+,2009,2009,Minnesota,27,White,2106-3,542,4672941,11.6
+,2009,2009,Mississippi,28,Black or African American,2054-5,52,1108721,4.7
+,2009,2009,Mississippi,28,White,2106-3,328,1803266,18.2
+,2009,2009,Missouri,29,Black or African American,2054-5,39,728187,5.4
+,2009,2009,Missouri,29,White,2106-3,810,5081387,15.9
+,2009,2009,Montana,30,American Indian or Alaska Native,1002-5,25,68342,36.6
+,2009,2009,Montana,30,White,2106-3,191,900620,21.2
+,2009,2009,Nebraska,31,White,2106-3,159,1656315,9.6
+,2009,2009,Nevada,32,Asian or Pacific Islander,A-PI,23,235624,9.8
+,2009,2009,Nevada,32,Black or African American,2054-5,12,251426,Unreliable
+,2009,2009,Nevada,32,White,2106-3,465,2148708,21.6
+,2009,2009,New Hampshire,33,White,2106-3,164,1260984,13
+,2009,2009,New Jersey,34,Asian or Pacific Islander,A-PI,26,760885,3.4
+,2009,2009,New Jersey,34,Black or African American,2054-5,31,1323532,2.3
+,2009,2009,New Jersey,34,White,2106-3,496,6615988,7.5
+,2009,2009,New Mexico,35,American Indian or Alaska Native,1002-5,39,217796,17.9
+,2009,2009,New Mexico,35,White,2106-3,328,1725799,19
+,2009,2009,New York,36,Asian or Pacific Islander,A-PI,68,1529520,4.4
+,2009,2009,New York,36,Black or African American,2054-5,123,3498751,3.5
+,2009,2009,New York,36,White,2106-3,1221,14072238,8.7
+,2009,2009,North Carolina,37,American Indian or Alaska Native,1002-5,14,152931,Unreliable
+,2009,2009,North Carolina,37,Asian or Pacific Islander,A-PI,15,232059,Unreliable
+,2009,2009,North Carolina,37,Black or African American,2054-5,101,2125058,4.8
+,2009,2009,North Carolina,37,White,2106-3,1043,6939518,15
+,2009,2009,North Dakota,38,White,2106-3,79,609013,13
+,2009,2009,Ohio,39,Black or African American,2054-5,72,1501406,4.8
+,2009,2009,Ohio,39,White,2106-3,1098,9775738,11.2
+,2009,2009,Oklahoma,40,American Indian or Alaska Native,1002-5,39,380066,10.3
+,2009,2009,Oklahoma,40,Black or African American,2054-5,22,314025,7
+,2009,2009,Oklahoma,40,White,2106-3,499,2946778,16.9
+,2009,2009,Oregon,41,Asian or Pacific Islander,A-PI,10,174455,Unreliable
+,2009,2009,Oregon,41,Black or African American,2054-5,10,92275,Unreliable
+,2009,2009,Oregon,41,White,2106-3,613,3462337,17.7
+,2009,2009,Pennsylvania,42,Asian or Pacific Islander,A-PI,19,370947,Unreliable
+,2009,2009,Pennsylvania,42,Black or African American,2054-5,89,1492281,6
+,2009,2009,Pennsylvania,42,White,2106-3,1519,10758201,14.1
+,2009,2009,Rhode Island,44,White,2106-3,114,925159,12.3
+,2009,2009,South Carolina,45,Black or African American,2054-5,66,1320564,5
+,2009,2009,South Carolina,45,White,2106-3,546,3174776,17.2
+,2009,2009,South Dakota,46,American Indian or Alaska Native,1002-5,35,76035,46
+,2009,2009,South Dakota,46,White,2106-3,93,709532,13.1
+,2009,2009,Tennessee,47,Black or African American,2054-5,55,1087674,5.1
+,2009,2009,Tennessee,47,White,2106-3,876,5086681,17.2
+,2009,2009,Texas,48,Asian or Pacific Islander,A-PI,53,1051726,5
+,2009,2009,Texas,48,Black or African American,2054-5,151,3101293,4.9
+,2009,2009,Texas,48,White,2106-3,2598,20386890,12.7
+,2009,2009,Utah,49,White,2106-3,433,2547024,17
+,2009,2009,Vermont,50,White,2106-3,86,604741,14.2
+,2009,2009,Virginia,51,Asian or Pacific Islander,A-PI,25,475414,5.3
+,2009,2009,Virginia,51,Black or African American,2054-5,99,1623781,6.1
+,2009,2009,Virginia,51,White,2106-3,834,5782225,14.4
+,2009,2009,Washington,53,American Indian or Alaska Native,1002-5,22,144735,15.2
+,2009,2009,Washington,53,Asian or Pacific Islander,A-PI,46,571869,8
+,2009,2009,Washington,53,Black or African American,2054-5,27,305941,8.8
+,2009,2009,Washington,53,White,2106-3,824,5644881,14.6
+,2009,2009,West Virginia,54,White,2106-3,248,1758904,14.1
+,2009,2009,Wisconsin,55,Black or African American,2054-5,34,389316,8.7
+,2009,2009,Wisconsin,55,White,2106-3,679,5075213,13.4
+,2009,2009,Wyoming,56,White,2106-3,108,531442,20.3
+,2010,2010,Alabama,1,Black or African American,2054-5,55,1279072,4.3
+,2010,2010,Alabama,1,White,2106-3,619,3399975,18.2
+,2010,2010,Alaska,2,American Indian or Alaska Native,1002-5,52,120452,43.2
+,2010,2010,Alaska,2,White,2106-3,102,507431,20.1
+,2010,2010,Arizona,4,American Indian or Alaska Native,1002-5,64,358486,17.9
+,2010,2010,Arizona,4,Asian or Pacific Islander,A-PI,16,223902,Unreliable
+,2010,2010,Arizona,4,Black or African American,2054-5,18,316039,Unreliable
+,2010,2010,Arizona,4,White,2106-3,994,5493590,18.1
+,2010,2010,Arkansas,5,Black or African American,2054-5,27,466200,5.8
+,2010,2010,Arkansas,5,White,2106-3,416,2373667,17.5
+,2010,2010,California,6,American Indian or Alaska Native,1002-5,32,739342,4.3
+,2010,2010,California,6,Asian or Pacific Islander,A-PI,361,5515120,6.5
+,2010,2010,California,6,Black or African American,2054-5,170,2718779,6.3
+,2010,2010,California,6,White,2106-3,3341,28280715,11.8
+,2010,2010,Colorado,8,Asian or Pacific Islander,A-PI,13,170692,Unreliable
+,2010,2010,Colorado,8,Black or African American,2054-5,23,245200,9.4
+,2010,2010,Colorado,8,White,2106-3,822,4520301,18.2
+,2010,2010,Connecticut,9,Asian or Pacific Islander,A-PI,10,150814,Unreliable
+,2010,2010,Connecticut,9,Black or African American,2054-5,20,416130,4.8
+,2010,2010,Connecticut,9,White,2106-3,323,2987138,10.8
+,2010,2010,Delaware,10,White,2106-3,97,654944,14.8
+,2010,2010,District of Columbia,11,Black or African American,2054-5,20,317619,6.3
+,2010,2010,District of Columbia,11,White,2106-3,20,255534,7.8
+,2010,2010,Florida,12,Asian or Pacific Islander,A-PI,30,540137,5.6
+,2010,2010,Florida,12,Black or African American,2054-5,132,3172720,4.2
+,2010,2010,Florida,12,White,2106-3,2620,14989125,17.5
+,2010,2010,Georgia,13,Asian or Pacific Islander,A-PI,26,352249,7.4
+,2010,2010,Georgia,13,Black or African American,2054-5,153,3057817,5
+,2010,2010,Georgia,13,White,2106-3,948,6223554,15.2
+,2010,2010,Hawaii,15,Asian or Pacific Islander,A-PI,113,910638,12.4
+,2010,2010,Hawaii,15,White,2106-3,90,410433,21.9
+,2010,2010,Idaho,16,White,2106-3,280,1496784,18.7
+,2010,2010,Illinois,17,Asian or Pacific Islander,A-PI,30,641679,4.7
+,2010,2010,Illinois,17,Black or African American,2054-5,75,1965842,3.8
+,2010,2010,Illinois,17,White,2106-3,1072,10136715,10.6
+,2010,2010,Indiana,18,Black or African American,2054-5,33,643598,5.1
+,2010,2010,Indiana,18,White,2106-3,823,5693566,14.5
+,2010,2010,Iowa,19,White,2106-3,364,2864005,12.7
+,2010,2010,Kansas,20,Black or African American,2054-5,17,195412,Unreliable
+,2010,2010,Kansas,20,White,2106-3,379,2538944,14.9
+,2010,2010,Kentucky,21,Black or African American,2054-5,18,364148,Unreliable
+,2010,2010,Kentucky,21,White,2106-3,610,3904888,15.6
+,2010,2010,Louisiana,22,Black or African American,2054-5,63,1485375,4.2
+,2010,2010,Louisiana,22,White,2106-3,486,2932468,16.6
+,2010,2010,Maine,23,White,2106-3,182,1282994,14.2
+,2010,2010,Maryland,24,Asian or Pacific Islander,A-PI,21,353335,5.9
+,2010,2010,Maryland,24,Black or African American,2054-5,78,1783183,4.4
+,2010,2010,Maryland,24,White,2106-3,403,3600864,11.2
+,2010,2010,Massachusetts,25,Asian or Pacific Islander,A-PI,15,381023,Unreliable
+,2010,2010,Massachusetts,25,Black or African American,2054-5,26,539664,4.8
+,2010,2010,Massachusetts,25,White,2106-3,555,5591798,9.9
+,2010,2010,Michigan,26,American Indian or Alaska Native,1002-5,14,85730,Unreliable
+,2010,2010,Michigan,26,Asian or Pacific Islander,A-PI,11,265830,Unreliable
+,2010,2010,Michigan,26,Black or African American,2054-5,102,1483261,6.9
+,2010,2010,Michigan,26,White,2106-3,1135,8048819,14.1
+,2010,2010,Minnesota,27,American Indian or Alaska Native,1002-5,10,78005,Unreliable
+,2010,2010,Minnesota,27,Asian or Pacific Islander,A-PI,23,232323,9.9
+,2010,2010,Minnesota,27,Black or African American,2054-5,16,311471,Unreliable
+,2010,2010,Minnesota,27,White,2106-3,554,4682126,11.8
+,2010,2010,Mississippi,28,Black or African American,2054-5,47,1115323,4.2
+,2010,2010,Mississippi,28,White,2106-3,338,1804239,18.7
+,2010,2010,Missouri,29,Black or African American,2054-5,44,734657,6
+,2010,2010,Missouri,29,White,2106-3,801,5098388,15.7
+,2010,2010,Montana,30,American Indian or Alaska Native,1002-5,22,69329,31.7
+,2010,2010,Montana,30,White,2106-3,202,905118,22.3
+,2010,2010,Nebraska,31,White,2106-3,184,1666286,11
+,2010,2010,Nevada,32,Asian or Pacific Islander,A-PI,14,242385,Unreliable
+,2010,2010,Nevada,32,Black or African American,2054-5,20,255727,7.8
+,2010,2010,Nevada,32,White,2106-3,506,2152677,23.5
+,2010,2010,New Hampshire,33,White,2106-3,194,1260654,15.4
+,2010,2010,New Jersey,34,Asian or Pacific Islander,A-PI,35,778053,4.5
+,2010,2010,New Jersey,34,Black or African American,2054-5,68,1333527,5.1
+,2010,2010,New Jersey,34,White,2106-3,615,6621985,9.3
+,2010,2010,New Mexico,35,American Indian or Alaska Native,1002-5,41,220615,18.6
+,2010,2010,New Mexico,35,White,2106-3,365,1742790,20.9
+,2010,2010,New York,36,Asian or Pacific Islander,A-PI,78,1561960,5
+,2010,2010,New York,36,Black or African American,2054-5,138,3523196,3.9
+,2010,2010,New York,36,White,2106-3,1327,14078317,9.4
+,2010,2010,North Carolina,37,American Indian or Alaska Native,1002-5,14,157331,Unreliable
+,2010,2010,North Carolina,37,Black or African American,2054-5,95,2151978,4.4
+,2010,2010,North Carolina,37,White,2106-3,1056,6985358,15.1
+,2010,2010,North Dakota,38,American Indian or Alaska Native,1002-5,13,39204,Unreliable
+,2010,2010,North Dakota,38,White,2106-3,92,615263,15
+,2010,2010,Ohio,39,Asian or Pacific Islander,A-PI,10,218652,Unreliable
+,2010,2010,Ohio,39,Black or African American,2054-5,81,1510985,5.4
+,2010,2010,Ohio,39,White,2106-3,1343,9767820,13.7
+,2010,2010,Oklahoma,40,American Indian or Alaska Native,1002-5,56,387227,14.5
+,2010,2010,Oklahoma,40,Black or African American,2054-5,25,319116,7.8
+,2010,2010,Oklahoma,40,White,2106-3,531,2965869,17.9
+,2010,2010,Oregon,41,American Indian or Alaska Native,1002-5,11,81786,Unreliable
+,2010,2010,Oregon,41,Asian or Pacific Islander,A-PI,10,178276,Unreliable
+,2010,2010,Oregon,41,White,2106-3,657,3476736,18.9
+,2010,2010,Pennsylvania,42,Asian or Pacific Islander,A-PI,22,381910,5.8
+,2010,2010,Pennsylvania,42,Black or African American,2054-5,78,1506459,5.2
+,2010,2010,Pennsylvania,42,White,2106-3,1474,10766954,13.7
+,2010,2010,Rhode Island,44,White,2106-3,120,922331,13
+,2010,2010,South Carolina,45,Black or African American,2054-5,67,1329507,5
+,2010,2010,South Carolina,45,White,2106-3,560,3198579,17.5
+,2010,2010,South Dakota,46,American Indian or Alaska Native,1002-5,28,77193,36.3
+,2010,2010,South Dakota,46,White,2106-3,111,714718,15.5
+,2010,2010,Tennessee,47,Asian or Pacific Islander,A-PI,10,106644,Unreliable
+,2010,2010,Tennessee,47,Black or African American,2054-5,60,1097940,5.5
+,2010,2010,Tennessee,47,White,2106-3,870,5113124,17
+,2010,2010,Texas,48,Asian or Pacific Islander,A-PI,48,1088578,4.4
+,2010,2010,Texas,48,Black or African American,2054-5,174,3156011,5.5
+,2010,2010,Texas,48,White,2106-3,2662,20624991,12.9
+,2010,2010,Utah,49,White,2106-3,459,2581722,17.8
+,2010,2010,Vermont,50,White,2106-3,105,605609,17.3
+,2010,2010,Virginia,51,Asian or Pacific Islander,A-PI,29,492031,5.9
+,2010,2010,Virginia,51,Black or African American,2054-5,96,1640836,5.9
+,2010,2010,Virginia,51,White,2106-3,836,5821714,14.4
+,2010,2010,Washington,53,American Indian or Alaska Native,1002-5,22,147822,14.9
+,2010,2010,Washington,53,Asian or Pacific Islander,A-PI,37,585845,6.3
+,2010,2010,Washington,53,Black or African American,2054-5,25,310869,8
+,2010,2010,Washington,53,White,2106-3,871,5680004,15.3
+,2010,2010,West Virginia,54,White,2106-3,274,1763290,15.5
+,2010,2010,Wisconsin,55,American Indian or Alaska Native,1002-5,11,67724,Unreliable
+,2010,2010,Wisconsin,55,Asian or Pacific Islander,A-PI,21,141521,14.8
+,2010,2010,Wisconsin,55,Black or African American,2054-5,28,394478,7.1
+,2010,2010,Wisconsin,55,White,2106-3,730,5083263,14.4
+,2010,2010,Wyoming,56,White,2106-3,126,535163,23.5
+,2011,2011,Alabama,1,Black or African American,2054-5,70,1293037,5.4
+,2011,2011,Alabama,1,White,2106-3,580,3406474,17
+,2011,2011,Alaska,2,American Indian or Alaska Native,1002-5,47,121915,38.6
+,2011,2011,Alaska,2,White,2106-3,87,514612,16.9
+,2011,2011,Arizona,4,American Indian or Alaska Native,1002-5,67,363483,18.4
+,2011,2011,Arizona,4,Asian or Pacific Islander,A-PI,13,231717,Unreliable
+,2011,2011,Arizona,4,Black or African American,2054-5,28,327548,8.5
+,2011,2011,Arizona,4,White,2106-3,1052,5559757,18.9
+,2011,2011,Arkansas,5,Black or African American,2054-5,18,471035,Unreliable
+,2011,2011,Arkansas,5,White,2106-3,439,2386839,18.4
+,2011,2011,California,6,American Indian or Alaska Native,1002-5,40,756441,5.3
+,2011,2011,California,6,Asian or Pacific Islander,A-PI,360,5634880,6.4
+,2011,2011,California,6,Black or African American,2054-5,165,2749509,6
+,2011,2011,California,6,White,2106-3,3425,28551082,12
+,2011,2011,Colorado,8,American Indian or Alaska Native,1002-5,10,95952,Unreliable
+,2011,2011,Colorado,8,Asian or Pacific Islander,A-PI,15,177324,Unreliable
+,2011,2011,Colorado,8,Black or African American,2054-5,26,254320,10.2
+,2011,2011,Colorado,8,White,2106-3,859,4589200,18.7
+,2011,2011,Connecticut,9,Black or African American,2054-5,18,420735,Unreliable
+,2011,2011,Connecticut,9,White,2106-3,346,2984193,11.6
+,2011,2011,Delaware,10,Black or African American,2054-5,10,207425,Unreliable
+,2011,2011,Delaware,10,White,2106-3,95,660104,14.4
+,2011,2011,District of Columbia,11,Black or African American,2054-5,19,320832,Unreliable
+,2011,2011,District of Columbia,11,White,2106-3,17,266864,Unreliable
+,2011,2011,Florida,12,Asian or Pacific Islander,A-PI,28,562698,5
+,2011,2011,Florida,12,Black or African American,2054-5,153,3242646,4.7
+,2011,2011,Florida,12,White,2106-3,2689,15148280,17.8
+,2011,2011,Georgia,13,Asian or Pacific Islander,A-PI,22,365731,6
+,2011,2011,Georgia,13,Black or African American,2054-5,152,3113361,4.9
+,2011,2011,Georgia,13,White,2106-3,982,6280506,15.6
+,2011,2011,Hawaii,15,Asian or Pacific Islander,A-PI,95,909176,10.4
+,2011,2011,Hawaii,15,White,2106-3,81,420022,19.3
+,2011,2011,Idaho,16,White,2106-3,274,1510289,18.1
+,2011,2011,Illinois,17,Asian or Pacific Islander,A-PI,20,657394,3
+,2011,2011,Illinois,17,Black or African American,2054-5,98,1971805,5
+,2011,2011,Illinois,17,White,2106-3,1102,10152278,10.9
+,2011,2011,Indiana,18,Black or African American,2054-5,42,652559,6.4
+,2011,2011,Indiana,18,White,2106-3,829,5711984,14.5
+,2011,2011,Iowa,19,White,2106-3,407,2873019,14.2
+,2011,2011,Kansas,20,White,2106-3,380,2549248,14.9
+,2011,2011,Kentucky,21,Black or African American,2054-5,26,372115,7
+,2011,2011,Kentucky,21,White,2106-3,645,3924165,16.4
+,2011,2011,Louisiana,22,Black or African American,2054-5,87,1506336,5.8
+,2011,2011,Louisiana,22,White,2106-3,477,2949133,16.2
+,2011,2011,Maine,23,White,2106-3,231,1281361,18
+,2011,2011,Maryland,24,Asian or Pacific Islander,A-PI,22,365437,6
+,2011,2011,Maryland,24,Black or African American,2054-5,95,1802494,5.3
+,2011,2011,Maryland,24,White,2106-3,437,3623463,12.1
+,2011,2011,Massachusetts,25,Asian or Pacific Islander,A-PI,16,393671,Unreliable
+,2011,2011,Massachusetts,25,Black or African American,2054-5,19,549080,Unreliable
+,2011,2011,Massachusetts,25,White,2106-3,549,5609013,9.8
+,2011,2011,Michigan,26,American Indian or Alaska Native,1002-5,16,86216,Unreliable
+,2011,2011,Michigan,26,Asian or Pacific Islander,A-PI,11,274926,Unreliable
+,2011,2011,Michigan,26,Black or African American,2054-5,99,1488254,6.7
+,2011,2011,Michigan,26,White,2106-3,1095,8026791,13.6
+,2011,2011,Minnesota,27,American Indian or Alaska Native,1002-5,13,78981,Unreliable
+,2011,2011,Minnesota,27,Asian or Pacific Islander,A-PI,20,240575,8.3
+,2011,2011,Minnesota,27,Black or African American,2054-5,22,319140,6.9
+,2011,2011,Minnesota,27,White,2106-3,628,4706165,13.3
+,2011,2011,Mississippi,28,Black or African American,2054-5,47,1125114,4.2
+,2011,2011,Mississippi,28,White,2106-3,339,1803538,18.8
+,2011,2011,Missouri,29,Black or African American,2054-5,53,740525,7.2
+,2011,2011,Missouri,29,White,2106-3,871,5110036,17
+,2011,2011,Montana,30,American Indian or Alaska Native,1002-5,16,70075,Unreliable
+,2011,2011,Montana,30,White,2106-3,214,911044,23.5
+,2011,2011,Nebraska,31,White,2106-3,185,1678482,11
+,2011,2011,Nevada,32,Asian or Pacific Islander,A-PI,22,248431,8.9
+,2011,2011,Nevada,32,Black or African American,2054-5,20,259830,7.7
+,2011,2011,Nevada,32,White,2106-3,469,2163970,21.7
+,2011,2011,New Hampshire,33,White,2106-3,195,1260043,15.5
+,2011,2011,New Jersey,34,Asian or Pacific Islander,A-PI,21,799630,2.6
+,2011,2011,New Jersey,34,Black or African American,2054-5,53,1343487,3.9
+,2011,2011,New Jersey,34,White,2106-3,613,6618403,9.3
+,2011,2011,New Mexico,35,American Indian or Alaska Native,1002-5,40,222486,18
+,2011,2011,New Mexico,35,White,2106-3,369,1758658,21
+,2011,2011,New York,36,Asian or Pacific Islander,A-PI,91,1599823,5.7
+,2011,2011,New York,36,Black or African American,2054-5,137,3556174,3.9
+,2011,2011,New York,36,White,2106-3,1419,14092429,10.1
+,2011,2011,North Carolina,37,American Indian or Alaska Native,1002-5,14,159075,Unreliable
+,2011,2011,North Carolina,37,Asian or Pacific Islander,A-PI,13,251639,Unreliable
+,2011,2011,North Carolina,37,Black or African American,2054-5,106,2188334,4.8
+,2011,2011,North Carolina,37,White,2106-3,1080,7057353,15.3
+,2011,2011,North Dakota,38,American Indian or Alaska Native,1002-5,10,39882,Unreliable
+,2011,2011,North Dakota,38,White,2106-3,90,624328,14.4
+,2011,2011,Ohio,39,Asian or Pacific Islander,A-PI,16,224607,Unreliable
+,2011,2011,Ohio,39,Black or African American,2054-5,91,1521089,6
+,2011,2011,Ohio,39,White,2106-3,1354,9759657,13.9
+,2011,2011,Oklahoma,40,American Indian or Alaska Native,1002-5,56,390357,14.3
+,2011,2011,Oklahoma,40,Asian or Pacific Islander,A-PI,12,82388,Unreliable
+,2011,2011,Oklahoma,40,Black or African American,2054-5,32,327715,9.8
+,2011,2011,Oklahoma,40,White,2106-3,591,2991048,19.8
+,2011,2011,Oregon,41,American Indian or Alaska Native,1002-5,11,83720,Unreliable
+,2011,2011,Oregon,41,Asian or Pacific Islander,A-PI,11,185062,Unreliable
+,2011,2011,Oregon,41,White,2106-3,628,3505165,17.9
+,2011,2011,Pennsylvania,42,Asian or Pacific Islander,A-PI,20,393508,5.1
+,2011,2011,Pennsylvania,42,Black or African American,2054-5,84,1521882,5.5
+,2011,2011,Pennsylvania,42,White,2106-3,1638,10779681,15.2
+,2011,2011,Rhode Island,44,White,2106-3,94,919534,10.2
+,2011,2011,South Carolina,45,Black or African American,2054-5,70,1343297,5.2
+,2011,2011,South Carolina,45,White,2106-3,581,3234809,18
+,2011,2011,South Dakota,46,American Indian or Alaska Native,1002-5,24,77737,30.9
+,2011,2011,South Dakota,46,White,2106-3,102,721987,14.1
+,2011,2011,Tennessee,47,Black or African American,2054-5,48,1114647,4.3
+,2011,2011,Tennessee,47,White,2106-3,902,5149029,17.5
+,2011,2011,Texas,48,Asian or Pacific Islander,A-PI,57,1133209,5
+,2011,2011,Texas,48,Black or African American,2054-5,161,3231968,5
+,2011,2011,Texas,48,White,2106-3,2663,21020190,12.7
+,2011,2011,Utah,49,American Indian or Alaska Native,1002-5,10,47656,Unreliable
+,2011,2011,Utah,49,White,2106-3,479,2625630,18.2
+,2011,2011,Vermont,50,White,2106-3,119,605260,19.7
+,2011,2011,Virginia,51,Asian or Pacific Islander,A-PI,23,510912,4.5
+,2011,2011,Virginia,51,Black or African American,2054-5,82,1664318,4.9
+,2011,2011,Virginia,51,White,2106-3,946,5873838,16.1
+,2011,2011,Washington,53,American Indian or Alaska Native,1002-5,23,150334,15.3
+,2011,2011,Washington,53,Asian or Pacific Islander,A-PI,49,606556,8.1
+,2011,2011,Washington,53,Black or African American,2054-5,24,324542,7.4
+,2011,2011,Washington,53,White,2106-3,924,5748606,16.1
+,2011,2011,West Virginia,54,White,2106-3,302,1762304,17.1
+,2011,2011,Wisconsin,55,Asian or Pacific Islander,A-PI,10,146661,Unreliable
+,2011,2011,Wisconsin,55,Black or African American,2054-5,19,399745,Unreliable
+,2011,2011,Wisconsin,55,White,2106-3,709,5096616,13.9
+,2011,2011,Wyoming,56,White,2106-3,129,537851,24
+,2012,2012,Alabama,1,Black or African American,2054-5,80,1302210,6.1
+,2012,2012,Alabama,1,White,2106-3,636,3413571,18.6
+,2012,2012,Alaska,2,American Indian or Alaska Native,1002-5,54,122904,43.9
+,2012,2012,Alaska,2,White,2106-3,102,518096,19.7
+,2012,2012,Arizona,4,American Indian or Alaska Native,1002-5,71,369956,19.2
+,2012,2012,Arizona,4,Asian or Pacific Islander,A-PI,16,242799,Unreliable
+,2012,2012,Arizona,4,Black or African American,2054-5,32,336915,9.5
+,2012,2012,Arizona,4,White,2106-3,1032,5603585,18.4
+,2012,2012,Arkansas,5,Black or African American,2054-5,32,473402,6.8
+,2012,2012,Arkansas,5,White,2106-3,447,2393011,18.7
+,2012,2012,California,6,American Indian or Alaska Native,1002-5,35,760492,4.6
+,2012,2012,California,6,Asian or Pacific Islander,A-PI,343,5796976,5.9
+,2012,2012,California,6,Black or African American,2054-5,179,2767389,6.5
+,2012,2012,California,6,White,2106-3,3331,28716573,11.6
+,2012,2012,Colorado,8,American Indian or Alaska Native,1002-5,15,97236,Unreliable
+,2012,2012,Colorado,8,Asian or Pacific Islander,A-PI,16,183568,Unreliable
+,2012,2012,Colorado,8,Black or African American,2054-5,25,259561,9.6
+,2012,2012,Colorado,8,White,2106-3,993,4647217,21.4
+,2012,2012,Connecticut,9,Black or African American,2054-5,13,426892,Unreliable
+,2012,2012,Connecticut,9,White,2106-3,345,2980691,11.6
+,2012,2012,Delaware,10,Black or African American,2054-5,13,211248,Unreliable
+,2012,2012,Delaware,10,White,2106-3,107,664309,16.1
+,2012,2012,District of Columbia,11,Black or African American,2054-5,21,324476,6.5
+,2012,2012,District of Columbia,11,White,2106-3,14,276057,Unreliable
+,2012,2012,Florida,12,Asian or Pacific Islander,A-PI,35,583337,6
+,2012,2012,Florida,12,Black or African American,2054-5,184,3311596,5.6
+,2012,2012,Florida,12,White,2106-3,2774,15316649,18.1
+,2012,2012,Georgia,13,Asian or Pacific Islander,A-PI,26,383205,6.8
+,2012,2012,Georgia,13,Black or African American,2054-5,149,3163293,4.7
+,2012,2012,Georgia,13,White,2106-3,989,6317264,15.7
+,2012,2012,Hawaii,15,Asian or Pacific Islander,A-PI,98,917473,10.7
+,2012,2012,Hawaii,15,White,2106-3,87,426884,20.4
+,2012,2012,Idaho,16,White,2106-3,291,1519716,19.1
+,2012,2012,Illinois,17,Asian or Pacific Islander,A-PI,32,677533,4.7
+,2012,2012,Illinois,17,Black or African American,2054-5,92,1968408,4.7
+,2012,2012,Illinois,17,White,2106-3,1167,10140667,11.5
+,2012,2012,Indiana,18,Asian or Pacific Islander,A-PI,11,129142,Unreliable
+,2012,2012,Indiana,18,Black or African American,2054-5,37,660228,5.6
+,2012,2012,Indiana,18,White,2106-3,891,5717757,15.6
+,2012,2012,Iowa,19,White,2106-3,369,2877696,12.8
+,2012,2012,Kansas,20,Black or African American,2054-5,17,203096,Unreliable
+,2012,2012,Kansas,20,White,2106-3,476,2557493,18.6
+,2012,2012,Kentucky,21,Black or African American,2054-5,31,377606,8.2
+,2012,2012,Kentucky,21,White,2106-3,687,3926441,17.5
+,2012,2012,Louisiana,22,Black or African American,2054-5,72,1516716,4.7
+,2012,2012,Louisiana,22,White,2106-3,490,2962171,16.5
+,2012,2012,Maine,23,White,2106-3,204,1280768,15.9
+,2012,2012,Maryland,24,Asian or Pacific Islander,A-PI,21,381025,5.5
+,2012,2012,Maryland,24,Black or African American,2054-5,96,1822097,5.3
+,2012,2012,Maryland,24,White,2106-3,463,3643570,12.7
+,2012,2012,Massachusetts,25,Asian or Pacific Islander,A-PI,17,411033,Unreliable
+,2012,2012,Massachusetts,25,Black or African American,2054-5,29,564804,5.1
+,2012,2012,Massachusetts,25,White,2106-3,554,5633673,9.8
+,2012,2012,Michigan,26,American Indian or Alaska Native,1002-5,11,87278,Unreliable
+,2012,2012,Michigan,26,Asian or Pacific Islander,A-PI,14,284131,Unreliable
+,2012,2012,Michigan,26,Black or African American,2054-5,104,1488275,7
+,2012,2012,Michigan,26,White,2106-3,1129,8023676,14.1
+,2012,2012,Minnesota,27,American Indian or Alaska Native,1002-5,10,79665,Unreliable
+,2012,2012,Minnesota,27,Asian or Pacific Islander,A-PI,23,250828,9.2
+,2012,2012,Minnesota,27,Black or African American,2054-5,27,332106,8.1
+,2012,2012,Minnesota,27,White,2106-3,596,4716540,12.6
+,2012,2012,Mississippi,28,Black or African American,2054-5,57,1129882,5
+,2012,2012,Mississippi,28,White,2106-3,352,1804534,19.5
+,2012,2012,Missouri,29,Black or African American,2054-5,45,743924,6
+,2012,2012,Missouri,29,White,2106-3,855,5112730,16.7
+,2012,2012,Montana,30,American Indian or Alaska Native,1002-5,19,71293,Unreliable
+,2012,2012,Montana,30,White,2106-3,210,915857,22.9
+,2012,2012,Nebraska,31,White,2106-3,222,1687030,13.2
+,2012,2012,Nevada,32,American Indian or Alaska Native,1002-5,10,51679,Unreliable
+,2012,2012,Nevada,32,Asian or Pacific Islander,A-PI,26,258291,10.1
+,2012,2012,Nevada,32,Black or African American,2054-5,26,271301,9.6
+,2012,2012,Nevada,32,White,2106-3,462,2177660,21.2
+,2012,2012,New Hampshire,33,White,2106-3,198,1260026,15.7
+,2012,2012,New Jersey,34,Asian or Pacific Islander,A-PI,40,829106,4.8
+,2012,2012,New Jersey,34,Black or African American,2054-5,55,1354962,4.1
+,2012,2012,New Jersey,34,White,2106-3,583,6619471,8.8
+,2012,2012,New Mexico,35,American Indian or Alaska Native,1002-5,59,225079,26.2
+,2012,2012,New Mexico,35,White,2106-3,372,1758585,21.2
+,2012,2012,New York,36,Asian or Pacific Islander,A-PI,91,1650175,5.5
+,2012,2012,New York,36,Black or African American,2054-5,119,3583475,3.3
+,2012,2012,New York,36,White,2106-3,1491,14117965,10.6
+,2012,2012,North Carolina,37,Asian or Pacific Islander,A-PI,21,265858,7.9
+,2012,2012,North Carolina,37,Black or African American,2054-5,86,2217811,3.9
+,2012,2012,North Carolina,37,White,2106-3,1167,7107633,16.4
+,2012,2012,North Dakota,38,American Indian or Alaska Native,1002-5,10,40716,Unreliable
+,2012,2012,North Dakota,38,White,2106-3,95,636983,14.9
+,2012,2012,Ohio,39,Black or African American,2054-5,111,1530803,7.3
+,2012,2012,Ohio,39,White,2106-3,1415,9739254,14.5
+,2012,2012,Oklahoma,40,American Indian or Alaska Native,1002-5,50,395280,12.6
+,2012,2012,Oklahoma,40,Asian or Pacific Islander,A-PI,10,85808,Unreliable
+,2012,2012,Oklahoma,40,Black or African American,2054-5,32,330614,9.7
+,2012,2012,Oklahoma,40,White,2106-3,576,3003118,19.2
+,2012,2012,Oregon,41,Asian or Pacific Islander,A-PI,18,192314,Unreliable
+,2012,2012,Oregon,41,White,2106-3,692,3522848,19.6
+,2012,2012,Pennsylvania,42,Asian or Pacific Islander,A-PI,25,409742,6.1
+,2012,2012,Pennsylvania,42,Black or African American,2054-5,101,1538330,6.6
+,2012,2012,Pennsylvania,42,White,2106-3,1520,10766181,14.1
+,2012,2012,Rhode Island,44,White,2106-3,100,915095,10.9
+,2012,2012,South Carolina,45,Asian or Pacific Islander,A-PI,10,77484,Unreliable
+,2012,2012,South Carolina,45,Black or African American,2054-5,54,1351898,4
+,2012,2012,South Carolina,45,White,2106-3,608,3266812,18.6
+,2012,2012,South Dakota,46,American Indian or Alaska Native,1002-5,22,78781,27.9
+,2012,2012,South Dakota,46,White,2106-3,117,726989,16.1
+,2012,2012,Tennessee,47,Asian or Pacific Islander,A-PI,10,116671,Unreliable
+,2012,2012,Tennessee,47,Black or African American,2054-5,63,1131376,5.6
+,2012,2012,Tennessee,47,White,2106-3,903,5178755,17.4
+,2012,2012,Texas,48,Asian or Pacific Islander,A-PI,67,1192519,5.6
+,2012,2012,Texas,48,Black or African American,2054-5,179,3313287,5.4
+,2012,2012,Texas,48,White,2106-3,2780,21261333,13.1
+,2012,2012,Utah,49,White,2106-3,527,2658464,19.8
+,2012,2012,Vermont,50,White,2106-3,84,604354,13.9
+,2012,2012,Virginia,51,Asian or Pacific Islander,A-PI,37,533764,6.9
+,2012,2012,Virginia,51,Black or African American,2054-5,93,1679707,5.5
+,2012,2012,Virginia,51,White,2106-3,931,5923590,15.7
+,2012,2012,Washington,53,American Indian or Alaska Native,1002-5,25,152328,16.4
+,2012,2012,Washington,53,Asian or Pacific Islander,A-PI,39,632347,6.2
+,2012,2012,Washington,53,Black or African American,2054-5,28,333148,8.4
+,2012,2012,Washington,53,White,2106-3,946,5779189,16.4
+,2012,2012,West Virginia,54,White,2106-3,320,1761559,18.2
+,2012,2012,Wisconsin,55,Asian or Pacific Islander,A-PI,12,151314,Unreliable
+,2012,2012,Wisconsin,55,Black or African American,2054-5,16,403754,Unreliable
+,2012,2012,Wisconsin,55,White,2106-3,687,5101525,13.5
+,2012,2012,Wyoming,56,White,2106-3,163,542938,30
+,2013,2013,Alabama,1,Black or African American,2054-5,61,1307660,4.7
+,2013,2013,Alabama,1,White,2106-3,654,3417357,19.1
+,2013,2013,Alaska,2,American Indian or Alaska Native,1002-5,56,122612,45.7
+,2013,2013,Alaska,2,White,2106-3,106,519545,20.4
+,2013,2013,Arizona,4,American Indian or Alaska Native,1002-5,78,376115,20.7
+,2013,2013,Arizona,4,Asian or Pacific Islander,A-PI,18,252207,Unreliable
+,2013,2013,Arizona,4,Black or African American,2054-5,26,347699,7.5
+,2013,2013,Arizona,4,White,2106-3,1040,5650603,18.4
+,2013,2013,Arkansas,5,Black or African American,2054-5,21,475853,4.4
+,2013,2013,Arkansas,5,White,2106-3,488,2397814,20.4
+,2013,2013,California,6,American Indian or Alaska Native,1002-5,40,763452,5.2
+,2013,2013,California,6,Asian or Pacific Islander,A-PI,345,5917918,5.8
+,2013,2013,California,6,Black or African American,2054-5,174,2778851,6.3
+,2013,2013,California,6,White,2106-3,3453,28872300,12
+,2013,2013,Colorado,8,American Indian or Alaska Native,1002-5,14,99380,Unreliable
+,2013,2013,Colorado,8,Asian or Pacific Islander,A-PI,16,190219,Unreliable
+,2013,2013,Colorado,8,Black or African American,2054-5,20,266564,7.5
+,2013,2013,Colorado,8,White,2106-3,957,4712204,20.3
+,2013,2013,Connecticut,9,Black or African American,2054-5,14,434310,Unreliable
+,2013,2013,Connecticut,9,White,2106-3,310,2973463,10.4
+,2013,2013,Delaware,10,White,2106-3,113,668143,16.9
+,2013,2013,District of Columbia,11,Black or African American,2054-5,20,328102,6.1
+,2013,2013,District of Columbia,11,White,2106-3,16,285467,Unreliable
+,2013,2013,Florida,12,Asian or Pacific Islander,A-PI,42,603348,7
+,2013,2013,Florida,12,Black or African American,2054-5,174,3371252,5.2
+,2013,2013,Florida,12,White,2106-3,2699,15470380,17.4
+,2013,2013,Georgia,13,Asian or Pacific Islander,A-PI,30,399271,7.5
+,2013,2013,Georgia,13,Black or African American,2054-5,146,3206522,4.6
+,2013,2013,Georgia,13,White,2106-3,1026,6329913,16.2
+,2013,2013,Hawaii,15,Asian or Pacific Islander,A-PI,79,915836,8.6
+,2013,2013,Hawaii,15,White,2106-3,82,436884,18.8
+,2013,2013,Idaho,16,White,2106-3,304,1533351,19.8
+,2013,2013,Illinois,17,Asian or Pacific Islander,A-PI,28,699051,4
+,2013,2013,Illinois,17,Black or African American,2054-5,102,1965178,5.2
+,2013,2013,Illinois,17,White,2106-3,1189,10129482,11.7
+,2013,2013,Indiana,18,Asian or Pacific Islander,A-PI,12,137870,Unreliable
+,2013,2013,Indiana,18,Black or African American,2054-5,44,669408,6.6
+,2013,2013,Indiana,18,White,2106-3,887,5732863,15.5
+,2013,2013,Iowa,19,Black or African American,2054-5,11,119604,Unreliable
+,2013,2013,Iowa,19,White,2106-3,428,2884447,14.8
+,2013,2013,Kansas,20,Black or African American,2054-5,19,205055,Unreliable
+,2013,2013,Kansas,20,White,2106-3,392,2560201,15.3
+,2013,2013,Kentucky,21,Black or African American,2054-5,26,383114,6.8
+,2013,2013,Kentucky,21,White,2106-3,668,3932899,17
+,2013,2013,Louisiana,22,Black or African American,2054-5,75,1526736,4.9
+,2013,2013,Louisiana,22,White,2106-3,499,2971695,16.8
+,2013,2013,Maine,23,White,2106-3,243,1278933,19
+,2013,2013,Maryland,24,Asian or Pacific Islander,A-PI,17,394078,Unreliable
+,2013,2013,Maryland,24,Black or African American,2054-5,91,1844337,4.9
+,2013,2013,Maryland,24,White,2106-3,457,3651845,12.5
+,2013,2013,Massachusetts,25,Asian or Pacific Islander,A-PI,19,426894,Unreliable
+,2013,2013,Massachusetts,25,Black or African American,2054-5,22,580805,3.8
+,2013,2013,Massachusetts,25,White,2106-3,528,5647620,9.3
+,2013,2013,Michigan,26,American Indian or Alaska Native,1002-5,10,88291,Unreliable
+,2013,2013,Michigan,26,Asian or Pacific Islander,A-PI,25,294647,8.5
+,2013,2013,Michigan,26,Black or African American,2054-5,107,1485621,7.2
+,2013,2013,Michigan,26,White,2106-3,1151,8027063,14.3
+,2013,2013,Minnesota,27,American Indian or Alaska Native,1002-5,23,81661,28.2
+,2013,2013,Minnesota,27,Asian or Pacific Islander,A-PI,17,260868,Unreliable
+,2013,2013,Minnesota,27,Black or African American,2054-5,20,343718,5.8
+,2013,2013,Minnesota,27,White,2106-3,616,4734133,13
+,2013,2013,Mississippi,28,Black or African American,2054-5,55,1133698,4.9
+,2013,2013,Mississippi,28,White,2106-3,329,1805480,18.2
+,2013,2013,Missouri,29,Asian or Pacific Islander,A-PI,14,129269,Unreliable
+,2013,2013,Missouri,29,Black or African American,2054-5,48,749790,6.4
+,2013,2013,Missouri,29,White,2106-3,896,5124168,17.5
+,2013,2013,Montana,30,American Indian or Alaska Native,1002-5,25,72458,34.5
+,2013,2013,Montana,30,White,2106-3,212,923756,22.9
+,2013,2013,Nebraska,31,White,2106-3,208,1694611,12.3
+,2013,2013,Nevada,32,American Indian or Alaska Native,1002-5,10,52623,Unreliable
+,2013,2013,Nevada,32,Asian or Pacific Islander,A-PI,20,268157,7.5
+,2013,2013,Nevada,32,Black or African American,2054-5,21,278299,7.5
+,2013,2013,Nevada,32,White,2106-3,490,2191057,22.4
+,2013,2013,New Hampshire,33,White,2106-3,179,1260482,14.2
+,2013,2013,New Jersey,34,Asian or Pacific Islander,A-PI,25,852323,2.9
+,2013,2013,New Jersey,34,Black or African American,2054-5,59,1366160,4.3
+,2013,2013,New Jersey,34,White,2106-3,669,6618759,10.1
+,2013,2013,New Mexico,35,American Indian or Alaska Native,1002-5,32,228157,14
+,2013,2013,New Mexico,35,White,2106-3,386,1753479,22
+,2013,2013,New York,36,Asian or Pacific Islander,A-PI,100,1697670,5.9
+,2013,2013,New York,36,Black or African American,2054-5,136,3606924,3.8
+,2013,2013,New York,36,White,2106-3,1444,14125951,10.2
+,2013,2013,North Carolina,37,American Indian or Alaska Native,1002-5,12,163239,Unreliable
+,2013,2013,North Carolina,37,Asian or Pacific Islander,A-PI,11,279871,Unreliable
+,2013,2013,North Carolina,37,Black or African American,2054-5,116,2244173,5.2
+,2013,2013,North Carolina,37,White,2106-3,1140,7160777,15.9
+,2013,2013,North Dakota,38,American Indian or Alaska Native,1002-5,20,42031,47.6
+,2013,2013,North Dakota,38,White,2106-3,104,655643,15.9
+,2013,2013,Ohio,39,Asian or Pacific Islander,A-PI,16,244027,Unreliable
+,2013,2013,Ohio,39,Black or African American,2054-5,109,1544643,7.1
+,2013,2013,Ohio,39,White,2106-3,1401,9741342,14.4
+,2013,2013,Oklahoma,40,American Indian or Alaska Native,1002-5,64,400255,16
+,2013,2013,Oklahoma,40,Black or African American,2054-5,17,336487,Unreliable
+,2013,2013,Oklahoma,40,White,2106-3,577,3024255,19.1
+,2013,2013,Oregon,41,American Indian or Alaska Native,1002-5,10,85363,Unreliable
+,2013,2013,Oregon,41,Asian or Pacific Islander,A-PI,15,198945,Unreliable
+,2013,2013,Oregon,41,Black or African American,2054-5,10,101720,Unreliable
+,2013,2013,Oregon,41,White,2106-3,660,3544037,18.6
+,2013,2013,Pennsylvania,42,Asian or Pacific Islander,A-PI,28,424326,6.6
+,2013,2013,Pennsylvania,42,Black or African American,2054-5,88,1554879,5.7
+,2013,2013,Pennsylvania,42,White,2106-3,1669,10743840,15.5
+,2013,2013,Rhode Island,44,White,2106-3,125,913178,13.7
+,2013,2013,South Carolina,45,Black or African American,2054-5,64,1362515,4.7
+,2013,2013,South Carolina,45,White,2106-3,624,3302732,18.9
+,2013,2013,South Dakota,46,American Indian or Alaska Native,1002-5,23,79903,28.8
+,2013,2013,South Dakota,46,White,2106-3,122,734427,16.6
+,2013,2013,Tennessee,47,Black or African American,2054-5,63,1142045,5.5
+,2013,2013,Tennessee,47,White,2106-3,960,5202797,18.5
+,2013,2013,Texas,48,Asian or Pacific Islander,A-PI,73,1252181,5.8
+,2013,2013,Texas,48,Black or African American,2054-5,182,3386416,5.4
+,2013,2013,Texas,48,White,2106-3,2795,21512952,13
+,2013,2013,Utah,49,American Indian or Alaska Native,1002-5,13,48912,Unreliable
+,2013,2013,Utah,49,Asian or Pacific Islander,A-PI,16,106448,Unreliable
+,2013,2013,Utah,49,White,2106-3,546,2697259,20.2
+,2013,2013,Vermont,50,White,2106-3,109,604251,18
+,2013,2013,Virginia,51,Asian or Pacific Islander,A-PI,23,554117,4.2
+,2013,2013,Virginia,51,Black or African American,2054-5,93,1695095,5.5
+,2013,2013,Virginia,51,White,2106-3,950,5961061,15.9
+,2013,2013,Washington,53,American Indian or Alaska Native,1002-5,32,155662,20.6
+,2013,2013,Washington,53,Asian or Pacific Islander,A-PI,46,654999,7
+,2013,2013,Washington,53,Black or African American,2054-5,26,344242,7.6
+,2013,2013,Washington,53,White,2106-3,921,5816503,15.8
+,2013,2013,West Virginia,54,White,2106-3,318,1758444,18.1
+,2013,2013,Wisconsin,55,American Indian or Alaska Native,1002-5,10,71020,Unreliable
+,2013,2013,Wisconsin,55,Black or African American,2054-5,19,407587,Unreliable
+,2013,2013,Wisconsin,55,White,2106-3,812,5107934,15.9
+,2013,2013,Wyoming,56,White,2106-3,127,546718,23.2
+,2014,2014,Alabama,1,Black or African American,2054-5,68,1317566,5.2
+,2014,2014,Alabama,1,White,2106-3,644,3419940,18.8
+,2014,2014,Alaska,2,American Indian or Alaska Native,1002-5,39,123350,31.6
+,2014,2014,Alaska,2,White,2106-3,117,517504,22.6
+,2014,2014,Arizona,4,American Indian or Alaska Native,1002-5,69,382889,18
+,2014,2014,Arizona,4,Asian or Pacific Islander,A-PI,20,262371,7.6
+,2014,2014,Arizona,4,Black or African American,2054-5,39,360893,10.8
+,2014,2014,Arizona,4,White,2106-3,1113,5725331,19.4
+,2014,2014,Arkansas,5,Black or African American,2054-5,34,478462,7.1
+,2014,2014,Arkansas,5,White,2106-3,476,2399804,19.8
+,2014,2014,California,6,American Indian or Alaska Native,1002-5,33,768510,4.3
+,2014,2014,California,6,Asian or Pacific Islander,A-PI,376,6113222,6.2
+,2014,2014,California,6,Black or African American,2054-5,150,2808562,5.3
+,2014,2014,California,6,White,2106-3,3648,29112206,12.5
+,2014,2014,Colorado,8,Asian or Pacific Islander,A-PI,26,199451,13
+,2014,2014,Colorado,8,Black or African American,2054-5,19,275766,Unreliable
+,2014,2014,Colorado,8,White,2106-3,1030,4779487,21.6
+,2014,2014,Connecticut,9,Black or African American,2054-5,14,440994,Unreliable
+,2014,2014,Connecticut,9,White,2106-3,356,2960214,12
+,2014,2014,Delaware,10,White,2106-3,118,672852,17.5
+,2014,2014,District of Columbia,11,Black or African American,2054-5,23,331672,6.9
+,2014,2014,District of Columbia,11,White,2106-3,28,292649,9.6
+,2014,2014,Florida,12,Asian or Pacific Islander,A-PI,33,631668,5.2
+,2014,2014,Florida,12,Black or African American,2054-5,161,3451906,4.7
+,2014,2014,Florida,12,White,2106-3,2831,15699343,18
+,2014,2014,Georgia,13,Asian or Pacific Islander,A-PI,21,421265,5
+,2014,2014,Georgia,13,Black or African American,2054-5,167,3260440,5.1
+,2014,2014,Georgia,13,White,2106-3,1098,6358763,17.3
+,2014,2014,Hawaii,15,Asian or Pacific Islander,A-PI,95,922982,10.3
+,2014,2014,Hawaii,15,White,2106-3,107,442721,24.2
+,2014,2014,Idaho,16,White,2106-3,312,1552607,20.1
+,2014,2014,Illinois,17,Asian or Pacific Islander,A-PI,34,726423,4.7
+,2014,2014,Illinois,17,Black or African American,2054-5,94,1964390,4.8
+,2014,2014,Illinois,17,White,2106-3,1267,10101430,12.5
+,2014,2014,Indiana,18,Black or African American,2054-5,34,678326,5
+,2014,2014,Indiana,18,White,2106-3,902,5740600,15.7
+,2014,2014,Iowa,19,White,2106-3,398,2888971,13.8
+,2014,2014,Kansas,20,Black or African American,2054-5,14,207381,Unreliable
+,2014,2014,Kansas,20,White,2106-3,429,2563233,16.7
+,2014,2014,Kentucky,21,Black or African American,2054-5,29,388837,7.5
+,2014,2014,Kentucky,21,White,2106-3,693,3941696,17.6
+,2014,2014,Louisiana,22,Black or African American,2054-5,84,1538168,5.5
+,2014,2014,Louisiana,22,White,2106-3,585,2980699,19.6
+,2014,2014,Maine,23,White,2106-3,216,1278430,16.9
+,2014,2014,Maryland,24,Asian or Pacific Islander,A-PI,19,411163,Unreliable
+,2014,2014,Maryland,24,Black or African American,2054-5,97,1868002,5.2
+,2014,2014,Maryland,24,White,2106-3,487,3658054,13.3
+,2014,2014,Massachusetts,25,Asian or Pacific Islander,A-PI,13,450445,Unreliable
+,2014,2014,Massachusetts,25,Black or African American,2054-5,21,601765,3.5
+,2014,2014,Massachusetts,25,White,2106-3,559,5654782,9.9
+,2014,2014,Michigan,26,American Indian or Alaska Native,1002-5,11,88922,Unreliable
+,2014,2014,Michigan,26,Asian or Pacific Islander,A-PI,10,309905,Unreliable
+,2014,2014,Michigan,26,Black or African American,2054-5,99,1487623,6.7
+,2014,2014,Michigan,26,White,2106-3,1232,8023427,15.4
+,2014,2014,Minnesota,27,American Indian or Alaska Native,1002-5,19,82815,Unreliable
+,2014,2014,Minnesota,27,Asian or Pacific Islander,A-PI,16,273756,Unreliable
+,2014,2014,Minnesota,27,Black or African American,2054-5,29,357154,8.1
+,2014,2014,Minnesota,27,White,2106-3,622,4743448,13.1
+,2014,2014,Mississippi,28,Black or African American,2054-5,52,1137829,4.6
+,2014,2014,Mississippi,28,White,2106-3,323,1803115,17.9
+,2014,2014,Missouri,29,Black or African American,2054-5,47,755768,6.2
+,2014,2014,Missouri,29,White,2106-3,962,5130149,18.8
+,2014,2014,Montana,30,American Indian or Alaska Native,1002-5,20,73410,27.2
+,2014,2014,Montana,30,White,2106-3,227,930226,24.4
+,2014,2014,Nebraska,31,White,2106-3,239,1701738,14
+,2014,2014,Nevada,32,Asian or Pacific Islander,A-PI,19,280325,Unreliable
+,2014,2014,Nevada,32,Black or African American,2054-5,30,287687,10.4
+,2014,2014,Nevada,32,White,2106-3,514,2217014,23.2
+,2014,2014,New Hampshire,33,White,2106-3,244,1261412,19.3
+,2014,2014,New Jersey,34,Asian or Pacific Islander,A-PI,39,880934,4.4
+,2014,2014,New Jersey,34,Black or African American,2054-5,60,1381439,4.3
+,2014,2014,New Jersey,34,White,2106-3,685,6613281,10.4
+,2014,2014,New Mexico,35,American Indian or Alaska Native,1002-5,33,229626,14.4
+,2014,2014,New Mexico,35,Black or African American,2054-5,11,63023,Unreliable
+,2014,2014,New Mexico,35,White,2106-3,403,1750345,23
+,2014,2014,New York,36,Asian or Pacific Islander,A-PI,99,1767565,5.6
+,2014,2014,New York,36,Black or African American,2054-5,144,3648167,3.9
+,2014,2014,New York,36,White,2106-3,1445,14107369,10.2
+,2014,2014,North Carolina,37,American Indian or Alaska Native,1002-5,17,164993,Unreliable
+,2014,2014,North Carolina,37,Asian or Pacific Islander,A-PI,19,296909,Unreliable
+,2014,2014,North Carolina,37,Black or African American,2054-5,126,2272052,5.5
+,2014,2014,North Carolina,37,White,2106-3,1191,7210010,16.5
+,2014,2014,North Dakota,38,White,2106-3,128,667148,19.2
+,2014,2014,Ohio,39,Asian or Pacific Islander,A-PI,26,258339,10.1
+,2014,2014,Ohio,39,Black or African American,2054-5,97,1561477,6.2
+,2014,2014,Ohio,39,White,2106-3,1367,9733011,14
+,2014,2014,Oklahoma,40,American Indian or Alaska Native,1002-5,71,405267,17.5
+,2014,2014,Oklahoma,40,Black or African American,2054-5,27,341243,7.9
+,2014,2014,Oklahoma,40,White,2106-3,628,3035813,20.7
+,2014,2014,Oregon,41,Asian or Pacific Islander,A-PI,21,208263,10.1
+,2014,2014,Oregon,41,White,2106-3,749,3570524,21
+,2014,2014,Pennsylvania,42,Asian or Pacific Islander,A-PI,25,445760,5.6
+,2014,2014,Pennsylvania,42,Black or African American,2054-5,94,1572487,6
+,2014,2014,Pennsylvania,42,White,2106-3,1693,10716775,15.8
+,2014,2014,Rhode Island,44,White,2106-3,103,911548,11.3
+,2014,2014,South Carolina,45,Black or African American,2054-5,72,1374865,5.2
+,2014,2014,South Carolina,45,White,2106-3,674,3343943,20.2
+,2014,2014,South Dakota,46,American Indian or Alaska Native,1002-5,23,80657,28.5
+,2014,2014,South Dakota,46,White,2106-3,116,740650,15.7
+,2014,2014,Tennessee,47,Black or African American,2054-5,55,1155583,4.8
+,2014,2014,Tennessee,47,White,2106-3,935,5235081,17.9
+,2014,2014,Texas,48,Asian or Pacific Islander,A-PI,68,1331159,5.1
+,2014,2014,Texas,48,Black or African American,2054-5,234,3471829,6.7
+,2014,2014,Texas,48,White,2106-3,2938,21851213,13.4
+,2014,2014,Utah,49,Asian or Pacific Islander,A-PI,10,111790,Unreliable
+,2014,2014,Utah,49,White,2106-3,537,2730417,19.7
+,2014,2014,Vermont,50,White,2106-3,122,602857,20.2
+,2014,2014,Virginia,51,Asian or Pacific Islander,A-PI,36,577726,6.2
+,2014,2014,Virginia,51,Black or African American,2054-5,97,1711801,5.7
+,2014,2014,Virginia,51,White,2106-3,984,5985615,16.4
+,2014,2014,Washington,53,American Indian or Alaska Native,1002-5,33,159484,20.7
+,2014,2014,Washington,53,Asian or Pacific Islander,A-PI,60,684889,8.8
+,2014,2014,Washington,53,Black or African American,2054-5,24,355573,6.7
+,2014,2014,Washington,53,White,2106-3,998,5861584,17
+,2014,2014,West Virginia,54,White,2106-3,352,1752941,20.1
+,2014,2014,Wisconsin,55,Asian or Pacific Islander,A-PI,10,163934,Unreliable
+,2014,2014,Wisconsin,55,Black or African American,2054-5,21,411489,5.1
+,2014,2014,Wisconsin,55,White,2106-3,728,5109986,14.2
+,2014,2014,Wyoming,56,White,2106-3,117,548511,21.3
+,2015,2015,Alabama,1,Black or African American,2054-5,70,1325905,5.3
+,2015,2015,Alabama,1,White,2106-3,677,3418094,19.8
+,2015,2015,Alaska,2,American Indian or Alaska Native,1002-5,64,123952,51.6
+,2015,2015,Alaska,2,White,2106-3,125,516494,24.2
+,2015,2015,Arizona,4,American Indian or Alaska Native,1002-5,65,388640,16.7
+,2015,2015,Arizona,4,Asian or Pacific Islander,A-PI,20,273899,7.3
+,2015,2015,Arizona,4,Black or African American,2054-5,29,374864,7.7
+,2015,2015,Arizona,4,White,2106-3,1162,5790662,20.1
+,2015,2015,Arkansas,5,Black or African American,2054-5,23,481843,4.8
+,2015,2015,Arkansas,5,White,2106-3,545,2404531,22.7
+,2015,2015,California,6,American Indian or Alaska Native,1002-5,32,772709,4.1
+,2015,2015,California,6,Asian or Pacific Islander,A-PI,393,6276070,6.3
+,2015,2015,California,6,Black or African American,2054-5,164,2827821,5.8
+,2015,2015,California,6,White,2106-3,3576,29268218,12.2
+,2015,2015,Colorado,8,American Indian or Alaska Native,1002-5,13,103235,Unreliable
+,2015,2015,Colorado,8,Asian or Pacific Islander,A-PI,16,209275,Unreliable
+,2015,2015,Colorado,8,Black or African American,2054-5,29,284005,10.2
+,2015,2015,Colorado,8,White,2106-3,1035,4860059,21.3
+,2015,2015,Connecticut,9,Asian or Pacific Islander,A-PI,11,178368,Unreliable
+,2015,2015,Connecticut,9,Black or African American,2054-5,17,445929,Unreliable
+,2015,2015,Connecticut,9,White,2106-3,355,2944009,12.1
+,2015,2015,Delaware,10,Black or African American,2054-5,22,221986,9.9
+,2015,2015,Delaware,10,White,2106-3,98,677149,14.5
+,2015,2015,District of Columbia,11,Black or African American,2054-5,18,333883,Unreliable
+,2015,2015,District of Columbia,11,White,2106-3,15,301687,Unreliable
+,2015,2015,Florida,12,Asian or Pacific Islander,A-PI,43,658187,6.5
+,2015,2015,Florida,12,Black or African American,2054-5,172,3528984,4.9
+,2015,2015,Florida,12,White,2106-3,2978,15971454,18.6
+,2015,2015,Georgia,13,Asian or Pacific Islander,A-PI,35,444592,7.9
+,2015,2015,Georgia,13,Black or African American,2054-5,201,3320419,6.1
+,2015,2015,Georgia,13,White,2106-3,1081,6392399,16.9
+,2015,2015,Hawaii,15,Asian or Pacific Islander,A-PI,107,927227,11.5
+,2015,2015,Hawaii,15,White,2106-3,86,447725,19.2
+,2015,2015,Idaho,16,White,2106-3,346,1570040,22
+,2015,2015,Illinois,17,Asian or Pacific Islander,A-PI,36,750026,4.8
+,2015,2015,Illinois,17,Black or African American,2054-5,98,1962578,5
+,2015,2015,Illinois,17,White,2106-3,1227,10058772,12.2
+,2015,2015,Indiana,18,Black or African American,2054-5,48,685966,7
+,2015,2015,Indiana,18,White,2106-3,908,5745559,15.8
+,2015,2015,Iowa,19,White,2106-3,421,2895570,14.5
+,2015,2015,Kansas,20,American Indian or Alaska Native,1002-5,10,42729,Unreliable
+,2015,2015,Kansas,20,Black or African American,2054-5,22,209415,10.5
+,2015,2015,Kansas,20,White,2106-3,438,2564958,17.1
+,2015,2015,Kentucky,21,Black or African American,2054-5,23,392826,5.9
+,2015,2015,Kentucky,21,White,2106-3,750,3945716,19
+,2015,2015,Louisiana,22,Black or African American,2054-5,89,1546176,5.8
+,2015,2015,Louisiana,22,White,2106-3,623,2990198,20.8
+,2015,2015,Maine,23,White,2106-3,231,1276636,18.1
+,2015,2015,Maryland,24,Asian or Pacific Islander,A-PI,18,424047,Unreliable
+,2015,2015,Maryland,24,Black or African American,2054-5,87,1890111,4.6
+,2015,2015,Maryland,24,White,2106-3,448,3652546,12.3
+,2015,2015,Massachusetts,25,Asian or Pacific Islander,A-PI,17,471888,Unreliable
+,2015,2015,Massachusetts,25,Black or African American,2054-5,30,619655,4.8
+,2015,2015,Massachusetts,25,White,2106-3,594,5663975,10.5
+,2015,2015,Michigan,26,American Indian or Alaska Native,1002-5,17,89554,Unreliable
+,2015,2015,Michigan,26,Asian or Pacific Islander,A-PI,11,324446,Unreliable
+,2015,2015,Michigan,26,Black or African American,2054-5,88,1489718,5.9
+,2015,2015,Michigan,26,White,2106-3,1292,8018858,16.1
+,2015,2015,Minnesota,27,American Indian or Alaska Native,1002-5,17,84122,Unreliable
+,2015,2015,Minnesota,27,Asian or Pacific Islander,A-PI,23,285588,8.1
+,2015,2015,Minnesota,27,Black or African American,2054-5,25,366862,6.8
+,2015,2015,Minnesota,27,White,2106-3,664,4753022,14
+,2015,2015,Mississippi,28,Black or African American,2054-5,63,1140310,5.5
+,2015,2015,Mississippi,28,White,2106-3,365,1797286,20.3
+,2015,2015,Missouri,29,Asian or Pacific Islander,A-PI,13,141960,Unreliable
+,2015,2015,Missouri,29,Black or African American,2054-5,51,761321,6.7
+,2015,2015,Missouri,29,White,2106-3,981,5137798,19.1
+,2015,2015,Montana,30,American Indian or Alaska Native,1002-5,21,74383,28.2
+,2015,2015,Montana,30,White,2106-3,249,937867,26.5
+,2015,2015,Nebraska,31,White,2106-3,213,1709900,12.5
+,2015,2015,Nevada,32,Asian or Pacific Islander,A-PI,32,292939,10.9
+,2015,2015,Nevada,32,Black or African American,2054-5,27,298727,9
+,2015,2015,Nevada,32,White,2106-3,492,2243778,21.9
+,2015,2015,New Hampshire,33,White,2106-3,225,1263680,17.8
+,2015,2015,New Jersey,34,Asian or Pacific Islander,A-PI,36,906393,4
+,2015,2015,New Jersey,34,Black or African American,2054-5,56,1392086,4
+,2015,2015,New Jersey,34,White,2106-3,695,6596284,10.5
+,2015,2015,New Mexico,35,American Indian or Alaska Native,1002-5,50,231645,21.6
+,2015,2015,New Mexico,35,White,2106-3,438,1745634,25.1
+,2015,2015,New York,36,Asian or Pacific Islander,A-PI,98,1826093,5.4
+,2015,2015,New York,36,Black or African American,2054-5,152,3665284,4.1
+,2015,2015,New York,36,White,2106-3,1397,14080073,9.9
+,2015,2015,North Carolina,37,American Indian or Alaska Native,1002-5,17,166648,Unreliable
+,2015,2015,North Carolina,37,Asian or Pacific Islander,A-PI,16,314937,Unreliable
+,2015,2015,North Carolina,37,Black or African American,2054-5,112,2301313,4.9
+,2015,2015,North Carolina,37,White,2106-3,1258,7259904,17.3
+,2015,2015,North Dakota,38,American Indian or Alaska Native,1002-5,10,44351,Unreliable
+,2015,2015,North Dakota,38,White,2106-3,112,678936,16.5
+,2015,2015,Ohio,39,Asian or Pacific Islander,A-PI,20,270659,7.4
+,2015,2015,Ohio,39,Black or African American,2054-5,105,1578549,6.7
+,2015,2015,Ohio,39,White,2106-3,1523,9722459,15.7
+,2015,2015,Oklahoma,40,American Indian or Alaska Native,1002-5,72,410725,17.5
+,2015,2015,Oklahoma,40,Black or African American,2054-5,26,346973,7.5
+,2015,2015,Oklahoma,40,White,2106-3,683,3052773,22.4
+,2015,2015,Oregon,41,American Indian or Alaska Native,1002-5,11,88423,Unreliable
+,2015,2015,Oregon,41,Asian or Pacific Islander,A-PI,24,218013,11
+,2015,2015,Oregon,41,Black or African American,2054-5,14,108507,Unreliable
+,2015,2015,Oregon,41,White,2106-3,711,3614034,19.7
+,2015,2015,Pennsylvania,42,Asian or Pacific Islander,A-PI,34,464227,7.3
+,2015,2015,Pennsylvania,42,Black or African American,2054-5,101,1588739,6.4
+,2015,2015,Pennsylvania,42,White,2106-3,1755,10695940,16.4
+,2015,2015,Rhode Island,44,White,2106-3,113,908987,12.4
+,2015,2015,South Carolina,45,Asian or Pacific Islander,A-PI,16,89474,Unreliable
+,2015,2015,South Carolina,45,Black or African American,2054-5,71,1387150,5.1
+,2015,2015,South Carolina,45,White,2106-3,652,3390607,19.2
+,2015,2015,South Dakota,46,American Indian or Alaska Native,1002-5,51,81550,62.5
+,2015,2015,South Dakota,46,White,2106-3,115,743966,15.5
+,2015,2015,Tennessee,47,Asian or Pacific Islander,A-PI,14,133060,Unreliable
+,2015,2015,Tennessee,47,Black or African American,2054-5,65,1167771,5.6
+,2015,2015,Tennessee,47,White,2106-3,988,5267640,18.8
+,2015,2015,Texas,48,American Indian or Alaska Native,1002-5,10,309742,Unreliable
+,2015,2015,Texas,48,Asian or Pacific Islander,A-PI,84,1412908,5.9
+,2015,2015,Texas,48,Black or African American,2054-5,197,3557565,5.5
+,2015,2015,Texas,48,White,2106-3,3109,22188899,14
+,2015,2015,Utah,49,American Indian or Alaska Native,1002-5,16,52088,Unreliable
+,2015,2015,Utah,49,Asian or Pacific Islander,A-PI,12,117854,Unreliable
+,2015,2015,Utah,49,White,2106-3,599,2774714,21.6
+,2015,2015,Vermont,50,White,2106-3,101,601224,16.8
+,2015,2015,Virginia,51,Asian or Pacific Islander,A-PI,39,598807,6.5
+,2015,2015,Virginia,51,Black or African American,2054-5,107,1729691,6.2
+,2015,2015,Virginia,51,White,2106-3,963,6003584,16
+,2015,2015,Washington,53,American Indian or Alaska Native,1002-5,28,163021,17.2
+,2015,2015,Washington,53,Asian or Pacific Islander,A-PI,58,717568,8.1
+,2015,2015,Washington,53,Black or African American,2054-5,30,366391,8.2
+,2015,2015,Washington,53,White,2106-3,1018,5923371,17.2
+,2015,2015,West Virginia,54,White,2106-3,333,1745625,19.1
+,2015,2015,Wisconsin,55,Asian or Pacific Islander,A-PI,12,171414,Unreliable
+,2015,2015,Wisconsin,55,Black or African American,2054-5,13,415631,Unreliable
+,2015,2015,Wisconsin,55,White,2106-3,842,5111213,16.5
+,2015,2015,Wyoming,56,White,2106-3,153,550547,27.8
+,2016,2016,Alabama,1,Black or African American,2054-5,70,1329648,5.3
+,2016,2016,Alabama,1,White,2106-3,714,3416909,20.9
+,2016,2016,Alaska,2,American Indian or Alaska Native,1002-5,60,127052,47.2
+,2016,2016,Alaska,2,Asian or Pacific Islander,A-PI,11,62157,Unreliable
+,2016,2016,Alaska,2,White,2106-3,115,516247,22.3
+,2016,2016,Arizona,4,American Indian or Alaska Native,1002-5,82,397840,20.6
+,2016,2016,Arizona,4,Asian or Pacific Islander,A-PI,28,280091,10
+,2016,2016,Arizona,4,Black or African American,2054-5,34,385444,8.8
+,2016,2016,Arizona,4,White,2106-3,1125,5867696,19.2
+,2016,2016,Arkansas,5,Black or African American,2054-5,36,484598,7.4
+,2016,2016,Arkansas,5,White,2106-3,510,2411255,21.2
+,2016,2016,California,6,American Indian or Alaska Native,1002-5,52,773355,6.7
+,2016,2016,California,6,Asian or Pacific Islander,A-PI,409,6362798,6.4
+,2016,2016,California,6,Black or African American,2054-5,185,2829264,6.5
+,2016,2016,California,6,White,2106-3,3633,29284600,12.4
+,2016,2016,Colorado,8,American Indian or Alaska Native,1002-5,18,105212,Unreliable
+,2016,2016,Colorado,8,Asian or Pacific Islander,A-PI,21,213854,9.8
+,2016,2016,Colorado,8,Black or African American,2054-5,30,289206,10.4
+,2016,2016,Colorado,8,White,2106-3,1098,4932273,22.3
+,2016,2016,Connecticut,9,Black or African American,2054-5,19,449615,Unreliable
+,2016,2016,Connecticut,9,White,2106-3,368,2924274,12.6
+,2016,2016,Delaware,10,Black or African American,2054-5,13,225293,Unreliable
+,2016,2016,Delaware,10,White,2106-3,106,679017,15.6
+,2016,2016,District of Columbia,11,Black or African American,2054-5,15,334736,Unreliable
+,2016,2016,District of Columbia,11,White,2106-3,23,309313,7.4
+,2016,2016,Florida,12,Asian or Pacific Islander,A-PI,50,671619,7.4
+,2016,2016,Florida,12,Black or African American,2054-5,191,3597739,5.3
+,2016,2016,Florida,12,White,2106-3,2888,16228615,17.8
+,2016,2016,Georgia,13,Asian or Pacific Islander,A-PI,30,456404,6.6
+,2016,2016,Georgia,13,Black or African American,2054-5,214,3384642,6.3
+,2016,2016,Georgia,13,White,2106-3,1158,6410781,18.1
+,2016,2016,Hawaii,15,Asian or Pacific Islander,A-PI,111,942954,11.8
+,2016,2016,Hawaii,15,White,2106-3,56,435637,12.9
+,2016,2016,Idaho,16,White,2106-3,337,1596443,21.1
+,2016,2016,Illinois,17,Asian or Pacific Islander,A-PI,41,752406,5.4
+,2016,2016,Illinois,17,Black or African American,2054-5,94,1953836,4.8
+,2016,2016,Illinois,17,White,2106-3,1278,10006563,12.8
+,2016,2016,Indiana,18,Asian or Pacific Islander,A-PI,16,164449,Unreliable
+,2016,2016,Indiana,18,Black or African American,2054-5,63,692488,9.1
+,2016,2016,Indiana,18,White,2106-3,953,5744213,16.6
+,2016,2016,Iowa,19,Black or African American,2054-5,12,135448,Unreliable
+,2016,2016,Iowa,19,White,2106-3,427,2894851,14.8
+,2016,2016,Kansas,20,American Indian or Alaska Native,1002-5,10,42527,Unreliable
+,2016,2016,Kansas,20,Black or African American,2054-5,26,206845,12.6
+,2016,2016,Kansas,20,White,2106-3,470,2561433,18.3
+,2016,2016,Kentucky,21,Black or African American,2054-5,33,395083,8.4
+,2016,2016,Kentucky,21,White,2106-3,715,3952664,18.1
+,2016,2016,Louisiana,22,Black or African American,2054-5,89,1554167,5.7
+,2016,2016,Louisiana,22,White,2106-3,576,2993420,19.2
+,2016,2016,Maine,23,White,2106-3,214,1277480,16.8
+,2016,2016,Maryland,24,Asian or Pacific Islander,A-PI,32,428535,7.5
+,2016,2016,Maryland,24,Black or African American,2054-5,97,1907689,5.1
+,2016,2016,Maryland,24,White,2106-3,456,3639880,12.5
+,2016,2016,Massachusetts,25,Asian or Pacific Islander,A-PI,23,480956,4.8
+,2016,2016,Massachusetts,25,Black or African American,2054-5,31,634682,4.9
+,2016,2016,Massachusetts,25,White,2106-3,575,5656810,10.2
+,2016,2016,Michigan,26,American Indian or Alaska Native,1002-5,11,90456,Unreliable
+,2016,2016,Michigan,26,Asian or Pacific Islander,A-PI,13,333893,Unreliable
+,2016,2016,Michigan,26,Black or African American,2054-5,110,1488644,7.4
+,2016,2016,Michigan,26,White,2106-3,1228,8015307,15.3
+,2016,2016,Minnesota,27,American Indian or Alaska Native,1002-5,18,85051,Unreliable
+,2016,2016,Minnesota,27,Asian or Pacific Islander,A-PI,20,290391,6.9
+,2016,2016,Minnesota,27,Black or African American,2054-5,25,383880,6.5
+,2016,2016,Minnesota,27,White,2106-3,682,4760630,14.3
+,2016,2016,Mississippi,28,Black or African American,2054-5,51,1142681,4.5
+,2016,2016,Mississippi,28,White,2106-3,328,1790820,18.3
+,2016,2016,Missouri,29,Asian or Pacific Islander,A-PI,20,142940,14
+,2016,2016,Missouri,29,Black or African American,2054-5,71,765154,9.3
+,2016,2016,Missouri,29,White,2106-3,1037,5141898,20.2
+,2016,2016,Montana,30,American Indian or Alaska Native,1002-5,18,75653,Unreliable
+,2016,2016,Montana,30,White,2106-3,249,946324,26.3
+,2016,2016,Nebraska,31,Black or African American,2054-5,14,108122,Unreliable
+,2016,2016,Nebraska,31,White,2106-3,222,1715806,12.9
+,2016,2016,Nevada,32,Asian or Pacific Islander,A-PI,33,302266,10.9
+,2016,2016,Nevada,32,Black or African American,2054-5,36,313615,11.5
+,2016,2016,Nevada,32,White,2106-3,573,2267822,25.3
+,2016,2016,New Hampshire,33,White,2106-3,240,1266167,19
+,2016,2016,New Jersey,34,Asian or Pacific Islander,A-PI,39,915125,4.3
+,2016,2016,New Jersey,34,Black or African American,2054-5,45,1401290,3.2
+,2016,2016,New Jersey,34,White,2106-3,601,6564595,9.2
+,2016,2016,New Mexico,35,American Indian or Alaska Native,1002-5,42,232324,18.1
+,2016,2016,New Mexico,35,White,2106-3,420,1742956,24.1
+,2016,2016,New York,36,Asian or Pacific Islander,A-PI,91,1844346,4.9
+,2016,2016,New York,36,Black or African American,2054-5,161,3667316,4.4
+,2016,2016,New York,36,White,2106-3,1418,14007968,10.1
+,2016,2016,North Carolina,37,American Indian or Alaska Native,1002-5,12,169303,Unreliable
+,2016,2016,North Carolina,37,Asian or Pacific Islander,A-PI,29,328335,8.8
+,2016,2016,North Carolina,37,Black or African American,2054-5,111,2333929,4.8
+,2016,2016,North Carolina,37,White,2106-3,1218,7315221,16.7
+,2016,2016,North Dakota,38,American Indian or Alaska Native,1002-5,20,44676,44.8
+,2016,2016,North Dakota,38,White,2106-3,118,674630,17.5
+,2016,2016,Ohio,39,Asian or Pacific Islander,A-PI,26,282599,9.2
+,2016,2016,Ohio,39,Black or African American,2054-5,119,1592236,7.5
+,2016,2016,Ohio,39,White,2106-3,1557,9697106,16.1
+,2016,2016,Oklahoma,40,American Indian or Alaska Native,1002-5,82,415768,19.7
+,2016,2016,Oklahoma,40,Asian or Pacific Islander,A-PI,11,103997,Unreliable
+,2016,2016,Oklahoma,40,Black or African American,2054-5,22,348988,6.3
+,2016,2016,Oklahoma,40,White,2106-3,706,3054808,23.1
+,2016,2016,Oregon,41,American Indian or Alaska Native,1002-5,13,89876,Unreliable
+,2016,2016,Oregon,41,Asian or Pacific Islander,A-PI,17,225173,Unreliable
+,2016,2016,Oregon,41,Black or African American,2054-5,11,112667,Unreliable
+,2016,2016,Oregon,41,White,2106-3,730,3665749,19.9
+,2016,2016,Pennsylvania,42,Asian or Pacific Islander,A-PI,29,472834,6.1
+,2016,2016,Pennsylvania,42,Black or African American,2054-5,103,1599349,6.4
+,2016,2016,Pennsylvania,42,White,2106-3,1832,10656890,17.2
+,2016,2016,Rhode Island,44,White,2106-3,121,906089,13.4
+,2016,2016,South Carolina,45,Black or African American,2054-5,80,1398222,5.7
+,2016,2016,South Carolina,45,White,2106-3,727,3441510,21.1
+,2016,2016,South Dakota,46,American Indian or Alaska Native,1002-5,43,82770,52
+,2016,2016,South Dakota,46,White,2106-3,117,747000,15.7
+,2016,2016,Tennessee,47,Asian or Pacific Islander,A-PI,13,136497,Unreliable
+,2016,2016,Tennessee,47,Black or African American,2054-5,80,1177064,6.8
+,2016,2016,Tennessee,47,White,2106-3,1015,5305294,19.1
+,2016,2016,Texas,48,American Indian or Alaska Native,1002-5,10,313507,Unreliable
+,2016,2016,Texas,48,Asian or Pacific Islander,A-PI,87,1467555,5.9
+,2016,2016,Texas,48,Black or African American,2054-5,237,3634085,6.5
+,2016,2016,Texas,48,White,2106-3,3143,22447449,14
+,2016,2016,Utah,49,Asian or Pacific Islander,A-PI,10,122084,Unreliable
+,2016,2016,Utah,49,White,2106-3,596,2822315,21.1
+,2016,2016,Vermont,50,White,2106-3,114,598811,19
+,2016,2016,Virginia,51,Asian or Pacific Islander,A-PI,36,608678,5.9
+,2016,2016,Virginia,51,Black or African American,2054-5,122,1741448,7
+,2016,2016,Virginia,51,White,2106-3,1003,6010786,16.7
+,2016,2016,Washington,53,American Indian or Alaska Native,1002-5,31,166151,18.7
+,2016,2016,Washington,53,Asian or Pacific Islander,A-PI,62,743134,8.3
+,2016,2016,Washington,53,Black or African American,2054-5,40,376367,10.6
+,2016,2016,Washington,53,White,2106-3,1001,6002348,16.7
+,2016,2016,West Virginia,54,Black or African American,2054-5,11,75405,Unreliable
+,2016,2016,West Virginia,54,White,2106-3,350,1733549,20.2
+,2016,2016,Wisconsin,55,American Indian or Alaska Native,1002-5,17,73825,Unreliable
+,2016,2016,Wisconsin,55,Asian or Pacific Islander,A-PI,12,175761,Unreliable
+,2016,2016,Wisconsin,55,Black or African American,2054-5,27,417195,6.5
+,2016,2016,Wisconsin,55,White,2106-3,809,5111927,15.8
+,2016,2016,Wyoming,56,White,2106-3,139,550665,25.2
+,2017,2017,Alabama,1,Black or African American,2054-5,78,1335240,5.8
+,2017,2017,Alabama,1,White,2106-3,750,3419705,21.9
+,2017,2017,Alaska,2,American Indian or Alaska Native,1002-5,68,127624,53.3
+,2017,2017,Alaska,2,White,2106-3,119,512623,23.2
+,2017,2017,Arizona,4,American Indian or Alaska Native,1002-5,91,400322,22.7
+,2017,2017,Arizona,4,Asian or Pacific Islander,A-PI,25,292842,8.5
+,2017,2017,Arizona,4,Black or African American,2054-5,40,397421,10.1
+,2017,2017,Arizona,4,White,2106-3,1169,5925685,19.7
+,2017,2017,Arkansas,5,Asian or Pacific Islander,A-PI,11,62867,Unreliable
+,2017,2017,Arkansas,5,Black or African American,2054-5,36,487926,7.4
+,2017,2017,Arkansas,5,White,2106-3,578,2420319,23.9
+,2017,2017,California,6,American Indian or Alaska Native,1002-5,41,776662,5.3
+,2017,2017,California,6,Asian or Pacific Islander,A-PI,420,6548662,6.4
+,2017,2017,California,6,Black or African American,2054-5,200,2841787,7
+,2017,2017,California,6,White,2106-3,3639,29369542,12.4
+,2017,2017,Colorado,8,American Indian or Alaska Native,1002-5,18,106359,Unreliable
+,2017,2017,Colorado,8,Asian or Pacific Islander,A-PI,24,222838,10.8
+,2017,2017,Colorado,8,Black or African American,2054-5,37,295430,12.5
+,2017,2017,Colorado,8,White,2106-3,1099,4982527,22.1
+,2017,2017,Connecticut,9,Black or African American,2054-5,30,456300,6.6
+,2017,2017,Connecticut,9,White,2106-3,368,2922942,12.6
+,2017,2017,Delaware,10,Black or African American,2054-5,10,230038,Unreliable
+,2017,2017,Delaware,10,White,2106-3,99,682095,14.5
+,2017,2017,District of Columbia,11,Black or African American,2054-5,21,336542,6.2
+,2017,2017,District of Columbia,11,White,2106-3,26,318871,8.2
+,2017,2017,Florida,12,Asian or Pacific Islander,A-PI,47,700659,6.7
+,2017,2017,Florida,12,Black or African American,2054-5,192,3678445,5.2
+,2017,2017,Florida,12,White,2106-3,2977,16488470,18.1
+,2017,2017,Georgia,13,Asian or Pacific Islander,A-PI,29,477375,6.1
+,2017,2017,Georgia,13,Black or African American,2054-5,225,3447386,6.5
+,2017,2017,Georgia,13,White,2106-3,1193,6444657,18.5
+,2017,2017,Hawaii,15,Asian or Pacific Islander,A-PI,111,944282,11.8
+,2017,2017,Hawaii,15,White,2106-3,111,433320,25.6
+,2017,2017,Idaho,16,White,2106-3,383,1626437,23.5
+,2017,2017,Illinois,17,Asian or Pacific Islander,A-PI,34,774210,4.4
+,2017,2017,Illinois,17,Black or African American,2054-5,134,1950271,6.9
+,2017,2017,Illinois,17,White,2106-3,1302,9988400,13
+,2017,2017,Indiana,18,Asian or Pacific Islander,A-PI,10,173590,Unreliable
+,2017,2017,Indiana,18,Black or African American,2054-5,61,702537,8.7
+,2017,2017,Indiana,18,White,2106-3,1020,5758280,17.7
+,2017,2017,Iowa,19,White,2106-3,462,2895505,16
+,2017,2017,Kansas,20,American Indian or Alaska Native,1002-5,10,42676,Unreliable
+,2017,2017,Kansas,20,Asian or Pacific Islander,A-PI,15,100376,Unreliable
+,2017,2017,Kansas,20,Black or African American,2054-5,24,207469,11.6
+,2017,2017,Kansas,20,White,2106-3,503,2562602,19.6
+,2017,2017,Kentucky,21,Black or African American,2054-5,32,401334,8
+,2017,2017,Kentucky,21,White,2106-3,730,3959768,18.4
+,2017,2017,Louisiana,22,Black or African American,2054-5,118,1558498,7.6
+,2017,2017,Louisiana,22,White,2106-3,594,2988801,19.9
+,2017,2017,Maine,23,White,2106-3,268,1280369,20.9
+,2017,2017,Maryland,24,Asian or Pacific Islander,A-PI,24,440915,5.4
+,2017,2017,Maryland,24,Black or African American,2054-5,109,1926348,5.7
+,2017,2017,Maryland,24,White,2106-3,495,3643426,13.6
+,2017,2017,Massachusetts,25,Asian or Pacific Islander,A-PI,25,500403,5
+,2017,2017,Massachusetts,25,Black or African American,2054-5,25,653142,3.8
+,2017,2017,Massachusetts,25,White,2106-3,632,5666330,11.2
+,2017,2017,Michigan,26,American Indian or Alaska Native,1002-5,12,91554,Unreliable
+,2017,2017,Michigan,26,Asian or Pacific Islander,A-PI,23,348202,6.6
+,2017,2017,Michigan,26,Black or African American,2054-5,94,1493499,6.3
+,2017,2017,Michigan,26,White,2106-3,1327,8029056,16.5
+,2017,2017,Minnesota,27,American Indian or Alaska Native,1002-5,21,86751,24.2
+,2017,2017,Minnesota,27,Asian or Pacific Islander,A-PI,27,303639,8.9
+,2017,2017,Minnesota,27,Black or African American,2054-5,23,406448,5.7
+,2017,2017,Minnesota,27,White,2106-3,707,4779768,14.8
+,2017,2017,Mississippi,28,Black or African American,2054-5,58,1142650,5.1
+,2017,2017,Mississippi,28,White,2106-3,382,1785378,21.4
+,2017,2017,Missouri,29,Black or African American,2054-5,70,768926,9.1
+,2017,2017,Missouri,29,White,2106-3,1070,5152579,20.8
+,2017,2017,Montana,30,American Indian or Alaska Native,1002-5,32,76587,41.8
+,2017,2017,Montana,30,White,2106-3,276,952702,29
+,2017,2017,Nebraska,31,White,2106-3,258,1722394,15
+,2017,2017,Nevada,32,Asian or Pacific Islander,A-PI,38,314262,12.1
+,2017,2017,Nevada,32,Black or African American,2054-5,45,328672,13.7
+,2017,2017,Nevada,32,White,2106-3,540,2297024,23.5
+,2017,2017,New Hampshire,33,White,2106-3,260,1271499,20.4
+,2017,2017,New Jersey,34,Asian or Pacific Islander,A-PI,50,945732,5.3
+,2017,2017,New Jersey,34,Black or African American,2054-5,70,1412387,5
+,2017,2017,New Jersey,34,White,2106-3,675,6583130,10.3
+,2017,2017,New Mexico,35,American Indian or Alaska Native,1002-5,44,239695,18.4
+,2017,2017,New Mexico,35,White,2106-3,435,1740703,25
+,2017,2017,New York,36,Asian or Pacific Islander,A-PI,99,1902407,5.2
+,2017,2017,New York,36,Black or African American,2054-5,169,3695842,4.6
+,2017,2017,New York,36,White,2106-3,1422,14023221,10.1
+,2017,2017,North Carolina,37,American Indian or Alaska Native,1002-5,20,172072,11.6
+,2017,2017,North Carolina,37,Asian or Pacific Islander,A-PI,18,346695,Unreliable
+,2017,2017,North Carolina,37,Black or African American,2054-5,145,2364451,6.1
+,2017,2017,North Carolina,37,White,2106-3,1338,7390201,18.1
+,2017,2017,North Dakota,38,American Indian or Alaska Native,1002-5,17,44685,Unreliable
+,2017,2017,North Dakota,38,White,2106-3,135,670004,20.1
+,2017,2017,Ohio,39,Asian or Pacific Islander,A-PI,28,299358,9.4
+,2017,2017,Ohio,39,Black or African American,2054-5,138,1613123,8.6
+,2017,2017,Ohio,39,White,2106-3,1573,9702995,16.2
+,2017,2017,Oklahoma,40,American Indian or Alaska Native,1002-5,77,419507,18.4
+,2017,2017,Oklahoma,40,Asian or Pacific Islander,A-PI,12,107783,Unreliable
+,2017,2017,Oklahoma,40,Black or African American,2054-5,35,351707,10
+,2017,2017,Oklahoma,40,White,2106-3,632,3051867,20.7
+,2017,2017,Oregon,41,American Indian or Alaska Native,1002-5,14,91652,Unreliable
+,2017,2017,Oregon,41,Asian or Pacific Islander,A-PI,23,236022,9.7
+,2017,2017,Oregon,41,Black or African American,2054-5,13,117380,Unreliable
+,2017,2017,Oregon,41,White,2106-3,774,3697722,20.9
+,2017,2017,Pennsylvania,42,Asian or Pacific Islander,A-PI,27,494034,5.5
+,2017,2017,Pennsylvania,42,Black or African American,2054-5,131,1617500,8.1
+,2017,2017,Pennsylvania,42,White,2106-3,1872,10637357,17.6
+,2017,2017,Rhode Island,44,White,2106-3,115,905231,12.7
+,2017,2017,South Carolina,45,Asian or Pacific Islander,A-PI,10,98226,Unreliable
+,2017,2017,South Carolina,45,Black or African American,2054-5,100,1409678,7.1
+,2017,2017,South Carolina,45,White,2106-3,724,3486473,20.8
+,2017,2017,South Dakota,46,American Indian or Alaska Native,1002-5,47,83602,56.2
+,2017,2017,South Dakota,46,White,2106-3,141,748768,18.8
+,2017,2017,Tennessee,47,Asian or Pacific Islander,A-PI,10,142118,Unreliable
+,2017,2017,Tennessee,47,Black or African American,2054-5,73,1189804,6.1
+,2017,2017,Tennessee,47,White,2106-3,1081,5350680,20.2
+,2017,2017,Texas,48,Asian or Pacific Islander,A-PI,102,1540052,6.6
+,2017,2017,Texas,48,Black or African American,2054-5,285,3717259,7.7
+,2017,2017,Texas,48,White,2106-3,3376,22728838,14.9
+,2017,2017,Utah,49,American Indian or Alaska Native,1002-5,13,53958,Unreliable
+,2017,2017,Utah,49,Asian or Pacific Islander,A-PI,16,126054,Unreliable
+,2017,2017,Utah,49,White,2106-3,628,2866353,21.9
+,2017,2017,Vermont,50,White,2106-3,108,597247,18.1
+,2017,2017,Virginia,51,Asian or Pacific Islander,A-PI,33,630376,5.2
+,2017,2017,Virginia,51,Black or African American,2054-5,99,1760262,5.6
+,2017,2017,Virginia,51,White,2106-3,1040,6027893,17.3
+,2017,2017,Washington,53,American Indian or Alaska Native,1002-5,24,169752,14.1
+,2017,2017,Washington,53,Asian or Pacific Islander,A-PI,76,783704,9.7
+,2017,2017,Washington,53,Black or African American,2054-5,37,387793,9.5
+,2017,2017,Washington,53,White,2106-3,1157,6064494,19.1
+,2017,2017,West Virginia,54,White,2106-3,382,1719416,22.2
+,2017,2017,Wisconsin,55,American Indian or Alaska Native,1002-5,12,75021,Unreliable
+,2017,2017,Wisconsin,55,Asian or Pacific Islander,A-PI,10,181101,Unreliable
+,2017,2017,Wisconsin,55,Black or African American,2054-5,31,422159,7.3
+,2017,2017,Wisconsin,55,White,2106-3,872,5117202,17
+,2017,2017,Wyoming,56,White,2106-3,150,544781,27.5
+,2018,2018,Alabama,1,Asian or Pacific Islander,A-PI,10,84490,Unreliable
+,2018,2018,Alabama,1,Black or African American,2054-5,91,1338846,6.8
+,2018,2018,Alabama,1,White,2106-3,721,3426745,21
+,2018,2018,Alaska,2,American Indian or Alaska Native,1002-5,59,128033,46.1
+,2018,2018,Alaska,2,White,2106-3,120,507912,23.6
+,2018,2018,Arizona,4,American Indian or Alaska Native,1002-5,117,407595,28.7
+,2018,2018,Arizona,4,Asian or Pacific Islander,A-PI,23,310608,7.4
+,2018,2018,Arizona,4,Black or African American,2054-5,57,413873,13.8
+,2018,2018,Arizona,4,White,2106-3,1239,6039570,20.5
+,2018,2018,Arkansas,5,Black or African American,2054-5,32,489759,6.5
+,2018,2018,Arkansas,5,White,2106-3,519,2424998,21.4
+,2018,2018,California,6,American Indian or Alaska Native,1002-5,44,777959,5.7
+,2018,2018,California,6,Asian or Pacific Islander,A-PI,444,6626166,6.7
+,2018,2018,California,6,Black or African American,2054-5,215,2851095,7.5
+,2018,2018,California,6,White,2106-3,3781,29301825,12.9
+,2018,2018,Colorado,8,American Indian or Alaska Native,1002-5,20,108684,18.4
+,2018,2018,Colorado,8,Asian or Pacific Islander,A-PI,23,233219,9.9
+,2018,2018,Colorado,8,Black or African American,2054-5,42,303260,13.8
+,2018,2018,Colorado,8,White,2106-3,1197,5050401,23.7
+,2018,2018,Connecticut,9,Black or African American,2054-5,26,459499,5.7
+,2018,2018,Connecticut,9,White,2106-3,386,2903404,13.3
+,2018,2018,Delaware,10,Black or African American,2054-5,16,233113,Unreliable
+,2018,2018,Delaware,10,White,2106-3,95,683930,13.9
+,2018,2018,District of Columbia,11,Black or African American,2054-5,17,336228,Unreliable
+,2018,2018,District of Columbia,11,White,2106-3,35,326137,10.7
+,2018,2018,Florida,12,American Indian or Alaska Native,1002-5,10,119648,Unreliable
+,2018,2018,Florida,12,Asian or Pacific Islander,A-PI,46,721486,6.4
+,2018,2018,Florida,12,Black or African American,2054-5,221,3736443,5.9
+,2018,2018,Florida,12,White,2106-3,3287,16721748,19.7
+,2018,2018,Georgia,13,Asian or Pacific Islander,A-PI,43,491893,8.7
+,2018,2018,Georgia,13,Black or African American,2054-5,270,3499496,7.7
+,2018,2018,Georgia,13,White,2106-3,1255,6466753,19.4
+,2018,2018,Hawaii,15,Asian or Pacific Islander,A-PI,101,940001,10.7
+,2018,2018,Hawaii,15,White,2106-3,71,430497,16.5
+,2018,2018,Idaho,16,American Indian or Alaska Native,1002-5,18,35530,Unreliable
+,2018,2018,Idaho,16,White,2106-3,395,1660028,23.8
+,2018,2018,Illinois,17,Asian or Pacific Islander,A-PI,45,794211,5.7
+,2018,2018,Illinois,17,Black or African American,2054-5,123,1940291,6.3
+,2018,2018,Illinois,17,White,2106-3,1318,9917646,13.3
+,2018,2018,Indiana,18,Asian or Pacific Islander,A-PI,13,181775,Unreliable
+,2018,2018,Indiana,18,Black or African American,2054-5,61,713302,8.6
+,2018,2018,Indiana,18,White,2106-3,1004,5763803,17.4
+,2018,2018,Iowa,19,White,2106-3,473,2896007,16.3
+,2018,2018,Kansas,20,Asian or Pacific Islander,A-PI,16,102046,Unreliable
+,2018,2018,Kansas,20,Black or African American,2054-5,27,207156,13
+,2018,2018,Kansas,20,White,2106-3,507,2559361,19.8
+,2018,2018,Kentucky,21,Black or African American,2054-5,36,405485,8.9
+,2018,2018,Kentucky,21,White,2106-3,756,3966164,19.1
+,2018,2018,Louisiana,22,Black or African American,2054-5,107,1557173,6.9
+,2018,2018,Louisiana,22,White,2106-3,599,2968719,20.2
+,2018,2018,Maine,23,White,2106-3,260,1281687,20.3
+,2018,2018,Maryland,24,Asian or Pacific Islander,A-PI,30,439857,6.8
+,2018,2018,Maryland,24,Black or African American,2054-5,102,1932392,5.3
+,2018,2018,Maryland,24,White,2106-3,518,3628187,14.3
+,2018,2018,Massachusetts,25,Asian or Pacific Islander,A-PI,19,521006,Unreliable
+,2018,2018,Massachusetts,25,Black or African American,2054-5,43,669506,6.4
+,2018,2018,Massachusetts,25,White,2106-3,674,5670599,11.9
+,2018,2018,Michigan,26,American Indian or Alaska Native,1002-5,13,92145,Unreliable
+,2018,2018,Michigan,26,Asian or Pacific Islander,A-PI,27,366543,7.4
+,2018,2018,Michigan,26,Black or African American,2054-5,137,1496029,9.2
+,2018,2018,Michigan,26,White,2106-3,1370,8041198,17
+,2018,2018,Minnesota,27,American Indian or Alaska Native,1002-5,19,88043,Unreliable
+,2018,2018,Minnesota,27,Asian or Pacific Islander,A-PI,24,308651,7.8
+,2018,2018,Minnesota,27,Black or African American,2054-5,22,423054,5.2
+,2018,2018,Minnesota,27,White,2106-3,673,4791431,14
+,2018,2018,Mississippi,28,Black or African American,2054-5,56,1145398,4.9
+,2018,2018,Mississippi,28,White,2106-3,360,1785077,20.2
+,2018,2018,Missouri,29,Asian or Pacific Islander,A-PI,13,153584,Unreliable
+,2018,2018,Missouri,29,Black or African American,2054-5,87,772024,11.3
+,2018,2018,Missouri,29,White,2106-3,1128,5156415,21.9
+,2018,2018,Montana,30,American Indian or Alaska Native,1002-5,20,77367,25.9
+,2018,2018,Montana,30,White,2106-3,237,962460,24.6
+,2018,2018,Nebraska,31,White,2106-3,262,1725837,15.2
+,2018,2018,Nevada,32,Asian or Pacific Islander,A-PI,40,315944,12.7
+,2018,2018,Nevada,32,Black or African American,2054-5,36,341394,10.5
+,2018,2018,Nevada,32,White,2106-3,575,2317575,24.8
+,2018,2018,New Hampshire,33,White,2106-3,273,1279355,21.3
+,2018,2018,New Jersey,34,Asian or Pacific Islander,A-PI,48,929088,5.2
+,2018,2018,New Jersey,34,Black or African American,2054-5,55,1404125,3.9
+,2018,2018,New Jersey,34,White,2106-3,675,6511007,10.4
+,2018,2018,New Mexico,35,American Indian or Alaska Native,1002-5,67,241055,27.8
+,2018,2018,New Mexico,35,Asian or Pacific Islander,A-PI,13,45322,Unreliable
+,2018,2018,New Mexico,35,Black or African American,2054-5,11,64722,Unreliable
+,2018,2018,New Mexico,35,White,2106-3,444,1744329,25.5
+,2018,2018,New York,36,Asian or Pacific Islander,A-PI,100,1846015,5.4
+,2018,2018,New York,36,Black or African American,2054-5,177,3634305,4.9
+,2018,2018,New York,36,White,2106-3,1442,13837347,10.4
+,2018,2018,North Carolina,37,Asian or Pacific Islander,A-PI,21,363120,5.8
+,2018,2018,North Carolina,37,Black or African American,2054-5,140,2394548,5.8
+,2018,2018,North Carolina,37,White,2106-3,1325,7451579,17.8
+,2018,2018,North Dakota,38,American Indian or Alaska Native,1002-5,10,45201,Unreliable
+,2018,2018,North Dakota,38,White,2106-3,130,670697,19.4
+,2018,2018,Ohio,39,Asian or Pacific Islander,A-PI,17,316182,Unreliable
+,2018,2018,Ohio,39,Black or African American,2054-5,151,1630541,9.3
+,2018,2018,Ohio,39,White,2106-3,1666,9698709,17.2
+,2018,2018,Oklahoma,40,American Indian or Alaska Native,1002-5,81,423467,19.1
+,2018,2018,Oklahoma,40,Black or African American,2054-5,35,353715,9.9
+,2018,2018,Oklahoma,40,White,2106-3,665,3056708,21.8
+,2018,2018,Oregon,41,American Indian or Alaska Native,1002-5,12,93400,Unreliable
+,2018,2018,Oregon,41,Asian or Pacific Islander,A-PI,20,247156,8.1
+,2018,2018,Oregon,41,Black or African American,2054-5,11,121398,Unreliable
+,2018,2018,Oregon,41,White,2106-3,801,3728759,21.5
+,2018,2018,Pennsylvania,42,Asian or Pacific Islander,A-PI,44,506492,8.7
+,2018,2018,Pennsylvania,42,Black or African American,2054-5,117,1632313,7.2
+,2018,2018,Pennsylvania,42,White,2106-3,1852,10609745,17.5
+,2018,2018,Rhode Island,44,White,2106-3,101,901715,11.2
+,2018,2018,South Carolina,45,Asian or Pacific Islander,A-PI,10,103090,Unreliable
+,2018,2018,South Carolina,45,Black or African American,2054-5,91,1418868,6.4
+,2018,2018,South Carolina,45,White,2106-3,707,3531746,20
+,2018,2018,South Dakota,46,American Indian or Alaska Native,1002-5,36,84659,42.5
+,2018,2018,South Dakota,46,White,2106-3,128,755314,16.9
+,2018,2018,Tennessee,47,Asian or Pacific Islander,A-PI,10,145794,Unreliable
+,2018,2018,Tennessee,47,Black or African American,2054-5,94,1198663,7.8
+,2018,2018,Tennessee,47,White,2106-3,1054,5391207,19.6
+,2018,2018,Texas,48,American Indian or Alaska Native,1002-5,19,322926,Unreliable
+,2018,2018,Texas,48,Asian or Pacific Islander,A-PI,126,1614008,7.8
+,2018,2018,Texas,48,Black or African American,2054-5,262,3803248,6.9
+,2018,2018,Texas,48,White,2106-3,3521,22961663,15.3
+,2018,2018,Utah,49,American Indian or Alaska Native,1002-5,13,55230,Unreliable
+,2018,2018,Utah,49,Asian or Pacific Islander,A-PI,15,133800,Unreliable
+,2018,2018,Utah,49,White,2106-3,627,2913538,21.5
+,2018,2018,Vermont,50,White,2106-3,118,598200,19.7
+,2018,2018,Virginia,51,Asian or Pacific Islander,A-PI,46,646251,7.1
+,2018,2018,Virginia,51,Black or African American,2054-5,135,1773427,7.6
+,2018,2018,Virginia,51,White,2106-3,1058,6045867,17.5
+,2018,2018,Washington,53,American Indian or Alaska Native,1002-5,39,173187,22.5
+,2018,2018,Washington,53,Asian or Pacific Islander,A-PI,68,830775,8.2
+,2018,2018,Washington,53,Black or African American,2054-5,45,403402,11.2
+,2018,2018,Washington,53,White,2106-3,1099,6128227,17.9
+,2018,2018,West Virginia,54,Black or African American,2054-5,11,75210,Unreliable
+,2018,2018,West Virginia,54,White,2106-3,382,1708531,22.4
+,2018,2018,Wisconsin,55,American Indian or Alaska Native,1002-5,13,75987,Unreliable
+,2018,2018,Wisconsin,55,Asian or Pacific Islander,A-PI,16,189159,Unreliable
+,2018,2018,Wisconsin,55,Black or African American,2054-5,36,427026,8.4
+,2018,2018,Wisconsin,55,White,2106-3,823,5121396,16.1
+,2018,2018,Wyoming,56,White,2106-3,144,542483,26.5
+,2019,2019,Alabama,1,Asian or Pacific Islander,A-PI,12,85143,Unreliable
+,2019,2019,Alabama,1,Black or African American,2054-5,83,1342306,6.2
+,2019,2019,Alabama,1,White,2106-3,707,3437480,20.6
+,2019,2019,Alaska,2,American Indian or Alaska Native,1002-5,83,128261,64.7
+,2019,2019,Alaska,2,White,2106-3,118,503476,23.4
+,2019,2019,Arizona,4,American Indian or Alaska Native,1002-5,92,414011,22.2
+,2019,2019,Arizona,4,Asian or Pacific Islander,A-PI,23,317182,7.3
+,2019,2019,Arizona,4,Black or African American,2054-5,49,428589,11.4
+,2019,2019,Arizona,4,White,2106-3,1253,6118935,20.5
+,2019,2019,Arkansas,5,Black or African American,2054-5,32,491009,6.5
+,2019,2019,Arkansas,5,White,2106-3,504,2426008,20.8
+,2019,2019,California,6,American Indian or Alaska Native,1002-5,29,776684,3.7
+,2019,2019,California,6,Asian or Pacific Islander,A-PI,437,6678634,6.5
+,2019,2019,California,6,Black or African American,2054-5,224,2853140,7.9
+,2019,2019,California,6,White,2106-3,3741,29203765,12.8
+,2019,2019,Colorado,8,American Indian or Alaska Native,1002-5,23,110781,20.8
+,2019,2019,Colorado,8,Asian or Pacific Islander,A-PI,23,239239,9.6
+,2019,2019,Colorado,8,Black or African American,2054-5,43,309178,13.9
+,2019,2019,Colorado,8,White,2106-3,1222,5099538,24
+,2019,2019,Connecticut,9,Asian or Pacific Islander,A-PI,10,189183,Unreliable
+,2019,2019,Connecticut,9,Black or African American,2054-5,36,465439,7.7
+,2019,2019,Connecticut,9,White,2106-3,389,2886404,13.5
+,2019,2019,Delaware,10,Black or African American,2054-5,10,236868,Unreliable
+,2019,2019,Delaware,10,White,2106-3,99,686304,14.4
+,2019,2019,District of Columbia,11,Black or African American,2054-5,24,334846,7.2
+,2019,2019,District of Columbia,11,White,2106-3,20,330479,6.1
+,2019,2019,Florida,12,Asian or Pacific Islander,A-PI,52,726986,7.2
+,2019,2019,Florida,12,Black or African American,2054-5,224,3774446,5.9
+,2019,2019,Florida,12,White,2106-3,3182,16854502,18.9
+,2019,2019,Georgia,13,Asian or Pacific Islander,A-PI,41,503548,8.1
+,2019,2019,Georgia,13,Black or African American,2054-5,265,3549778,7.5
+,2019,2019,Georgia,13,White,2106-3,1276,6501503,19.6
+,2019,2019,Hawaii,15,Asian or Pacific Islander,A-PI,127,937458,13.5
+,2019,2019,Hawaii,15,White,2106-3,93,428523,21.7
+,2019,2019,Idaho,16,American Indian or Alaska Native,1002-5,12,36276,Unreliable
+,2019,2019,Idaho,16,White,2106-3,344,1691082,20.3
+,2019,2019,Illinois,17,Asian or Pacific Islander,A-PI,54,793915,6.8
+,2019,2019,Illinois,17,Black or African American,2054-5,115,1934399,5.9
+,2019,2019,Illinois,17,White,2106-3,1269,9854559,12.9
+,2019,2019,Indiana,18,Asian or Pacific Islander,A-PI,10,191638,Unreliable
+,2019,2019,Indiana,18,Black or African American,2054-5,58,726166,8
+,2019,2019,Indiana,18,White,2106-3,901,5780770,15.6
+,2019,2019,Iowa,19,Asian or Pacific Islander,A-PI,10,93459,Unreliable
+,2019,2019,Iowa,19,Black or African American,2054-5,21,150737,13.9
+,2019,2019,Iowa,19,White,2106-3,493,2891595,17
+,2019,2019,Kansas,20,Black or African American,2054-5,24,207755,11.6
+,2019,2019,Kansas,20,White,2106-3,487,2558440,19
+,2019,2019,Kentucky,21,Black or African American,2054-5,37,408675,9.1
+,2019,2019,Kentucky,21,White,2106-3,709,3963276,17.9
+,2019,2019,Louisiana,22,Asian or Pacific Islander,A-PI,11,94118,Unreliable
+,2019,2019,Louisiana,22,Black or African American,2054-5,98,1556514,6.3
+,2019,2019,Louisiana,22,White,2106-3,593,2958038,20
+,2019,2019,Maine,23,White,2106-3,271,1285624,21.1
+,2019,2019,Maryland,24,Asian or Pacific Islander,A-PI,30,441092,6.8
+,2019,2019,Maryland,24,Black or African American,2054-5,116,1944767,6
+,2019,2019,Maryland,24,White,2106-3,509,3616873,14.1
+,2019,2019,Massachusetts,25,Asian or Pacific Islander,A-PI,17,526423,Unreliable
+,2019,2019,Massachusetts,25,Black or African American,2054-5,35,675621,5.2
+,2019,2019,Massachusetts,25,White,2106-3,595,5649253,10.5
+,2019,2019,Michigan,26,American Indian or Alaska Native,1002-5,11,92670,Unreliable
+,2019,2019,Michigan,26,Asian or Pacific Islander,A-PI,24,366260,6.6
+,2019,2019,Michigan,26,Black or African American,2054-5,133,1497477,8.9
+,2019,2019,Michigan,26,White,2106-3,1304,8030450,16.2
+,2019,2019,Minnesota,27,American Indian or Alaska Native,1002-5,32,88978,36
+,2019,2019,Minnesota,27,Asian or Pacific Islander,A-PI,36,312656,11.5
+,2019,2019,Minnesota,27,Black or African American,2054-5,41,439435,9.3
+,2019,2019,Minnesota,27,White,2106-3,720,4798563,15
+,2019,2019,Mississippi,28,Black or African American,2054-5,70,1141493,6.1
+,2019,2019,Mississippi,28,White,2106-3,360,1777310,20.3
+,2019,2019,Missouri,29,Asian or Pacific Islander,A-PI,14,156501,Unreliable
+,2019,2019,Missouri,29,Black or African American,2054-5,59,774069,7.6
+,2019,2019,Missouri,29,White,2106-3,1062,5161380,20.6
+,2019,2019,Montana,30,American Indian or Alaska Native,1002-5,31,77993,39.7
+,2019,2019,Montana,30,White,2106-3,253,967929,26.1
+,2019,2019,Nebraska,31,Black or African American,2054-5,11,115754,Unreliable
+,2019,2019,Nebraska,31,White,2106-3,288,1726955,16.7
+,2019,2019,Nevada,32,Asian or Pacific Islander,A-PI,36,321630,11.2
+,2019,2019,Nevada,32,Black or African American,2054-5,37,353548,10.5
+,2019,2019,Nevada,32,White,2106-3,563,2344105,24
+,2019,2019,New Hampshire,33,White,2106-3,246,1281488,19.2
+,2019,2019,New Jersey,34,Asian or Pacific Islander,A-PI,50,927284,5.4
+,2019,2019,New Jersey,34,Black or African American,2054-5,71,1404990,5.1
+,2019,2019,New Jersey,34,White,2106-3,641,6484830,9.9
+,2019,2019,New Mexico,35,American Indian or Alaska Native,1002-5,61,242463,25.2
+,2019,2019,New Mexico,35,Black or African American,2054-5,13,66216,Unreliable
+,2019,2019,New Mexico,35,White,2106-3,432,1742518,24.8
+,2019,2019,New York,36,Asian or Pacific Islander,A-PI,124,1850616,6.7
+,2019,2019,New York,36,Black or African American,2054-5,149,3611420,4.1
+,2019,2019,New York,36,White,2106-3,1426,13767670,10.4
+,2019,2019,North Carolina,37,American Indian or Alaska Native,1002-5,10,177169,Unreliable
+,2019,2019,North Carolina,37,Asian or Pacific Islander,A-PI,25,369134,6.8
+,2019,2019,North Carolina,37,Black or African American,2054-5,146,2421439,6
+,2019,2019,North Carolina,37,White,2106-3,1176,7520342,15.6
+,2019,2019,North Dakota,38,White,2106-3,125,672030,18.6
+,2019,2019,Ohio,39,Asian or Pacific Islander,A-PI,23,321113,7.2
+,2019,2019,Ohio,39,Black or African American,2054-5,152,1640963,9.3
+,2019,2019,Ohio,39,White,2106-3,1628,9682405,16.8
+,2019,2019,Oklahoma,40,American Indian or Alaska Native,1002-5,80,427718,18.7
+,2019,2019,Oklahoma,40,Asian or Pacific Islander,A-PI,12,112610,Unreliable
+,2019,2019,Oklahoma,40,Black or African American,2054-5,41,355533,11.5
+,2019,2019,Oklahoma,40,White,2106-3,683,3061110,22.3
+,2019,2019,Oregon,41,American Indian or Alaska Native,1002-5,17,94617,Unreliable
+,2019,2019,Oregon,41,Asian or Pacific Islander,A-PI,26,250417,10.4
+,2019,2019,Oregon,41,Black or African American,2054-5,13,123019,Unreliable
+,2019,2019,Oregon,41,White,2106-3,850,3749684,22.7
+,2019,2019,Pennsylvania,42,Asian or Pacific Islander,A-PI,38,514851,7.4
+,2019,2019,Pennsylvania,42,Black or African American,2054-5,127,1643677,7.7
+,2019,2019,Pennsylvania,42,White,2106-3,1729,10583680,16.3
+,2019,2019,Rhode Island,44,White,2106-3,118,900386,13.1
+,2019,2019,South Carolina,45,Black or African American,2054-5,111,1428188,7.8
+,2019,2019,South Carolina,45,White,2106-3,728,3581951,20.3
+,2019,2019,South Dakota,46,American Indian or Alaska Native,1002-5,31,85302,36.3
+,2019,2019,South Dakota,46,White,2106-3,142,758952,18.7
+,2019,2019,Tennessee,47,Asian or Pacific Islander,A-PI,20,151946,13.2
+,2019,2019,Tennessee,47,Black or African American,2054-5,102,1209147,8.4
+,2019,2019,Tennessee,47,White,2106-3,1096,5432785,20.2
+,2019,2019,Texas,48,Asian or Pacific Islander,A-PI,105,1642328,6.4
+,2019,2019,Texas,48,Black or African American,2054-5,274,3873093,7.1
+,2019,2019,Texas,48,White,2106-3,3499,23152887,15.1
+,2019,2019,Utah,49,American Indian or Alaska Native,1002-5,17,56461,Unreliable
+,2019,2019,Utah,49,Asian or Pacific Islander,A-PI,13,135124,Unreliable
+,2019,2019,Utah,49,Black or African American,2054-5,11,60833,Unreliable
+,2019,2019,Utah,49,White,2106-3,612,2953540,20.7
+,2019,2019,Vermont,50,White,2106-3,108,596426,18.1
+,2019,2019,Virginia,51,Asian or Pacific Islander,A-PI,38,648345,5.9
+,2019,2019,Virginia,51,Black or African American,2054-5,132,1781520,7.4
+,2019,2019,Virginia,51,White,2106-3,964,6053235,15.9
+,2019,2019,Washington,53,American Indian or Alaska Native,1002-5,25,176019,14.2
+,2019,2019,Washington,53,Asian or Pacific Islander,A-PI,75,858662,8.7
+,2019,2019,Washington,53,Black or African American,2054-5,46,414916,11.1
+,2019,2019,Washington,53,White,2106-3,1116,6165296,18.1
+,2019,2019,West Virginia,54,White,2106-3,325,1695855,19.2
+,2019,2019,Wisconsin,55,American Indian or Alaska Native,1002-5,14,77185,Unreliable
+,2019,2019,Wisconsin,55,Asian or Pacific Islander,A-PI,11,188865,Unreliable
+,2019,2019,Wisconsin,55,Black or African American,2054-5,31,429528,7.2
+,2019,2019,Wisconsin,55,White,2106-3,787,5126856,15.4
+,2019,2019,Wyoming,56,White,2106-3,158,543158,29.1
+,2020,2020,Alabama,1,Black or African American,2054-5,85,1350111,6.3
+,2020,2020,Alabama,1,White,2106-3,696,3445489,20.2
+,2020,2020,Alaska,2,American Indian or Alaska Native,1002-5,71,128350,55.3
+,2020,2020,Alaska,2,White,2106-3,124,500604,24.8
+,2020,2020,Arizona,4,American Indian or Alaska Native,1002-5,94,420587,22.3
+,2020,2020,Arizona,4,Asian or Pacific Islander,A-PI,23,332262,6.9
+,2020,2020,Arizona,4,Black or African American,2054-5,57,450623,12.6
+,2020,2020,Arizona,4,White,2106-3,1189,6217929,19.1
+,2020,2020,Arkansas,5,Black or African American,2054-5,51,494526,10.3
+,2020,2020,Arkansas,5,White,2106-3,521,2430075,21.4
+,2020,2020,California,6,American Indian or Alaska Native,1002-5,32,795861,4
+,2020,2020,California,6,Asian or Pacific Islander,A-PI,442,6819552,6.5
+,2020,2020,California,6,Black or African American,2054-5,234,2871450,8.1
+,2020,2020,California,6,White,2106-3,3433,28881215,11.9
+,2020,2020,Colorado,8,American Indian or Alaska Native,1002-5,19,114533,Unreliable
+,2020,2020,Colorado,8,Asian or Pacific Islander,A-PI,29,245849,11.8
+,2020,2020,Colorado,8,Black or African American,2054-5,48,316428,15.2
+,2020,2020,Colorado,8,White,2106-3,1204,5130909,23.5
+,2020,2020,Connecticut,9,Black or African American,2054-5,28,476687,5.9
+,2020,2020,Connecticut,9,White,2106-3,332,2862056,11.6
+,2020,2020,Delaware,10,Black or African American,2054-5,16,242960,Unreliable
+,2020,2020,Delaware,10,White,2106-3,105,690968,15.2
+,2020,2020,District of Columbia,11,Black or African American,2054-5,18,335168,Unreliable
+,2020,2020,District of Columbia,11,White,2106-3,17,335845,Unreliable
+,2020,2020,Florida,12,Asian or Pacific Islander,A-PI,49,750143,6.5
+,2020,2020,Florida,12,Black or African American,2054-5,212,3840185,5.5
+,2020,2020,Florida,12,White,2106-3,2857,17016011,16.8
+,2020,2020,Georgia,13,Asian or Pacific Islander,A-PI,37,524915,7
+,2020,2020,Georgia,13,Black or African American,2054-5,289,3606257,8
+,2020,2020,Georgia,13,White,2106-3,1163,6514563,17.9
+,2020,2020,Hawaii,15,Asian or Pacific Islander,A-PI,96,934235,10.3
+,2020,2020,Hawaii,15,White,2106-3,83,423120,19.6
+,2020,2020,Idaho,16,White,2106-3,411,1727195,23.8
+,2020,2020,Illinois,17,Asian or Pacific Islander,A-PI,55,807706,6.8
+,2020,2020,Illinois,17,Black or African American,2054-5,155,1937515,8
+,2020,2020,Illinois,17,White,2106-3,1152,9751287,11.8
+,2020,2020,Indiana,18,Asian or Pacific Islander,A-PI,11,197193,Unreliable
+,2020,2020,Indiana,18,Black or African American,2054-5,79,741160,10.7
+,2020,2020,Indiana,18,White,2106-3,931,5781775,16.1
+,2020,2020,Iowa,19,Black or African American,2054-5,13,156619,Unreliable
+,2020,2020,Iowa,19,White,2106-3,525,2889308,18.2
+,2020,2020,Kansas,20,Black or African American,2054-5,29,210495,13.8
+,2020,2020,Kansas,20,White,2106-3,487,2554397,19.1
+,2020,2020,Kentucky,21,Black or African American,2054-5,48,413976,11.6
+,2020,2020,Kentucky,21,White,2106-3,749,3963013,18.9
+,2020,2020,Louisiana,22,Black or African American,2054-5,96,1561145,6.1
+,2020,2020,Louisiana,22,White,2106-3,534,2946293,18.1
+,2020,2020,Maine,23,White,2106-3,226,1289612,17.5
+,2020,2020,Maryland,24,Asian or Pacific Islander,A-PI,21,452059,4.6
+,2020,2020,Maryland,24,Black or African American,2054-5,115,1963360,5.9
+,2020,2020,Maryland,24,White,2106-3,448,3595768,12.5
+,2020,2020,Massachusetts,25,Asian or Pacific Islander,A-PI,24,542099,4.4
+,2020,2020,Massachusetts,25,Black or African American,2054-5,27,689362,3.9
+,2020,2020,Massachusetts,25,White,2106-3,564,5619604,10
+,2020,2020,Michigan,26,American Indian or Alaska Native,1002-5,19,92800,Unreliable
+,2020,2020,Michigan,26,Asian or Pacific Islander,A-PI,23,369384,6.2
+,2020,2020,Michigan,26,Black or African American,2054-5,134,1499982,8.9
+,2020,2020,Michigan,26,White,2106-3,1267,8004389,15.8
+,2020,2020,Minnesota,27,American Indian or Alaska Native,1002-5,26,89130,29.2
+,2020,2020,Minnesota,27,Asian or Pacific Islander,A-PI,25,322504,7.8
+,2020,2020,Minnesota,27,Black or African American,2054-5,36,456060,7.9
+,2020,2020,Minnesota,27,White,2106-3,671,4789648,14
+,2020,2020,Mississippi,28,Black or African American,2054-5,73,1141283,6.4
+,2020,2020,Mississippi,28,White,2106-3,331,1768002,18.7
+,2020,2020,Missouri,29,Asian or Pacific Islander,A-PI,16,161238,Unreliable
+,2020,2020,Missouri,29,Black or African American,2054-5,78,776770,10
+,2020,2020,Missouri,29,White,2106-3,1023,5167287,19.8
+,2020,2020,Montana,30,American Indian or Alaska Native,1002-5,37,78116,47.4
+,2020,2020,Montana,30,White,2106-3,258,978119,26.4
+,2020,2020,Nebraska,31,Black or African American,2054-5,17,118129,Unreliable
+,2020,2020,Nebraska,31,White,2106-3,257,1725392,14.9
+,2020,2020,Nevada,32,American Indian or Alaska Native,1002-5,11,62401,Unreliable
+,2020,2020,Nevada,32,Asian or Pacific Islander,A-PI,37,339340,10.9
+,2020,2020,Nevada,32,Black or African American,2054-5,44,368812,11.9
+,2020,2020,Nevada,32,White,2106-3,510,2367706,21.5
+,2020,2020,New Hampshire,33,White,2106-3,230,1285020,17.9
+,2020,2020,New Jersey,34,Asian or Pacific Islander,A-PI,49,950124,5.2
+,2020,2020,New Jersey,34,Black or African American,2054-5,59,1421916,4.1
+,2020,2020,New Jersey,34,White,2106-3,571,6440419,8.9
+,2020,2020,New Mexico,35,American Indian or Alaska Native,1002-5,71,246161,28.8
+,2020,2020,New Mexico,35,Black or African American,2054-5,13,68577,Unreliable
+,2020,2020,New Mexico,35,White,2106-3,426,1743560,24.4
+,2020,2020,New York,36,Asian or Pacific Islander,A-PI,107,1881911,5.7
+,2020,2020,New York,36,Black or African American,2054-5,157,3604597,4.4
+,2020,2020,New York,36,White,2106-3,1375,13619969,10.1
+,2020,2020,North Carolina,37,American Indian or Alaska Native,1002-5,10,180238,Unreliable
+,2020,2020,North Carolina,37,Asian or Pacific Islander,A-PI,35,391163,8.9
+,2020,2020,North Carolina,37,Black or African American,2054-5,157,2453861,6.4
+,2020,2020,North Carolina,37,White,2106-3,1239,7575561,16.4
+,2020,2020,North Dakota,38,American Indian or Alaska Native,1002-5,21,46239,45.4
+,2020,2020,North Dakota,38,White,2106-3,111,673624,16.5
+,2020,2020,Ohio,39,Asian or Pacific Islander,A-PI,19,336291,Unreliable
+,2020,2020,Ohio,39,Black or African American,2054-5,159,1658318,9.6
+,2020,2020,Ohio,39,White,2106-3,1460,9653181,15.1
+,2020,2020,Oklahoma,40,American Indian or Alaska Native,1002-5,104,439943,23.6
+,2020,2020,Oklahoma,40,Asian or Pacific Islander,A-PI,15,115635,Unreliable
+,2020,2020,Oklahoma,40,Black or African American,2054-5,52,361521,14.4
+,2020,2020,Oklahoma,40,White,2106-3,698,3063684,22.8
+,2020,2020,Oregon,41,American Indian or Alaska Native,1002-5,10,96577,Unreliable
+,2020,2020,Oregon,41,Asian or Pacific Islander,A-PI,18,256465,Unreliable
+,2020,2020,Oregon,41,Black or African American,2054-5,13,125990,Unreliable
+,2020,2020,Oregon,41,White,2106-3,791,3762475,21
+,2020,2020,Pennsylvania,42,Asian or Pacific Islander,A-PI,33,529546,6.2
+,2020,2020,Pennsylvania,42,Black or African American,2054-5,127,1660533,7.6
+,2020,2020,Pennsylvania,42,White,2106-3,1529,10530577,14.5
+,2020,2020,Rhode Island,44,White,2106-3,85,895772,9.5
+,2020,2020,South Carolina,45,Asian or Pacific Islander,A-PI,11,113140,Unreliable
+,2020,2020,South Carolina,45,Black or African American,2054-5,108,1441509,7.5
+,2020,2020,South Carolina,45,White,2106-3,748,3631407,20.6
+,2020,2020,South Dakota,46,American Indian or Alaska Native,1002-5,45,85421,52.7
+,2020,2020,South Dakota,46,White,2106-3,134,763985,17.5
+,2020,2020,Tennessee,47,Asian or Pacific Islander,A-PI,10,155853,Unreliable
+,2020,2020,Tennessee,47,Black or African American,2054-5,99,1219237,8.1
+,2020,2020,Tennessee,47,White,2106-3,1106,5475185,20.2
+,2020,2020,Texas,48,Asian or Pacific Islander,A-PI,129,1721732,7.5
+,2020,2020,Texas,48,Black or African American,2054-5,313,3984144,7.9
+,2020,2020,Texas,48,White,2106-3,3469,23314879,14.9
+,2020,2020,Utah,49,Asian or Pacific Islander,A-PI,15,139944,Unreliable
+,2020,2020,Utah,49,Black or African American,2054-5,11,62659,Unreliable
+,2020,2020,Utah,49,White,2106-3,615,2989783,20.6
+,2020,2020,Vermont,50,White,2106-3,114,594964,19.2
+,2020,2020,Virginia,51,Asian or Pacific Islander,A-PI,57,671362,8.5
+,2020,2020,Virginia,51,Black or African American,2054-5,153,1801495,8.5
+,2020,2020,Virginia,51,White,2106-3,989,6063666,16.3
+,2020,2020,Washington,53,American Indian or Alaska Native,1002-5,31,179917,17.2
+,2020,2020,Washington,53,Asian or Pacific Islander,A-PI,81,893265,9.1
+,2020,2020,Washington,53,Black or African American,2054-5,42,430125,9.8
+,2020,2020,Washington,53,White,2106-3,1058,6190305,17.1
+,2020,2020,West Virginia,54,Black or African American,2054-5,14,75782,Unreliable
+,2020,2020,West Virginia,54,White,2106-3,337,1686512,20
+,2020,2020,Wisconsin,55,American Indian or Alaska Native,1002-5,10,78876,Unreliable
+,2020,2020,Wisconsin,55,Asian or Pacific Islander,A-PI,12,197416,Unreliable
+,2020,2020,Wisconsin,55,Black or African American,2054-5,40,435275,9.2
+,2020,2020,Wisconsin,55,White,2106-3,804,5121088,15.7
+,2020,2020,Wyoming,56,White,2106-3,177,546461,32.4
+---,,,,,,,,,
+"Dataset: Underlying Cause of Death, 1999-2020",,,,,,,,,
+Query Parameters:,,,,,,,,,
+ICD-10 Codes: F20.4 (Post-schizophrenic depression); F32.3 (Severe depressive episode with psychotic symptoms); F60.3,,,,,,,,,
+(Emotionally unstable personality disorder); U03.0 (Terrorism involving explosions and fragments); U03.9 (Terrorism by other and,,,,,,,,,
+unspecified means); X60-X84 (Intentional self-harm),,,,,,,,,
+Group By: Year; State; Race,,,,,,,,,
+Show Totals: Disabled,,,,,,,,,
+Show Zero Values: False,,,,,,,,,
+Show Suppressed: False,,,,,,,,,
+"Calculate Rates Per: 100,000",,,,,,,,,
+Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups),,,,,,,,,
+---,,,,,,,,,
+Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information.,,,,,,,,,
+---,,,,,,,,,
+"Query Date: Apr 4, 2023 9:23:06 PM",,,,,,,,,
+---,,,,,,,,,
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics",,,,,,,,,
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,",,,,,,,,,
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative",,,,,,,,,
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10.html on Apr 4, 2023 9:23:06 PM",,,,,,,,,
+---,,,,,,,,,
+Messages:,,,,,,,,,
+1. Totals are not available for these results due to suppression constraints. More Information:,,,,,,,,,
+http://wonder.cdc.gov/wonder/help/faq.html#Privacy.,,,,,,,,,
+2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows.,,,,,,,,,
+---,,,,,,,,,
+Caveats:,,,,,,,,,
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:",,,,,,,,,
+http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision.,,,,,,,,,
+2. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of,,,,,,,,,
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data.",,,,,,,,,
+More information: http://wonder.cdc.gov/wonder/help/ucd.html#Georgia-Reporting-Anomalies.,,,,,,,,,
+3. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code,,,,,,,,,
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,",,,,,,,,,
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in",,,,,,,,,
+interpreting these data. More information: http://wonder.cdc.gov/wonder/help/ucd.html#New-Jersey-Reporting-Anomalies.,,,,,,,,,
+"4. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other",,,,,,,,,
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in",,,,,,,,,
+interpreting these data. More information: http://wonder.cdc.gov/wonder/help/ucd.html#California-Reporting-Anomalies.,,,,,,,,,
+5. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:,,,,,,,,,
+http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality.,,,,,,,,,
+6. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:,,,,,,,,,
+http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable.,,,,,,,,,
+7. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the,,,,,,,,,
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis",,,,,,,,,
+of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin,,,,,,,,,
+"are inconsistent between these two data sources, death rates will be biased. More information:",,,,,,,,,
+http://wonder.cdc.gov/wonder/help/ucd.html#Racial Differences.,,,,,,,,,
+"8. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020",,,,,,,,,
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the",,,,,,,,,
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for",,,,,,,,,
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS",,,,,,,,,
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the",,,,,,,,,
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race",,,,,,,,,
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The",,,,,,,,,
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal",,,,,,,,,
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident",,,,,,,,,
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are",,,,,,,,,
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,",,,,,,,,,
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012",,,,,,,,,
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July",,,,,,,,,
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010",,,,,,,,,
+are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident,,,,,,,,,
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population",,,,,,,,,
+figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1,,,,,,,,,
+estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population,,,,,,,,,
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which",,,,,,,,,
+were available at the time of release.,,,,,,,,,
+9. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the,,,,,,,,,
+resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group.,,,,,,,,,
+10. Changes to cause of death classification affect reporting trends. More information:,,,,,,,,,
+http://wonder.cdc.gov/wonder/help/ucd.html#ICD-10 Changes.,,,,,,,,,

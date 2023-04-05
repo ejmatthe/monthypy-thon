@@ -1,0 +1,2642 @@
+,Year,State,Race,Deaths,Population,Crude Rate
+0,1999.0,Alabama,Black or African American,61.0,1162673.0,5.2
+1,1999.0,Alabama,White,492.0,3211308.0,15.3
+2,1999.0,Alaska,American Indian or Alaska Native,34.0,105727.0,32.2
+3,1999.0,Alaska,White,60.0,462052.0,13
+4,1999.0,Arizona,American Indian or Alaska Native,43.0,275286.0,15.6
+5,1999.0,Arizona,Black or African American,18.0,177619.0,Unreliable
+6,1999.0,Arizona,White,698.0,4460582.0,15.6
+7,1999.0,Arkansas,Black or African American,13.0,424438.0,Unreliable
+8,1999.0,Arkansas,White,320.0,2187944.0,14.6
+9,1999.0,California,American Indian or Alaska Native,14.0,453029.0,Unreliable
+10,1999.0,California,Asian or Pacific Islander,233.0,4051272.0,5.8
+11,1999.0,California,Black or African American,145.0,2502469.0,5.8
+12,1999.0,California,White,2679.0,26492434.0,10.1
+13,1999.0,Colorado,Asian or Pacific Islander,11.0,106980.0,Unreliable
+14,1999.0,Colorado,Black or African American,16.0,183070.0,Unreliable
+15,1999.0,Colorado,White,545.0,3882901.0,14
+16,1999.0,Connecticut,Black or African American,10.0,341801.0,Unreliable
+17,1999.0,Connecticut,White,260.0,2944775.0,8.8
+18,1999.0,Delaware,White,78.0,601213.0,13
+19,1999.0,District of Columbia,Black or African American,19.0,354021.0,Unreliable
+20,1999.0,Florida,Asian or Pacific Islander,11.0,300702.0,Unreliable
+21,1999.0,Florida,Black or African American,99.0,2419083.0,4.1
+22,1999.0,Florida,White,1915.0,12978723.0,14.8
+23,1999.0,Georgia,Asian or Pacific Islander,12.0,177250.0,Unreliable
+24,1999.0,Georgia,Black or African American,129.0,2343624.0,5.5
+25,1999.0,Georgia,White,730.0,5503608.0,13.3
+26,1999.0,Hawaii,Asian or Pacific Islander,83.0,811734.0,10.2
+27,1999.0,Hawaii,White,51.0,362728.0,14.1
+28,1999.0,Idaho,White,173.0,1236009.0,14
+29,1999.0,Illinois,Asian or Pacific Islander,11.0,444409.0,Unreliable
+30,1999.0,Illinois,Black or African American,122.0,1923260.0,6.3
+31,1999.0,Illinois,White,886.0,9951765.0,8.9
+32,1999.0,Indiana,Black or African American,39.0,525171.0,7.4
+33,1999.0,Indiana,White,587.0,5439927.0,10.8
+34,1999.0,Iowa,White,296.0,2806468.0,10.5
+35,1999.0,Kansas,Black or African American,12.0,164954.0,Unreliable
+36,1999.0,Kansas,White,282.0,2435163.0,11.6
+37,1999.0,Kentucky,Black or African American,17.0,303644.0,Unreliable
+38,1999.0,Kentucky,White,452.0,3676835.0,12.3
+39,1999.0,Louisiana,Black or African American,83.0,1461433.0,5.7
+40,1999.0,Louisiana,White,431.0,2915561.0,14.8
+41,1999.0,Maine,White,173.0,1241976.0,13.9
+42,1999.0,Maryland,Asian or Pacific Islander,13.0,220863.0,Unreliable
+43,1999.0,Maryland,Black or African American,72.0,1503532.0,4.8
+44,1999.0,Maryland,White,347.0,3511643.0,9.9
+45,1999.0,Massachusetts,Black or African American,12.0,416891.0,Unreliable
+46,1999.0,Massachusetts,White,412.0,5632754.0,7.3
+47,1999.0,Michigan,Black or African American,99.0,1455082.0,6.8
+48,1999.0,Michigan,White,862.0,8186898.0,10.5
+49,1999.0,Minnesota,White,419.0,4484942.0,9.3
+50,1999.0,Mississippi,Black or African American,54.0,1038253.0,5.2
+51,1999.0,Mississippi,White,246.0,1760835.0,14
+52,1999.0,Missouri,Black or African American,55.0,642019.0,8.6
+53,1999.0,Missouri,White,638.0,4824973.0,13.2
+54,1999.0,Montana,American Indian or Alaska Native,15.0,58604.0,Unreliable
+55,1999.0,Montana,White,146.0,830780.0,17.6
+56,1999.0,Nebraska,Black or African American,11.0,72024.0,Unreliable
+57,1999.0,Nebraska,White,165.0,1594738.0,10.3
+58,1999.0,Nevada,Black or African American,14.0,143853.0,Unreliable
+59,1999.0,Nevada,White,377.0,1657752.0,22.7
+60,1999.0,New Hampshire,White,135.0,1192000.0,11.3
+61,1999.0,New Jersey,Asian or Pacific Islander,16.0,492259.0,Unreliable
+62,1999.0,New Jersey,Black or African American,46.0,1231242.0,3.7
+63,1999.0,New Jersey,White,501.0,6609191.0,7.6
+64,1999.0,New Mexico,American Indian or Alaska Native,34.0,178885.0,19
+65,1999.0,New Mexico,White,279.0,1563421.0,17.8
+66,1999.0,New York,Asian or Pacific Islander,59.0,1122472.0,5.3
+67,1999.0,New York,Black or African American,129.0,3410768.0,3.8
+68,1999.0,New York,White,1006.0,14235763.0,7.1
+69,1999.0,North Carolina,Black or African American,90.0,1758625.0,5.1
+70,1999.0,North Carolina,White,779.0,5970867.0,13
+71,1999.0,North Dakota,White,67.0,604999.0,11.1
+72,1999.0,Ohio,Black or African American,89.0,1347742.0,6.6
+73,1999.0,Ohio,White,1004.0,9816458.0,10.2
+74,1999.0,Oklahoma,American Indian or Alaska Native,21.0,307908.0,6.8
+75,1999.0,Oklahoma,Black or African American,23.0,277057.0,8.3
+76,1999.0,Oklahoma,White,445.0,2800181.0,15.9
+77,1999.0,Oregon,White,459.0,3154256.0,14.6
+78,1999.0,Pennsylvania,Asian or Pacific Islander,17.0,228127.0,Unreliable
+79,1999.0,Pennsylvania,Black or African American,86.0,1279925.0,6.7
+80,1999.0,Pennsylvania,White,1181.0,10734583.0,11
+81,1999.0,Rhode Island,White,89.0,945387.0,9.4
+82,1999.0,South Carolina,Black or African American,50.0,1192652.0,4.2
+83,1999.0,South Carolina,White,366.0,2729841.0,13.4
+84,1999.0,South Dakota,American Indian or Alaska Native,12.0,63170.0,Unreliable
+85,1999.0,South Dakota,White,91.0,678197.0,13.4
+86,1999.0,Tennessee,Black or African American,52.0,939791.0,5.5
+87,1999.0,Tennessee,White,672.0,4625327.0,14.5
+88,1999.0,Texas,Asian or Pacific Islander,27.0,602951.0,4.5
+89,1999.0,Texas,Black or African American,113.0,2461293.0,4.6
+90,1999.0,Texas,White,1864.0,17358613.0,10.7
+91,1999.0,Utah,Asian or Pacific Islander,10.0,56931.0,Unreliable
+92,1999.0,Utah,White,263.0,2092488.0,12.6
+93,1999.0,Vermont,White,63.0,593357.0,10.6
+94,1999.0,Virginia,Asian or Pacific Islander,14.0,273732.0,Unreliable
+95,1999.0,Virginia,Black or African American,85.0,1422517.0,6
+96,1999.0,Virginia,White,693.0,5282184.0,13.1
+97,1999.0,Washington,American Indian or Alaska Native,24.0,110034.0,21.8
+98,1999.0,Washington,Asian or Pacific Islander,35.0,371604.0,9.4
+99,1999.0,Washington,Black or African American,20.0,222319.0,9
+100,1999.0,Washington,White,736.0,5138607.0,14.3
+101,1999.0,West Virginia,White,224.0,1740096.0,12.9
+102,1999.0,Wisconsin,Black or African American,22.0,315230.0,7
+103,1999.0,Wisconsin,White,553.0,4874589.0,11.3
+104,1999.0,Wyoming,White,95.0,472739.0,20.1
+105,2000.0,Alabama,Black or African American,67.0,1167623.0,5.7
+106,2000.0,Alabama,White,513.0,3218218.0,15.9
+107,2000.0,Alaska,American Indian or Alaska Native,55.0,107715.0,51.1
+108,2000.0,Alaska,White,79.0,460782.0,17.1
+109,2000.0,Arizona,American Indian or Alaska Native,40.0,278265.0,14.4
+110,2000.0,Arizona,Black or African American,10.0,183298.0,Unreliable
+111,2000.0,Arizona,White,726.0,4554233.0,15.9
+112,2000.0,Arkansas,Black or African American,25.0,425864.0,5.9
+113,2000.0,Arkansas,White,323.0,2203157.0,14.7
+114,2000.0,California,American Indian or Alaska Native,12.0,472692.0,Unreliable
+115,2000.0,California,Asian or Pacific Islander,219.0,4133030.0,5.3
+116,2000.0,California,Black or African American,144.0,2516935.0,5.7
+117,2000.0,California,White,2588.0,26748991.0,9.7
+118,2000.0,Colorado,Black or African American,15.0,188402.0,Unreliable
+119,2000.0,Colorado,White,588.0,3941906.0,14.9
+120,2000.0,Connecticut,Black or African American,16.0,347678.0,Unreliable
+121,2000.0,Connecticut,White,285.0,2953244.0,9.7
+122,2000.0,Delaware,White,78.0,605429.0,12.9
+123,2000.0,District of Columbia,White,14.0,198984.0,Unreliable
+124,2000.0,Florida,Black or African American,138.0,2468478.0,5.6
+125,2000.0,Florida,White,1938.0,13132090.0,14.8
+126,2000.0,Georgia,Asian or Pacific Islander,10.0,192400.0,Unreliable
+127,2000.0,Georgia,Black or African American,125.0,2395234.0,5.2
+128,2000.0,Georgia,White,706.0,5572036.0,12.7
+129,2000.0,Hawaii,Asian or Pacific Islander,87.0,816218.0,10.7
+130,2000.0,Hawaii,White,48.0,360274.0,13.3
+131,2000.0,Idaho,White,158.0,1250538.0,12.6
+132,2000.0,Illinois,Asian or Pacific Islander,10.0,460311.0,Unreliable
+133,2000.0,Illinois,Black or African American,104.0,1933802.0,5.4
+134,2000.0,Illinois,White,888.0,9981520.0,8.9
+135,2000.0,Indiana,Black or African American,35.0,533138.0,6.6
+136,2000.0,Indiana,White,644.0,5460032.0,11.8
+137,2000.0,Iowa,White,282.0,2805323.0,10.1
+138,2000.0,Kansas,Black or African American,10.0,167269.0,Unreliable
+139,2000.0,Kansas,White,311.0,2437323.0,12.8
+140,2000.0,Kentucky,Black or African American,19.0,307871.0,Unreliable
+141,2000.0,Kentucky,White,497.0,3690141.0,13.5
+142,2000.0,Louisiana,Black or African American,74.0,1468317.0,5
+143,2000.0,Louisiana,White,392.0,2912011.0,13.5
+144,2000.0,Maine,White,153.0,1247712.0,12.3
+145,2000.0,Maryland,Asian or Pacific Islander,12.0,229606.0,Unreliable
+146,2000.0,Maryland,Black or African American,74.0,1524783.0,4.9
+147,2000.0,Maryland,White,385.0,3522415.0,10.9
+148,2000.0,Massachusetts,Black or African American,18.0,426216.0,Unreliable
+149,2000.0,Massachusetts,White,364.0,5642547.0,6.5
+150,2000.0,Michigan,Asian or Pacific Islander,16.0,195651.0,Unreliable
+151,2000.0,Michigan,Black or African American,85.0,1463500.0,5.8
+152,2000.0,Michigan,White,868.0,8205268.0,10.6
+153,2000.0,Minnesota,American Indian or Alaska Native,12.0,62673.0,Unreliable
+154,2000.0,Minnesota,Asian or Pacific Islander,15.0,155206.0,Unreliable
+155,2000.0,Minnesota,White,405.0,4506574.0,9
+156,2000.0,Mississippi,Black or African American,53.0,1041069.0,5.1
+157,2000.0,Mississippi,White,236.0,1770126.0,13.3
+158,2000.0,Missouri,Black or African American,37.0,649528.0,5.7
+159,2000.0,Missouri,White,660.0,4841938.0,13.6
+160,2000.0,Montana,White,149.0,832467.0,17.9
+161,2000.0,Nebraska,White,185.0,1594895.0,11.6
+162,2000.0,Nevada,Black or African American,14.0,149647.0,Unreliable
+163,2000.0,Nevada,White,377.0,1705295.0,22.1
+164,2000.0,New Hampshire,White,126.0,1202862.0,10.5
+165,2000.0,New Jersey,Asian or Pacific Islander,21.0,514273.0,4.1
+166,2000.0,New Jersey,Black or African American,55.0,1241469.0,4.4
+167,2000.0,New Jersey,White,483.0,6629830.0,7.3
+168,2000.0,New Mexico,American Indian or Alaska Native,32.0,185372.0,17.3
+169,2000.0,New Mexico,White,287.0,1565780.0,18.3
+170,2000.0,New York,Asian or Pacific Islander,40.0,1157977.0,3.5
+171,2000.0,New York,Black or African American,124.0,3434584.0,3.6
+172,2000.0,New York,White,967.0,14263541.0,6.8
+173,2000.0,North Carolina,Black or African American,103.0,1775634.0,5.8
+174,2000.0,North Carolina,White,852.0,6037509.0,14.1
+175,2000.0,North Dakota,White,60.0,600226.0,10
+176,2000.0,Ohio,Black or African American,84.0,1359717.0,6.2
+177,2000.0,Ohio,White,1000.0,9812402.0,10.2
+178,2000.0,Oklahoma,American Indian or Alaska Native,29.0,312425.0,9.3
+179,2000.0,Oklahoma,Black or African American,21.0,279982.0,7.5
+180,2000.0,Oklahoma,White,444.0,2803557.0,15.8
+181,2000.0,Oregon,Asian or Pacific Islander,11.0,122837.0,Unreliable
+182,2000.0,Oregon,White,474.0,3172360.0,14.9
+183,2000.0,Pennsylvania,Asian or Pacific Islander,15.0,238261.0,Unreliable
+184,2000.0,Pennsylvania,Black or African American,84.0,1293698.0,6.5
+185,2000.0,Pennsylvania,White,1256.0,10725447.0,11.7
+186,2000.0,Rhode Island,White,66.0,949046.0,7
+187,2000.0,South Carolina,Black or African American,54.0,1199993.0,4.5
+188,2000.0,South Carolina,White,386.0,2754751.0,14
+189,2000.0,South Dakota,American Indian or Alaska Native,14.0,65126.0,Unreliable
+190,2000.0,South Dakota,White,80.0,678523.0,11.8
+191,2000.0,Tennessee,Black or African American,54.0,950101.0,5.7
+192,2000.0,Tennessee,White,672.0,4657382.0,14.4
+193,2000.0,Texas,Asian or Pacific Islander,24.0,634472.0,3.8
+194,2000.0,Texas,Black or African American,136.0,2489759.0,5.5
+195,2000.0,Texas,White,1886.0,17575478.0,10.7
+196,2000.0,Utah,White,289.0,2117025.0,13.7
+197,2000.0,Vermont,White,76.0,595963.0,12.8
+198,2000.0,Virginia,Asian or Pacific Islander,14.0,289647.0,Unreliable
+199,2000.0,Virginia,Black or African American,87.0,1438727.0,6
+200,2000.0,Virginia,White,667.0,5324398.0,12.5
+201,2000.0,Washington,American Indian or Alaska Native,15.0,112006.0,Unreliable
+202,2000.0,Washington,Asian or Pacific Islander,28.0,385181.0,7.3
+203,2000.0,Washington,Black or African American,13.0,230096.0,Unreliable
+204,2000.0,Washington,White,671.0,5166838.0,13
+205,2000.0,West Virginia,White,241.0,1732909.0,13.9
+206,2000.0,Wisconsin,Black or African American,26.0,322099.0,8.1
+207,2000.0,Wisconsin,White,551.0,4891131.0,11.3
+208,2000.0,Wyoming,White,79.0,473335.0,16.7
+209,2001.0,Alabama,Black or African American,56.0,1177479.0,4.8
+210,2001.0,Alabama,White,453.0,3225628.0,14
+211,2001.0,Alaska,American Indian or Alaska Native,31.0,108715.0,28.5
+212,2001.0,Alaska,White,69.0,463818.0,14.9
+213,2001.0,Arizona,American Indian or Alaska Native,60.0,284705.0,21.1
+214,2001.0,Arizona,Black or African American,17.0,194201.0,Unreliable
+215,2001.0,Arizona,White,677.0,4669299.0,14.5
+216,2001.0,Arkansas,Black or African American,22.0,429929.0,5.1
+217,2001.0,Arkansas,White,357.0,2214656.0,16.1
+218,2001.0,California,American Indian or Alaska Native,12.0,495065.0,Unreliable
+219,2001.0,California,Asian or Pacific Islander,204.0,4338380.0,4.7
+220,2001.0,California,Black or African American,125.0,2547829.0,4.9
+221,2001.0,California,White,2479.0,27098184.0,9.1
+222,2001.0,Colorado,Black or African American,18.0,196376.0,Unreliable
+223,2001.0,Colorado,White,690.0,4046133.0,17.1
+224,2001.0,Connecticut,Black or African American,15.0,355440.0,Unreliable
+225,2001.0,Connecticut,White,263.0,2965228.0,8.9
+226,2001.0,Delaware,Black or African American,14.0,162206.0,Unreliable
+227,2001.0,Delaware,White,93.0,610442.0,15.2
+228,2001.0,District of Columbia,Black or African American,26.0,349536.0,7.4
+229,2001.0,District of Columbia,White,12.0,204684.0,Unreliable
+230,2001.0,Florida,Asian or Pacific Islander,10.0,340453.0,Unreliable
+231,2001.0,Florida,Black or African American,129.0,2553214.0,5.1
+232,2001.0,Florida,White,2169.0,13392855.0,16.2
+233,2001.0,Georgia,Asian or Pacific Islander,13.0,211322.0,Unreliable
+234,2001.0,Georgia,Black or African American,99.0,2468186.0,4
+235,2001.0,Georgia,White,819.0,5668444.0,14.4
+236,2001.0,Hawaii,Asian or Pacific Islander,83.0,823147.0,10.1
+237,2001.0,Hawaii,White,52.0,365535.0,14.2
+238,2001.0,Idaho,White,201.0,1273704.0,15.8
+239,2001.0,Illinois,Asian or Pacific Islander,22.0,484828.0,4.5
+240,2001.0,Illinois,Black or African American,110.0,1940249.0,5.7
+241,2001.0,Illinois,White,1004.0,10015499.0,10
+242,2001.0,Indiana,Black or African American,35.0,545974.0,6.4
+243,2001.0,Indiana,White,678.0,5488228.0,12.4
+244,2001.0,Iowa,White,298.0,2805838.0,10.6
+245,2001.0,Kansas,Black or African American,12.0,169671.0,Unreliable
+246,2001.0,Kansas,White,274.0,2444755.0,11.2
+247,2001.0,Kentucky,Black or African American,20.0,314168.0,6.4
+248,2001.0,Kentucky,White,472.0,3707359.0,12.7
+249,2001.0,Louisiana,Black or African American,82.0,1475975.0,5.6
+250,2001.0,Louisiana,White,404.0,2910410.0,13.9
+251,2001.0,Maine,White,157.0,1256397.0,12.5
+252,2001.0,Maryland,Black or African American,75.0,1561491.0,4.8
+253,2001.0,Maryland,White,367.0,3546882.0,10.3
+254,2001.0,Massachusetts,Black or African American,15.0,441594.0,Unreliable
+255,2001.0,Massachusetts,White,405.0,5655031.0,7.2
+256,2001.0,Michigan,Asian or Pacific Islander,12.0,208508.0,Unreliable
+257,2001.0,Michigan,Black or African American,95.0,1477489.0,6.4
+258,2001.0,Michigan,White,937.0,8230173.0,11.4
+259,2001.0,Minnesota,American Indian or Alaska Native,17.0,64033.0,Unreliable
+260,2001.0,Minnesota,Asian or Pacific Islander,10.0,165126.0,Unreliable
+261,2001.0,Minnesota,Black or African American,12.0,208738.0,Unreliable
+262,2001.0,Minnesota,White,439.0,4544899.0,9.7
+263,2001.0,Mississippi,Black or African American,36.0,1046375.0,3.4
+264,2001.0,Mississippi,White,291.0,1771836.0,16.4
+265,2001.0,Missouri,Black or African American,50.0,661223.0,7.6
+266,2001.0,Missouri,White,667.0,4870383.0,13.7
+267,2001.0,Montana,White,166.0,835441.0,19.9
+268,2001.0,Nebraska,White,184.0,1598826.0,11.5
+269,2001.0,Nevada,American Indian or Alaska Native,12.0,33816.0,Unreliable
+270,2001.0,Nevada,Asian or Pacific Islander,12.0,125577.0,Unreliable
+271,2001.0,Nevada,Black or African American,14.0,161746.0,Unreliable
+272,2001.0,Nevada,White,349.0,1777260.0,19.6
+273,2001.0,New Hampshire,White,162.0,1218748.0,13.3
+274,2001.0,New Jersey,Asian or Pacific Islander,21.0,551565.0,3.8
+275,2001.0,New Jersey,Black or African American,49.0,1257274.0,3.9
+276,2001.0,New Jersey,White,517.0,6652117.0,7.8
+277,2001.0,New Mexico,American Indian or Alaska Native,33.0,189218.0,17.4
+278,2001.0,New Mexico,White,317.0,1572453.0,20.2
+279,2001.0,New York,Asian or Pacific Islander,41.0,1213384.0,3.4
+280,2001.0,New York,Black or African American,132.0,3457658.0,3.8
+281,2001.0,New York,White,1075.0,14281400.0,7.5
+282,2001.0,North Carolina,American Indian or Alaska Native,10.0,111924.0,Unreliable
+283,2001.0,North Carolina,Asian or Pacific Islander,10.0,141623.0,Unreliable
+284,2001.0,North Carolina,Black or African American,96.0,1814985.0,5.3
+285,2001.0,North Carolina,White,881.0,6141590.0,14.3
+286,2001.0,North Dakota,American Indian or Alaska Native,10.0,33149.0,Unreliable
+287,2001.0,North Dakota,White,66.0,595709.0,11.1
+288,2001.0,Ohio,Black or African American,97.0,1381459.0,7
+289,2001.0,Ohio,White,1112.0,9816057.0,11.3
+290,2001.0,Oklahoma,American Indian or Alaska Native,28.0,318918.0,8.8
+291,2001.0,Oklahoma,Black or African American,19.0,282978.0,Unreliable
+292,2001.0,Oklahoma,White,466.0,2807711.0,16.6
+293,2001.0,Oregon,Asian or Pacific Islander,10.0,130093.0,Unreliable
+294,2001.0,Oregon,White,483.0,3206792.0,15.1
+295,2001.0,Pennsylvania,Asian or Pacific Islander,11.0,253927.0,Unreliable
+296,2001.0,Pennsylvania,Black or African American,70.0,1311557.0,5.3
+297,2001.0,Pennsylvania,White,1193.0,10707684.0,11.1
+298,2001.0,Rhode Island,White,83.0,953319.0,8.7
+299,2001.0,South Carolina,Black or African American,56.0,1214753.0,4.6
+300,2001.0,South Carolina,White,404.0,2789474.0,14.5
+301,2001.0,South Dakota,American Indian or Alaska Native,19.0,66230.0,Unreliable
+302,2001.0,South Dakota,White,84.0,679387.0,12.4
+303,2001.0,Tennessee,Black or African American,59.0,967178.0,6.1
+304,2001.0,Tennessee,White,644.0,4696634.0,13.7
+305,2001.0,Texas,Asian or Pacific Islander,33.0,684712.0,4.8
+306,2001.0,Texas,Black or African American,139.0,2551645.0,5.4
+307,2001.0,Texas,White,2046.0,17922031.0,11.4
+308,2001.0,Utah,White,314.0,2161013.0,14.5
+309,2001.0,Vermont,White,70.0,598383.0,11.7
+310,2001.0,Virginia,Asian or Pacific Islander,13.0,313207.0,Unreliable
+311,2001.0,Virginia,Black or African American,102.0,1462901.0,7
+312,2001.0,Virginia,White,681.0,5394417.0,12.6
+313,2001.0,Washington,American Indian or Alaska Native,12.0,115121.0,Unreliable
+314,2001.0,Washington,Asian or Pacific Islander,29.0,408480.0,7.1
+315,2001.0,Washington,Black or African American,10.0,239036.0,Unreliable
+316,2001.0,Washington,White,661.0,5223085.0,12.7
+317,2001.0,West Virginia,White,276.0,1725478.0,16
+318,2001.0,Wisconsin,Black or African American,19.0,331554.0,Unreliable
+319,2001.0,Wisconsin,White,610.0,4918108.0,12.4
+320,2001.0,Wyoming,White,82.0,473249.0,17.3
+321,2002.0,Alabama,Black or African American,63.0,1182591.0,5.3
+322,2002.0,Alabama,White,448.0,3229712.0,13.9
+323,2002.0,Alaska,American Indian or Alaska Native,42.0,109756.0,38.3
+324,2002.0,Alaska,White,90.0,468708.0,19.2
+325,2002.0,Arizona,American Indian or Alaska Native,52.0,291458.0,17.8
+326,2002.0,Arizona,Black or African American,12.0,204176.0,Unreliable
+327,2002.0,Arizona,White,815.0,4766279.0,17.1
+328,2002.0,Arkansas,Black or African American,23.0,432330.0,5.3
+329,2002.0,Arkansas,White,352.0,2224117.0,15.8
+330,2002.0,California,American Indian or Alaska Native,23.0,513001.0,4.5
+331,2002.0,California,Asian or Pacific Islander,252.0,4482498.0,5.6
+332,2002.0,California,Black or African American,161.0,2567326.0,6.3
+333,2002.0,California,White,2784.0,27309018.0,10.2
+334,2002.0,Colorado,Black or African American,17.0,201149.0,Unreliable
+335,2002.0,Colorado,White,692.0,4097747.0,16.9
+336,2002.0,Connecticut,Black or African American,14.0,363022.0,Unreliable
+337,2002.0,Connecticut,White,244.0,2975939.0,8.2
+338,2002.0,Delaware,Black or African American,10.0,166583.0,Unreliable
+339,2002.0,Delaware,White,63.0,615028.0,10.2
+340,2002.0,District of Columbia,Black or African American,20.0,346080.0,5.8
+341,2002.0,Florida,Asian or Pacific Islander,18.0,363758.0,Unreliable
+342,2002.0,Florida,Black or African American,104.0,2627531.0,4
+343,2002.0,Florida,White,2210.0,13623576.0,16.2
+344,2002.0,Georgia,Black or African American,111.0,2522522.0,4.4
+345,2002.0,Georgia,White,783.0,5727405.0,13.7
+346,2002.0,Hawaii,Asian or Pacific Islander,79.0,828889.0,9.5
+347,2002.0,Hawaii,White,40.0,371782.0,10.8
+348,2002.0,Idaho,White,198.0,1291938.0,15.3
+349,2002.0,Illinois,Asian or Pacific Islander,20.0,503613.0,4
+350,2002.0,Illinois,Black or African American,92.0,1942243.0,4.7
+351,2002.0,Illinois,White,1025.0,10028334.0,10.2
+352,2002.0,Indiana,Black or African American,43.0,555017.0,7.7
+353,2002.0,Indiana,White,696.0,5501795.0,12.7
+354,2002.0,Iowa,White,311.0,2803526.0,11.1
+355,2002.0,Kansas,White,335.0,2450143.0,13.7
+356,2002.0,Kentucky,Black or African American,19.0,318571.0,Unreliable
+357,2002.0,Kentucky,White,518.0,3722159.0,13.9
+358,2002.0,Louisiana,Black or African American,60.0,1485575.0,4
+359,2002.0,Louisiana,White,435.0,2916968.0,14.9
+360,2002.0,Maine,White,164.0,1264617.0,13
+361,2002.0,Maryland,Black or African American,81.0,1592833.0,5.1
+362,2002.0,Maryland,White,385.0,3566844.0,10.8
+363,2002.0,Massachusetts,Asian or Pacific Islander,15.0,291477.0,Unreliable
+364,2002.0,Massachusetts,Black or African American,18.0,453484.0,Unreliable
+365,2002.0,Massachusetts,White,403.0,5648553.0,7.1
+366,2002.0,Michigan,Asian or Pacific Islander,11.0,218778.0,Unreliable
+367,2002.0,Michigan,Black or African American,92.0,1483051.0,6.2
+368,2002.0,Michigan,White,996.0,8237822.0,12.1
+369,2002.0,Minnesota,American Indian or Alaska Native,10.0,65300.0,Unreliable
+370,2002.0,Minnesota,Black or African American,17.0,219791.0,Unreliable
+371,2002.0,Minnesota,White,460.0,4561120.0,10.1
+372,2002.0,Mississippi,Black or African American,54.0,1049194.0,5.1
+373,2002.0,Mississippi,White,286.0,1773296.0,16.1
+374,2002.0,Missouri,Black or African American,43.0,669160.0,6.4
+375,2002.0,Missouri,White,644.0,4891238.0,13.2
+376,2002.0,Montana,American Indian or Alaska Native,11.0,61507.0,Unreliable
+377,2002.0,Montana,White,173.0,838973.0,20.6
+378,2002.0,Nebraska,White,196.0,1603540.0,12.2
+379,2002.0,Nevada,Black or African American,23.0,171629.0,13.4
+380,2002.0,Nevada,White,392.0,1828699.0,21.4
+381,2002.0,New Hampshire,White,129.0,1229485.0,10.5
+382,2002.0,New Jersey,Asian or Pacific Islander,18.0,582299.0,Unreliable
+383,2002.0,New Jersey,Black or African American,43.0,1268823.0,3.4
+384,2002.0,New Jersey,White,492.0,6667078.0,7.4
+385,2002.0,New Mexico,American Indian or Alaska Native,29.0,192786.0,15
+386,2002.0,New Mexico,White,311.0,1589442.0,19.6
+387,2002.0,New York,Asian or Pacific Islander,51.0,1255048.0,4.1
+388,2002.0,New York,Black or African American,124.0,3467250.0,3.6
+389,2002.0,New York,White,1049.0,14276260.0,7.3
+390,2002.0,North Carolina,Black or African American,99.0,1844291.0,5.4
+391,2002.0,North Carolina,White,875.0,6214771.0,14.1
+392,2002.0,North Dakota,White,85.0,593517.0,14.3
+393,2002.0,Ohio,Black or African American,85.0,1397560.0,6.1
+394,2002.0,Ohio,White,1193.0,9812513.0,12.2
+395,2002.0,Oklahoma,American Indian or Alaska Native,35.0,325082.0,10.8
+396,2002.0,Oklahoma,Black or African American,18.0,285840.0,Unreliable
+397,2002.0,Oklahoma,White,447.0,2818258.0,15.9
+398,2002.0,Oregon,American Indian or Alaska Native,10.0,60964.0,Unreliable
+399,2002.0,Oregon,White,498.0,3242079.0,15.4
+400,2002.0,Pennsylvania,Asian or Pacific Islander,12.0,268041.0,Unreliable
+401,2002.0,Pennsylvania,Black or African American,100.0,1329750.0,7.5
+402,2002.0,Pennsylvania,White,1224.0,10705281.0,11.4
+403,2002.0,Rhode Island,White,82.0,957652.0,8.6
+404,2002.0,South Carolina,Black or African American,46.0,1222658.0,3.8
+405,2002.0,South Carolina,White,389.0,2820732.0,13.8
+406,2002.0,South Dakota,American Indian or Alaska Native,17.0,67133.0,Unreliable
+407,2002.0,South Dakota,White,75.0,679515.0,11
+408,2002.0,Tennessee,Black or African American,52.0,980256.0,5.3
+409,2002.0,Tennessee,White,718.0,4723797.0,15.2
+410,2002.0,Texas,Asian or Pacific Islander,26.0,726265.0,3.6
+411,2002.0,Texas,Black or African American,134.0,2602237.0,5.1
+412,2002.0,Texas,White,2145.0,18192259.0,11.8
+413,2002.0,Utah,White,332.0,2196834.0,15.1
+414,2002.0,Vermont,White,92.0,600887.0,15.3
+415,2002.0,Virginia,Asian or Pacific Islander,17.0,332353.0,Unreliable
+416,2002.0,Virginia,Black or African American,91.0,1480645.0,6.1
+417,2002.0,Virginia,White,690.0,5444069.0,12.7
+418,2002.0,Washington,American Indian or Alaska Native,20.0,117689.0,17
+419,2002.0,Washington,Asian or Pacific Islander,24.0,426682.0,5.6
+420,2002.0,Washington,Black or African American,15.0,245869.0,Unreliable
+421,2002.0,Washington,White,752.0,5262109.0,14.3
+422,2002.0,West Virginia,White,269.0,1728416.0,15.6
+423,2002.0,Wisconsin,Black or African American,20.0,339499.0,5.9
+424,2002.0,Wisconsin,White,595.0,4942435.0,12
+425,2002.0,Wyoming,White,102.0,477938.0,21.3
+426,2003.0,Alabama,Black or African American,50.0,1190183.0,4.2
+427,2003.0,Alabama,White,468.0,3241836.0,14.4
+428,2003.0,Alaska,American Indian or Alaska Native,42.0,110936.0,37.9
+429,2003.0,Alaska,White,75.0,471541.0,15.9
+430,2003.0,Arizona,American Indian or Alaska Native,52.0,298633.0,17.4
+431,2003.0,Arizona,Black or African American,24.0,213993.0,11.2
+432,2003.0,Arizona,White,759.0,4854518.0,15.6
+433,2003.0,Arkansas,Black or African American,31.0,435025.0,7.1
+434,2003.0,Arkansas,White,338.0,2237427.0,15.1
+435,2003.0,California,American Indian or Alaska Native,25.0,534792.0,4.7
+436,2003.0,California,Asian or Pacific Islander,244.0,4621258.0,5.3
+437,2003.0,California,Black or African American,138.0,2585567.0,5.3
+438,2003.0,California,White,2985.0,27511542.0,10.8
+439,2003.0,Colorado,Black or African American,14.0,203049.0,Unreliable
+440,2003.0,Colorado,White,702.0,4127630.0,17
+441,2003.0,Connecticut,Black or African American,10.0,370417.0,Unreliable
+442,2003.0,Connecticut,White,259.0,2986138.0,8.7
+443,2003.0,Delaware,White,89.0,620499.0,14.3
+444,2003.0,District of Columbia,Black or African American,27.0,340751.0,7.9
+445,2003.0,Florida,Asian or Pacific Islander,20.0,387049.0,5.2
+446,2003.0,Florida,Black or African American,119.0,2700143.0,4.4
+447,2003.0,Florida,White,2152.0,13838602.0,15.6
+448,2003.0,Georgia,Asian or Pacific Islander,10.0,240749.0,Unreliable
+449,2003.0,Georgia,Black or African American,126.0,2571491.0,4.9
+450,2003.0,Georgia,White,822.0,5776586.0,14.2
+451,2003.0,Hawaii,Asian or Pacific Islander,71.0,837056.0,8.5
+452,2003.0,Hawaii,White,58.0,375506.0,15.4
+453,2003.0,Idaho,White,211.0,1312571.0,16.1
+454,2003.0,Illinois,Asian or Pacific Islander,18.0,521161.0,Unreliable
+455,2003.0,Illinois,Black or African American,76.0,1942340.0,3.9
+456,2003.0,Illinois,White,913.0,10037309.0,9.1
+457,2003.0,Indiana,Black or African American,43.0,565411.0,7.6
+458,2003.0,Indiana,White,689.0,5526320.0,12.5
+459,2003.0,Iowa,White,341.0,2806004.0,12.2
+460,2003.0,Kansas,White,335.0,2454735.0,13.6
+461,2003.0,Kentucky,Black or African American,32.0,322254.0,9.9
+462,2003.0,Kentucky,White,530.0,3743343.0,14.2
+463,2003.0,Louisiana,Black or African American,55.0,1496609.0,3.7
+464,2003.0,Louisiana,White,397.0,2926521.0,13.6
+465,2003.0,Maine,White,137.0,1272827.0,10.8
+466,2003.0,Maryland,Asian or Pacific Islander,19.0,270259.0,Unreliable
+467,2003.0,Maryland,Black or African American,64.0,1621856.0,3.9
+468,2003.0,Maryland,White,408.0,3579519.0,11.4
+469,2003.0,Massachusetts,Asian or Pacific Islander,14.0,302516.0,Unreliable
+470,2003.0,Massachusetts,Black or African American,20.0,464146.0,4.3
+471,2003.0,Massachusetts,White,397.0,5630854.0,7.1
+472,2003.0,Michigan,Black or African American,92.0,1488590.0,6.2
+473,2003.0,Michigan,White,921.0,8245792.0,11.2
+474,2003.0,Minnesota,Asian or Pacific Islander,13.0,179550.0,Unreliable
+475,2003.0,Minnesota,Black or African American,13.0,231089.0,Unreliable
+476,2003.0,Minnesota,White,464.0,4576328.0,10.1
+477,2003.0,Mississippi,Black or African American,52.0,1053803.0,4.9
+478,2003.0,Mississippi,White,283.0,1776834.0,15.9
+479,2003.0,Missouri,Black or African American,43.0,676844.0,6.4
+480,2003.0,Missouri,White,630.0,4913336.0,12.8
+481,2003.0,Montana,American Indian or Alaska Native,11.0,62325.0,Unreliable
+482,2003.0,Montana,White,169.0,845586.0,20
+483,2003.0,Nebraska,White,169.0,1609719.0,10.5
+484,2003.0,Nevada,Asian or Pacific Islander,13.0,150442.0,Unreliable
+485,2003.0,Nevada,Black or African American,19.0,181213.0,Unreliable
+486,2003.0,Nevada,White,394.0,1880102.0,21
+487,2003.0,New Hampshire,White,155.0,1237630.0,12.5
+488,2003.0,New Jersey,Asian or Pacific Islander,19.0,610067.0,Unreliable
+489,2003.0,New Jersey,Black or African American,56.0,1279601.0,4.4
+490,2003.0,New Jersey,White,513.0,6674697.0,7.7
+491,2003.0,New Mexico,American Indian or Alaska Native,36.0,196291.0,18.3
+492,2003.0,New Mexico,White,300.0,1605625.0,18.7
+493,2003.0,New York,Asian or Pacific Islander,54.0,1293519.0,4.2
+494,2003.0,New York,Black or African American,110.0,3471007.0,3.2
+495,2003.0,New York,White,999.0,14263472.0,7
+496,2003.0,North Carolina,Black or African American,104.0,1869334.0,5.6
+497,2003.0,North Carolina,White,839.0,6271850.0,13.4
+498,2003.0,North Dakota,American Indian or Alaska Native,12.0,34227.0,Unreliable
+499,2003.0,North Dakota,White,68.0,592924.0,11.5
+500,2003.0,Ohio,Black or African American,82.0,1413170.0,5.8
+501,2003.0,Ohio,White,986.0,9814964.0,10
+502,2003.0,Oklahoma,American Indian or Alaska Native,30.0,331462.0,9.1
+503,2003.0,Oklahoma,Black or African American,27.0,287387.0,9.4
+504,2003.0,Oklahoma,White,411.0,2824128.0,14.6
+505,2003.0,Oregon,White,575.0,3267254.0,17.6
+506,2003.0,Pennsylvania,Asian or Pacific Islander,13.0,282881.0,Unreliable
+507,2003.0,Pennsylvania,Black or African American,99.0,1349739.0,7.3
+508,2003.0,Pennsylvania,White,1226.0,10711817.0,11.4
+509,2003.0,Rhode Island,White,81.0,958870.0,8.4
+510,2003.0,South Carolina,Black or African American,60.0,1231581.0,4.9
+511,2003.0,South Carolina,White,410.0,2850639.0,14.4
+512,2003.0,South Dakota,American Indian or Alaska Native,14.0,68275.0,Unreliable
+513,2003.0,South Dakota,White,87.0,681095.0,12.8
+514,2003.0,Tennessee,Black or African American,54.0,993443.0,5.4
+515,2003.0,Tennessee,White,699.0,4757541.0,14.7
+516,2003.0,Texas,Asian or Pacific Islander,44.0,764885.0,5.8
+517,2003.0,Texas,Black or African American,125.0,2646739.0,4.7
+518,2003.0,Texas,White,2184.0,18440940.0,11.8
+519,2003.0,Utah,White,322.0,2227843.0,14.5
+520,2003.0,Vermont,White,83.0,602530.0,13.8
+521,2003.0,Virginia,Asian or Pacific Islander,15.0,351495.0,Unreliable
+522,2003.0,Virginia,Black or African American,94.0,1496240.0,6.3
+523,2003.0,Virginia,White,697.0,5487553.0,12.7
+524,2003.0,Washington,American Indian or Alaska Native,11.0,120618.0,Unreliable
+525,2003.0,Washington,Asian or Pacific Islander,32.0,443413.0,7.2
+526,2003.0,Washington,Black or African American,20.0,250925.0,8
+527,2003.0,Washington,White,738.0,5289159.0,14
+528,2003.0,West Virginia,White,260.0,1733784.0,15
+529,2003.0,Wisconsin,American Indian or Alaska Native,10.0,56937.0,Unreliable
+530,2003.0,Wisconsin,Asian or Pacific Islander,10.0,112146.0,Unreliable
+531,2003.0,Wisconsin,Black or African American,25.0,346353.0,7.2
+532,2003.0,Wisconsin,White,601.0,4963767.0,12.1
+533,2003.0,Wyoming,White,105.0,480960.0,21.8
+534,2004.0,Alabama,Black or African American,73.0,1199192.0,6.1
+535,2004.0,Alabama,White,458.0,3255811.0,14.1
+536,2004.0,Alaska,American Indian or Alaska Native,59.0,112721.0,52.3
+537,2004.0,Alaska,White,89.0,478466.0,18.6
+538,2004.0,Arizona,American Indian or Alaska Native,54.0,306256.0,17.6
+539,2004.0,Arizona,Black or African American,20.0,226956.0,8.8
+540,2004.0,Arizona,White,801.0,4965804.0,16.1
+541,2004.0,Arkansas,Black or African American,17.0,438712.0,Unreliable
+542,2004.0,Arkansas,White,341.0,2255345.0,15.1
+543,2004.0,California,American Indian or Alaska Native,22.0,557610.0,3.9
+544,2004.0,California,Asian or Pacific Islander,287.0,4750147.0,6
+545,2004.0,California,Black or African American,142.0,2603152.0,5.5
+546,2004.0,California,White,2898.0,27663667.0,10.5
+547,2004.0,Colorado,Asian or Pacific Islander,14.0,136838.0,Unreliable
+548,2004.0,Colorado,Black or African American,23.0,208322.0,11
+549,2004.0,Colorado,White,753.0,4160952.0,18.1
+550,2004.0,Connecticut,Black or African American,15.0,375875.0,Unreliable
+551,2004.0,Connecticut,White,274.0,2986255.0,9.2
+552,2004.0,Delaware,Black or African American,10.0,175605.0,Unreliable
+553,2004.0,Delaware,White,82.0,626833.0,13.1
+554,2004.0,District of Columbia,Black or African American,14.0,335297.0,Unreliable
+555,2004.0,District of Columbia,White,16.0,210252.0,Unreliable
+556,2004.0,Florida,Asian or Pacific Islander,20.0,414998.0,4.8
+557,2004.0,Florida,Black or African American,112.0,2786446.0,4
+558,2004.0,Florida,White,2251.0,14131892.0,15.9
+559,2004.0,Georgia,Asian or Pacific Islander,13.0,256011.0,Unreliable
+560,2004.0,Georgia,Black or African American,132.0,2635336.0,5
+561,2004.0,Georgia,White,817.0,5841377.0,14
+562,2004.0,Hawaii,Asian or Pacific Islander,63.0,852273.0,7.4
+563,2004.0,Hawaii,White,52.0,383013.0,13.6
+564,2004.0,Idaho,White,231.0,1338380.0,17.3
+565,2004.0,Illinois,Asian or Pacific Islander,17.0,538214.0,Unreliable
+566,2004.0,Illinois,Black or African American,85.0,1944473.0,4.4
+567,2004.0,Illinois,White,923.0,10047833.0,9.2
+568,2004.0,Indiana,Asian or Pacific Islander,11.0,87942.0,Unreliable
+569,2004.0,Indiana,Black or African American,39.0,575734.0,6.8
+570,2004.0,Indiana,White,652.0,5546480.0,11.8
+571,2004.0,Iowa,White,334.0,2812023.0,11.9
+572,2004.0,Kansas,Black or African American,19.0,175310.0,Unreliable
+573,2004.0,Kansas,White,346.0,2460978.0,14.1
+574,2004.0,Kentucky,Black or African American,11.0,328546.0,Unreliable
+575,2004.0,Kentucky,White,544.0,3763011.0,14.5
+576,2004.0,Louisiana,Black or African American,84.0,1509822.0,5.6
+577,2004.0,Louisiana,White,450.0,2940900.0,15.3
+578,2004.0,Maine,White,168.0,1278082.0,13.1
+579,2004.0,Maryland,Asian or Pacific Islander,11.0,282937.0,Unreliable
+580,2004.0,Maryland,Black or African American,71.0,1652016.0,4.3
+581,2004.0,Maryland,White,413.0,3585789.0,11.5
+582,2004.0,Massachusetts,Asian or Pacific Islander,11.0,313272.0,Unreliable
+583,2004.0,Massachusetts,Black or African American,11.0,472524.0,Unreliable
+584,2004.0,Massachusetts,White,397.0,5600102.0,7.1
+585,2004.0,Michigan,American Indian or Alaska Native,13.0,78246.0,Unreliable
+586,2004.0,Michigan,Asian or Pacific Islander,17.0,237897.0,Unreliable
+587,2004.0,Michigan,Black or African American,67.0,1492884.0,4.5
+588,2004.0,Michigan,White,1000.0,8246288.0,12.1
+589,2004.0,Minnesota,American Indian or Alaska Native,16.0,68115.0,Unreliable
+590,2004.0,Minnesota,Asian or Pacific Islander,11.0,186774.0,Unreliable
+591,2004.0,Minnesota,Black or African American,11.0,242890.0,Unreliable
+592,2004.0,Minnesota,White,484.0,4589934.0,10.5
+593,2004.0,Mississippi,Black or African American,53.0,1062637.0,5
+594,2004.0,Mississippi,White,294.0,1786952.0,16.5
+595,2004.0,Missouri,Black or African American,56.0,685468.0,8.2
+596,2004.0,Missouri,White,646.0,4937590.0,13.1
+597,2004.0,Montana,American Indian or Alaska Native,20.0,63172.0,31.7
+598,2004.0,Montana,White,154.0,854417.0,18
+599,2004.0,Nebraska,White,156.0,1616304.0,9.7
+600,2004.0,Nevada,Asian or Pacific Islander,12.0,165090.0,Unreliable
+601,2004.0,Nevada,Black or African American,13.0,194114.0,Unreliable
+602,2004.0,Nevada,White,413.0,1947914.0,21.2
+603,2004.0,New Hampshire,White,130.0,1245528.0,10.4
+604,2004.0,New Jersey,Asian or Pacific Islander,22.0,635855.0,3.5
+605,2004.0,New Jersey,Black or African American,54.0,1288238.0,4.2
+606,2004.0,New Jersey,White,521.0,6670703.0,7.8
+607,2004.0,New Mexico,American Indian or Alaska Native,41.0,199634.0,20.5
+608,2004.0,New Mexico,White,305.0,1625510.0,18.8
+609,2004.0,New York,Asian or Pacific Islander,61.0,1327853.0,4.6
+610,2004.0,New York,Black or African American,140.0,3464246.0,4
+611,2004.0,New York,White,978.0,14222791.0,6.9
+612,2004.0,North Carolina,Black or African American,105.0,1901343.0,5.5
+613,2004.0,North Carolina,White,907.0,6355906.0,14.3
+614,2004.0,North Dakota,White,65.0,596952.0,10.9
+615,2004.0,Ohio,Asian or Pacific Islander,10.0,180109.0,Unreliable
+616,2004.0,Ohio,Black or African American,102.0,1427023.0,7.1
+617,2004.0,Ohio,White,1203.0,9810680.0,12.3
+618,2004.0,Oklahoma,American Indian or Alaska Native,36.0,337623.0,10.7
+619,2004.0,Oklahoma,Black or African American,20.0,290375.0,6.9
+620,2004.0,Oklahoma,White,445.0,2833383.0,15.7
+621,2004.0,Oregon,White,536.0,3281938.0,16.3
+622,2004.0,Pennsylvania,Asian or Pacific Islander,11.0,297339.0,Unreliable
+623,2004.0,Pennsylvania,Black or African American,90.0,1372319.0,6.6
+624,2004.0,Pennsylvania,White,1308.0,10708454.0,12.2
+625,2004.0,Rhode Island,White,80.0,958378.0,8.3
+626,2004.0,South Carolina,Black or African American,61.0,1244041.0,4.9
+627,2004.0,South Carolina,White,418.0,2894711.0,14.4
+628,2004.0,South Dakota,American Indian or Alaska Native,24.0,69565.0,34.5
+629,2004.0,South Dakota,White,87.0,685440.0,12.7
+630,2004.0,Tennessee,Black or African American,55.0,1009077.0,5.5
+631,2004.0,Tennessee,White,733.0,4799162.0,15.3
+632,2004.0,Texas,Asian or Pacific Islander,31.0,802430.0,3.9
+633,2004.0,Texas,Black or African American,137.0,2697339.0,5.1
+634,2004.0,Texas,White,2121.0,18705854.0,11.3
+635,2004.0,Utah,White,361.0,2264136.0,15.9
+636,2004.0,Vermont,White,92.0,603896.0,15.2
+637,2004.0,Virginia,Asian or Pacific Islander,25.0,372253.0,6.7
+638,2004.0,Virginia,Black or African American,85.0,1519571.0,5.6
+639,2004.0,Virginia,White,716.0,5550005.0,12.9
+640,2004.0,Washington,American Indian or Alaska Native,18.0,124543.0,Unreliable
+641,2004.0,Washington,Asian or Pacific Islander,30.0,461698.0,6.5
+642,2004.0,Washington,Black or African American,22.0,257470.0,8.5
+643,2004.0,Washington,White,759.0,5334934.0,14.2
+644,2004.0,West Virginia,White,281.0,1736570.0,16.2
+645,2004.0,Wisconsin,Black or African American,27.0,352749.0,7.7
+646,2004.0,Wisconsin,White,622.0,4986571.0,12.5
+647,2004.0,Wyoming,White,86.0,485888.0,17.7
+648,2005.0,Alabama,Black or African American,65.0,1210903.0,5.4
+649,2005.0,Alabama,White,467.0,3279048.0,14.2
+650,2005.0,Alaska,American Indian or Alaska Native,51.0,114256.0,44.6
+651,2005.0,Alaska,White,78.0,482692.0,16.2
+652,2005.0,Arizona,American Indian or Alaska Native,58.0,316197.0,18.3
+653,2005.0,Arizona,Asian or Pacific Islander,11.0,167814.0,Unreliable
+654,2005.0,Arizona,White,867.0,5111992.0,17
+655,2005.0,Arkansas,Black or African American,29.0,442674.0,6.6
+656,2005.0,Arkansas,White,368.0,2278997.0,16.1
+657,2005.0,California,American Indian or Alaska Native,18.0,581877.0,Unreliable
+658,2005.0,California,Asian or Pacific Islander,247.0,4884264.0,5.1
+659,2005.0,California,Black or African American,138.0,2615407.0,5.3
+660,2005.0,California,White,2792.0,27746395.0,10.1
+661,2005.0,Colorado,Black or African American,22.0,211476.0,10.4
+662,2005.0,Colorado,White,766.0,4206548.0,18.2
+663,2005.0,Connecticut,Black or African American,16.0,381552.0,Unreliable
+664,2005.0,Connecticut,White,272.0,2984742.0,9.1
+665,2005.0,Delaware,White,73.0,633398.0,11.5
+666,2005.0,District of Columbia,Black or African American,16.0,329329.0,Unreliable
+667,2005.0,District of Columbia,White,14.0,215554.0,Unreliable
+668,2005.0,Florida,Asian or Pacific Islander,25.0,445860.0,5.6
+669,2005.0,Florida,Black or African American,128.0,2881786.0,4.4
+670,2005.0,Florida,White,2180.0,14428647.0,15.1
+671,2005.0,Georgia,Black or African American,141.0,2702396.0,5.2
+672,2005.0,Georgia,White,773.0,5911406.0,13.1
+673,2005.0,Hawaii,Asian or Pacific Islander,62.0,861818.0,7.2
+674,2005.0,Hawaii,White,44.0,391585.0,11.2
+675,2005.0,Idaho,White,220.0,1371294.0,16
+676,2005.0,Illinois,Asian or Pacific Islander,23.0,555402.0,4.1
+677,2005.0,Illinois,Black or African American,86.0,1944853.0,4.4
+678,2005.0,Illinois,White,975.0,10046377.0,9.7
+679,2005.0,Indiana,Black or African American,31.0,586943.0,5.3
+680,2005.0,Indiana,White,712.0,5574542.0,12.8
+681,2005.0,Iowa,White,323.0,2816975.0,11.5
+682,2005.0,Kansas,Black or African American,14.0,176749.0,Unreliable
+683,2005.0,Kansas,White,342.0,2467205.0,13.9
+684,2005.0,Kentucky,Black or African American,22.0,334402.0,6.6
+685,2005.0,Kentucky,White,543.0,3790752.0,14.3
+686,2005.0,Louisiana,Black or African American,65.0,1521031.0,4.3
+687,2005.0,Louisiana,White,431.0,2951023.0,14.6
+688,2005.0,Maine,White,171.0,1281091.0,13.3
+689,2005.0,Maryland,Asian or Pacific Islander,14.0,295829.0,Unreliable
+690,2005.0,Maryland,Black or African American,75.0,1680707.0,4.5
+691,2005.0,Maryland,White,381.0,3587986.0,10.6
+692,2005.0,Massachusetts,Asian or Pacific Islander,15.0,323694.0,Unreliable
+693,2005.0,Massachusetts,Black or African American,18.0,481830.0,Unreliable
+694,2005.0,Massachusetts,White,446.0,5570042.0,8
+695,2005.0,Michigan,Black or African American,82.0,1494262.0,5.5
+696,2005.0,Michigan,White,1014.0,8231910.0,12.3
+697,2005.0,Minnesota,American Indian or Alaska Native,21.0,70018.0,30
+698,2005.0,Minnesota,Asian or Pacific Islander,13.0,194207.0,Unreliable
+699,2005.0,Minnesota,White,504.0,4600739.0,11
+700,2005.0,Mississippi,Black or African American,57.0,1070369.0,5.3
+701,2005.0,Mississippi,White,302.0,1794500.0,16.8
+702,2005.0,Missouri,Asian or Pacific Islander,10.0,95260.0,Unreliable
+703,2005.0,Missouri,Black or African American,42.0,694231.0,6
+704,2005.0,Missouri,White,669.0,4965900.0,13.5
+705,2005.0,Montana,American Indian or Alaska Native,15.0,64369.0,Unreliable
+706,2005.0,Montana,White,191.0,862916.0,22.1
+707,2005.0,Nebraska,White,176.0,1624229.0,10.8
+708,2005.0,Nevada,Black or African American,16.0,207275.0,Unreliable
+709,2005.0,Nevada,White,450.0,2002853.0,22.5
+710,2005.0,New Hampshire,White,162.0,1251338.0,12.9
+711,2005.0,New Jersey,Asian or Pacific Islander,26.0,661776.0,3.9
+712,2005.0,New Jersey,Black or African American,38.0,1293607.0,2.9
+713,2005.0,New Jersey,White,471.0,6654085.0,7.1
+714,2005.0,New Mexico,American Indian or Alaska Native,30.0,202659.0,14.8
+715,2005.0,New Mexico,White,307.0,1648132.0,18.6
+716,2005.0,New York,Asian or Pacific Islander,74.0,1362726.0,5.4
+717,2005.0,New York,Black or African American,116.0,3457681.0,3.4
+718,2005.0,New York,White,997.0,14146723.0,7
+719,2005.0,North Carolina,Black or African American,101.0,1936792.0,5.2
+720,2005.0,North Carolina,White,891.0,6456650.0,13.8
+721,2005.0,North Dakota,American Indian or Alaska Native,17.0,35578.0,Unreliable
+722,2005.0,North Dakota,White,74.0,596748.0,12.4
+723,2005.0,Ohio,Black or African American,81.0,1441701.0,5.6
+724,2005.0,Ohio,White,1256.0,9798651.0,12.8
+725,2005.0,Oklahoma,American Indian or Alaska Native,48.0,344806.0,13.9
+726,2005.0,Oklahoma,Black or African American,25.0,293204.0,8.5
+727,2005.0,Oklahoma,White,436.0,2845221.0,15.3
+728,2005.0,Oregon,Asian or Pacific Islander,10.0,150553.0,Unreliable
+729,2005.0,Oregon,White,540.0,3315027.0,16.3
+730,2005.0,Pennsylvania,Asian or Pacific Islander,14.0,312561.0,Unreliable
+731,2005.0,Pennsylvania,Black or African American,102.0,1395186.0,7.3
+732,2005.0,Pennsylvania,White,1311.0,10707324.0,12.2
+733,2005.0,Rhode Island,White,67.0,949218.0,7.1
+734,2005.0,South Carolina,Black or African American,59.0,1255105.0,4.7
+735,2005.0,South Carolina,White,445.0,2938716.0,15.1
+736,2005.0,South Dakota,American Indian or Alaska Native,16.0,70603.0,Unreliable
+737,2005.0,South Dakota,White,105.0,688470.0,15.3
+738,2005.0,Tennessee,Black or African American,61.0,1026372.0,5.9
+739,2005.0,Tennessee,White,791.0,4856223.0,16.3
+740,2005.0,Texas,Asian or Pacific Islander,31.0,844072.0,3.7
+741,2005.0,Texas,Black or African American,155.0,2753898.0,5.6
+742,2005.0,Texas,White,2220.0,18980757.0,11.7
+743,2005.0,Utah,White,322.0,2313863.0,13.9
+744,2005.0,Vermont,White,77.0,604380.0,12.7
+745,2005.0,Virginia,Asian or Pacific Islander,15.0,394694.0,Unreliable
+746,2005.0,Virginia,Black or African American,90.0,1541027.0,5.8
+747,2005.0,Virginia,White,758.0,5605707.0,13.5
+748,2005.0,Washington,American Indian or Alaska Native,12.0,127959.0,Unreliable
+749,2005.0,Washington,Asian or Pacific Islander,32.0,481562.0,6.6
+750,2005.0,Washington,Black or African American,16.0,264736.0,Unreliable
+751,2005.0,Washington,White,761.0,5383048.0,14.1
+752,2005.0,West Virginia,White,249.0,1739381.0,14.3
+753,2005.0,Wisconsin,American Indian or Alaska Native,20.0,59895.0,33.4
+754,2005.0,Wisconsin,Black or African American,19.0,359771.0,Unreliable
+755,2005.0,Wisconsin,White,593.0,5005823.0,11.8
+756,2005.0,Wyoming,White,88.0,490272.0,17.9
+757,2006.0,Alabama,Black or African American,62.0,1230534.0,5
+758,2006.0,Alabama,White,512.0,3314160.0,15.4
+759,2006.0,Alaska,American Indian or Alaska Native,48.0,115621.0,41.5
+760,2006.0,Alaska,White,83.0,487954.0,17
+761,2006.0,Arizona,American Indian or Alaska Native,55.0,327058.0,16.8
+762,2006.0,Arizona,Asian or Pacific Islander,14.0,184455.0,Unreliable
+763,2006.0,Arizona,Black or African American,21.0,262150.0,8
+764,2006.0,Arizona,White,886.0,5255478.0,16.9
+765,2006.0,Arkansas,Black or African American,21.0,450382.0,4.7
+766,2006.0,Arkansas,White,346.0,2308449.0,15
+767,2006.0,California,American Indian or Alaska Native,13.0,607308.0,Unreliable
+768,2006.0,California,Asian or Pacific Islander,265.0,5013374.0,5.3
+769,2006.0,California,Black or African American,131.0,2626937.0,5
+770,2006.0,California,White,2914.0,27773583.0,10.5
+771,2006.0,Colorado,Asian or Pacific Islander,16.0,147694.0,Unreliable
+772,2006.0,Colorado,Black or African American,21.0,218810.0,9.6
+773,2006.0,Colorado,White,686.0,4278464.0,16
+774,2006.0,Connecticut,Asian or Pacific Islander,11.0,130310.0,Unreliable
+775,2006.0,Connecticut,Black or African American,16.0,388120.0,Unreliable
+776,2006.0,Connecticut,White,264.0,2982114.0,8.9
+777,2006.0,Delaware,Black or African American,10.0,187148.0,Unreliable
+778,2006.0,Delaware,White,80.0,640053.0,12.5
+779,2006.0,District of Columbia,Black or African American,13.0,325064.0,Unreliable
+780,2006.0,District of Columbia,White,14.0,221264.0,Unreliable
+781,2006.0,Florida,Asian or Pacific Islander,30.0,473540.0,6.3
+782,2006.0,Florida,Black or African American,101.0,2969250.0,3.4
+783,2006.0,Florida,White,2290.0,14634243.0,15.6
+784,2006.0,Georgia,Asian or Pacific Islander,21.0,293130.0,7.2
+785,2006.0,Georgia,Black or African American,131.0,2805927.0,4.7
+786,2006.0,Georgia,White,769.0,6014480.0,12.8
+787,2006.0,Hawaii,Asian or Pacific Islander,71.0,870882.0,8.2
+788,2006.0,Hawaii,White,49.0,399166.0,12.3
+789,2006.0,Idaho,White,218.0,1408456.0,15.5
+790,2006.0,Illinois,Asian or Pacific Islander,18.0,574103.0,Unreliable
+791,2006.0,Illinois,Black or African American,93.0,1947836.0,4.8
+792,2006.0,Illinois,White,895.0,10054436.0,8.9
+793,2006.0,Indiana,Black or African American,33.0,600368.0,5.5
+794,2006.0,Indiana,White,787.0,5608431.0,14
+795,2006.0,Iowa,Black or African American,10.0,90031.0,Unreliable
+796,2006.0,Iowa,White,324.0,2828308.0,11.5
+797,2006.0,Kansas,Black or African American,15.0,180509.0,Unreliable
+798,2006.0,Kansas,White,355.0,2478392.0,14.3
+799,2006.0,Kentucky,Black or African American,19.0,339736.0,Unreliable
+800,2006.0,Kentucky,White,596.0,3819323.0,15.6
+801,2006.0,Louisiana,Black or African American,63.0,1369467.0,4.6
+802,2006.0,Louisiana,White,427.0,2834087.0,15.1
+803,2006.0,Maine,White,155.0,1284124.0,12.1
+804,2006.0,Maryland,Asian or Pacific Islander,20.0,307699.0,6.5
+805,2006.0,Maryland,Black or African American,82.0,1705298.0,4.8
+806,2006.0,Maryland,White,391.0,3584885.0,10.9
+807,2006.0,Massachusetts,Asian or Pacific Islander,14.0,334515.0,Unreliable
+808,2006.0,Massachusetts,Black or African American,17.0,492621.0,Unreliable
+809,2006.0,Massachusetts,White,418.0,5553858.0,7.5
+810,2006.0,Michigan,American Indian or Alaska Native,10.0,80565.0,Unreliable
+811,2006.0,Michigan,Asian or Pacific Islander,20.0,252099.0,7.9
+812,2006.0,Michigan,Black or African American,93.0,1494911.0,6.2
+813,2006.0,Michigan,White,1014.0,8208506.0,12.4
+814,2006.0,Minnesota,American Indian or Alaska Native,13.0,71771.0,Unreliable
+815,2006.0,Minnesota,Asian or Pacific Islander,10.0,202595.0,Unreliable
+816,2006.0,Minnesota,Black or African American,20.0,268698.0,7.4
+817,2006.0,Minnesota,White,511.0,4620491.0,11.1
+818,2006.0,Mississippi,Black or African American,53.0,1080399.0,4.9
+819,2006.0,Mississippi,White,270.0,1782659.0,15.1
+820,2006.0,Missouri,Black or African American,43.0,704464.0,6.1
+821,2006.0,Missouri,White,744.0,5002188.0,14.9
+822,2006.0,Montana,American Indian or Alaska Native,15.0,65146.0,Unreliable
+823,2006.0,Montana,White,172.0,874054.0,19.7
+824,2006.0,Nebraska,White,198.0,1630684.0,12.1
+825,2006.0,Nevada,Asian or Pacific Islander,15.0,197762.0,Unreliable
+826,2006.0,Nevada,Black or African American,21.0,221504.0,9.5
+827,2006.0,Nevada,White,444.0,2060010.0,21.6
+828,2006.0,New Hampshire,White,151.0,1258795.0,12
+829,2006.0,New Jersey,Asian or Pacific Islander,21.0,684887.0,3.1
+830,2006.0,New Jersey,Black or African American,49.0,1298653.0,3.8
+831,2006.0,New Jersey,White,512.0,6632976.0,7.7
+832,2006.0,New Mexico,American Indian or Alaska Native,30.0,205369.0,14.6
+833,2006.0,New Mexico,White,314.0,1672039.0,18.8
+834,2006.0,New York,Asian or Pacific Islander,63.0,1398778.0,4.5
+835,2006.0,New York,Black or African American,108.0,3453892.0,3.1
+836,2006.0,New York,White,1149.0,14077386.0,8.2
+837,2006.0,North Carolina,American Indian or Alaska Native,10.0,136103.0,Unreliable
+838,2006.0,North Carolina,Black or African American,93.0,1986797.0,4.7
+839,2006.0,North Carolina,White,987.0,6600137.0,15
+840,2006.0,North Dakota,American Indian or Alaska Native,16.0,36431.0,Unreliable
+841,2006.0,North Dakota,White,74.0,598442.0,12.4
+842,2006.0,Ohio,Black or African American,95.0,1457396.0,6.5
+843,2006.0,Ohio,White,1219.0,9793409.0,12.4
+844,2006.0,Oklahoma,American Indian or Alaska Native,45.0,353538.0,12.7
+845,2006.0,Oklahoma,Black or African American,17.0,299029.0,Unreliable
+846,2006.0,Oklahoma,White,470.0,2873569.0,16.4
+847,2006.0,Oregon,American Indian or Alaska Native,10.0,70114.0,Unreliable
+848,2006.0,Oregon,White,549.0,3360395.0,16.3
+849,2006.0,Pennsylvania,Asian or Pacific Islander,14.0,328092.0,Unreliable
+850,2006.0,Pennsylvania,Black or African American,82.0,1421259.0,5.8
+851,2006.0,Pennsylvania,White,1293.0,10724159.0,12.1
+852,2006.0,Rhode Island,White,87.0,942374.0,9.2
+853,2006.0,South Carolina,Black or African American,61.0,1273536.0,4.8
+854,2006.0,South Carolina,White,458.0,3003350.0,15.2
+855,2006.0,South Dakota,American Indian or Alaska Native,20.0,71942.0,27.8
+856,2006.0,South Dakota,White,105.0,693610.0,15.1
+857,2006.0,Tennessee,Black or African American,51.0,1047600.0,4.9
+858,2006.0,Tennessee,White,815.0,4926508.0,16.5
+859,2006.0,Texas,Asian or Pacific Islander,40.0,895701.0,4.5
+860,2006.0,Texas,Black or African American,130.0,2904002.0,4.5
+861,2006.0,Texas,White,2170.0,19346962.0,11.2
+862,2006.0,Utah,White,350.0,2374257.0,14.7
+863,2006.0,Vermont,White,79.0,605116.0,13.1
+864,2006.0,Virginia,Asian or Pacific Islander,16.0,415502.0,Unreliable
+865,2006.0,Virginia,Black or African American,90.0,1565510.0,5.7
+866,2006.0,Virginia,White,768.0,5654946.0,13.6
+867,2006.0,Washington,American Indian or Alaska Native,30.0,131727.0,22.8
+868,2006.0,Washington,Asian or Pacific Islander,40.0,505829.0,7.9
+869,2006.0,Washington,Black or African American,23.0,275137.0,8.4
+870,2006.0,Washington,White,716.0,5458060.0,13.1
+871,2006.0,West Virginia,White,260.0,1744654.0,14.9
+872,2006.0,Wisconsin,American Indian or Alaska Native,10.0,61283.0,Unreliable
+873,2006.0,Wisconsin,Asian or Pacific Islander,13.0,125123.0,Unreliable
+874,2006.0,Wisconsin,Black or African American,30.0,367132.0,8.2
+875,2006.0,Wisconsin,White,615.0,5024117.0,12.2
+876,2006.0,Wyoming,White,107.0,497710.0,21.5
+877,2007.0,Alabama,Black or African American,51.0,1243867.0,4.1
+878,2007.0,Alabama,White,536.0,3340633.0,16
+879,2007.0,Alaska,American Indian or Alaska Native,48.0,116298.0,41.3
+880,2007.0,Alaska,White,94.0,490413.0,19.2
+881,2007.0,Arizona,American Indian or Alaska Native,36.0,336800.0,10.7
+882,2007.0,Arizona,Asian or Pacific Islander,12.0,197939.0,Unreliable
+883,2007.0,Arizona,Black or African American,18.0,278537.0,Unreliable
+884,2007.0,Arizona,White,949.0,5354405.0,17.7
+885,2007.0,Arkansas,Black or African American,26.0,453433.0,5.7
+886,2007.0,Arkansas,White,372.0,2328952.0,16
+887,2007.0,California,American Indian or Alaska Native,24.0,636353.0,3.8
+888,2007.0,California,Asian or Pacific Islander,325.0,5142253.0,6.3
+889,2007.0,California,Black or African American,166.0,2639369.0,6.3
+890,2007.0,California,White,3071.0,27832336.0,11
+891,2007.0,Colorado,American Indian or Alaska Native,10.0,79271.0,Unreliable
+892,2007.0,Colorado,Asian or Pacific Islander,13.0,153365.0,Unreliable
+893,2007.0,Colorado,Black or African American,22.0,224746.0,9.8
+894,2007.0,Colorado,White,766.0,4346486.0,17.6
+895,2007.0,Connecticut,White,259.0,2979313.0,8.7
+896,2007.0,Delaware,White,86.0,645106.0,13.3
+897,2007.0,District of Columbia,Black or African American,20.0,321494.0,6.2
+898,2007.0,District of Columbia,White,14.0,228646.0,Unreliable
+899,2007.0,Florida,Asian or Pacific Islander,44.0,494671.0,8.9
+900,2007.0,Florida,Black or African American,133.0,3029024.0,4.4
+901,2007.0,Florida,White,2403.0,14750985.0,16.3
+902,2007.0,Georgia,Asian or Pacific Islander,12.0,310982.0,Unreliable
+903,2007.0,Georgia,Black or African American,122.0,2891925.0,4.2
+904,2007.0,Georgia,White,861.0,6101972.0,14.1
+905,2007.0,Hawaii,Asian or Pacific Islander,71.0,879253.0,8.1
+906,2007.0,Hawaii,White,59.0,397872.0,14.8
+907,2007.0,Idaho,White,214.0,1441249.0,14.8
+908,2007.0,Illinois,Asian or Pacific Islander,32.0,594345.0,5.4
+909,2007.0,Illinois,Black or African American,91.0,1951157.0,4.7
+910,2007.0,Illinois,White,980.0,10078343.0,9.7
+911,2007.0,Indiana,Black or African American,27.0,612333.0,4.4
+912,2007.0,Indiana,White,759.0,5637322.0,13.5
+913,2007.0,Iowa,White,315.0,2837532.0,11.1
+914,2007.0,Kansas,White,367.0,2492659.0,14.7
+915,2007.0,Kentucky,Black or African American,29.0,347061.0,8.4
+916,2007.0,Kentucky,White,615.0,3846623.0,16
+917,2007.0,Louisiana,Black or African American,72.0,1411396.0,5.1
+918,2007.0,Louisiana,White,445.0,2861100.0,15.6
+919,2007.0,Maine,White,185.0,1285828.0,14.4
+920,2007.0,Maryland,Asian or Pacific Islander,16.0,319141.0,Unreliable
+921,2007.0,Maryland,Black or African American,83.0,1724204.0,4.8
+922,2007.0,Maryland,White,417.0,3578891.0,11.7
+923,2007.0,Massachusetts,Asian or Pacific Islander,11.0,345003.0,Unreliable
+924,2007.0,Massachusetts,Black or African American,22.0,503993.0,4.4
+925,2007.0,Massachusetts,White,483.0,5552029.0,8.7
+926,2007.0,Michigan,Black or African American,74.0,1492428.0,5
+927,2007.0,Michigan,White,1038.0,8170744.0,12.7
+928,2007.0,Minnesota,American Indian or Alaska Native,16.0,73720.0,Unreliable
+929,2007.0,Minnesota,Asian or Pacific Islander,10.0,211024.0,Unreliable
+930,2007.0,Minnesota,Black or African American,14.0,282436.0,Unreliable
+931,2007.0,Minnesota,White,532.0,4640023.0,11.5
+932,2007.0,Mississippi,Black or African American,62.0,1092496.0,5.7
+933,2007.0,Mississippi,White,331.0,1792287.0,18.5
+934,2007.0,Missouri,Black or African American,42.0,712454.0,5.9
+935,2007.0,Missouri,White,758.0,5033689.0,15.1
+936,2007.0,Montana,American Indian or Alaska Native,12.0,66288.0,Unreliable
+937,2007.0,Montana,White,184.0,884439.0,20.8
+938,2007.0,Nebraska,White,175.0,1637196.0,10.7
+939,2007.0,Nevada,Asian or Pacific Islander,17.0,213624.0,Unreliable
+940,2007.0,Nevada,Black or African American,18.0,233966.0,Unreliable
+941,2007.0,Nevada,White,432.0,2107687.0,20.5
+942,2007.0,New Hampshire,White,154.0,1261147.0,12.2
+943,2007.0,New Jersey,Asian or Pacific Islander,31.0,710111.0,4.4
+944,2007.0,New Jersey,Black or African American,35.0,1304334.0,2.7
+945,2007.0,New Jersey,White,526.0,6615252.0,8
+946,2007.0,New Mexico,American Indian or Alaska Native,52.0,209060.0,24.9
+947,2007.0,New Mexico,White,342.0,1693476.0,20.2
+948,2007.0,New York,Asian or Pacific Islander,72.0,1439779.0,5
+949,2007.0,New York,Black or African American,125.0,3456802.0,3.6
+950,2007.0,New York,White,1194.0,14051624.0,8.5
+951,2007.0,North Carolina,American Indian or Alaska Native,15.0,141646.0,Unreliable
+952,2007.0,North Carolina,Black or African American,83.0,2035660.0,4.1
+953,2007.0,North Carolina,White,971.0,6733129.0,14.4
+954,2007.0,North Dakota,American Indian or Alaska Native,10.0,37093.0,Unreliable
+955,2007.0,North Dakota,White,84.0,600351.0,14
+956,2007.0,Ohio,Black or African American,93.0,1473382.0,6.3
+957,2007.0,Ohio,White,1194.0,9789179.0,12.2
+958,2007.0,Oklahoma,American Indian or Alaska Native,41.0,361816.0,11.3
+959,2007.0,Oklahoma,Black or African American,20.0,304098.0,6.6
+960,2007.0,Oklahoma,White,461.0,2897699.0,15.9
+961,2007.0,Oregon,Asian or Pacific Islander,10.0,163331.0,Unreliable
+962,2007.0,Oregon,White,572.0,3399653.0,16.8
+963,2007.0,Pennsylvania,Asian or Pacific Islander,16.0,342928.0,Unreliable
+964,2007.0,Pennsylvania,Black or African American,76.0,1445762.0,5.3
+965,2007.0,Pennsylvania,White,1342.0,10735235.0,12.5
+966,2007.0,Rhode Island,White,93.0,934336.0,10
+967,2007.0,South Carolina,Black or African American,53.0,1289462.0,4.1
+968,2007.0,South Carolina,White,470.0,3068677.0,15.3
+969,2007.0,South Dakota,American Indian or Alaska Native,20.0,73358.0,27.3
+970,2007.0,South Dakota,White,78.0,699485.0,11.2
+971,2007.0,Tennessee,Black or African American,54.0,1062187.0,5.1
+972,2007.0,Tennessee,White,778.0,4992038.0,15.6
+973,2007.0,Texas,Asian or Pacific Islander,49.0,948153.0,5.2
+974,2007.0,Texas,Black or African American,120.0,2962118.0,4.1
+975,2007.0,Texas,White,2260.0,19694301.0,11.5
+976,2007.0,Utah,American Indian or Alaska Native,10.0,41360.0,Unreliable
+977,2007.0,Utah,White,362.0,2437796.0,14.8
+978,2007.0,Vermont,White,88.0,604985.0,14.5
+979,2007.0,Virginia,Asian or Pacific Islander,25.0,435854.0,5.7
+980,2007.0,Virginia,Black or African American,88.0,1583256.0,5.6
+981,2007.0,Virginia,White,762.0,5692111.0,13.4
+982,2007.0,Washington,American Indian or Alaska Native,15.0,136097.0,Unreliable
+983,2007.0,Washington,Asian or Pacific Islander,31.0,527842.0,5.9
+984,2007.0,Washington,Black or African American,18.0,283382.0,Unreliable
+985,2007.0,Washington,White,798.0,5514266.0,14.5
+986,2007.0,West Virginia,Black or African American,10.0,67505.0,Unreliable
+987,2007.0,West Virginia,White,288.0,1749103.0,16.5
+988,2007.0,Wisconsin,Asian or Pacific Islander,12.0,129485.0,Unreliable
+989,2007.0,Wisconsin,Black or African American,23.0,374709.0,6.1
+990,2007.0,Wisconsin,White,686.0,5043468.0,13.6
+991,2007.0,Wyoming,White,93.0,508757.0,18.3
+992,2008.0,Alabama,Black or African American,67.0,1259177.0,5.3
+993,2008.0,Alabama,White,531.0,3366536.0,15.8
+994,2008.0,Alaska,American Indian or Alaska Native,52.0,117376.0,44.3
+995,2008.0,Alaska,White,112.0,493965.0,22.7
+996,2008.0,Arizona,American Indian or Alaska Native,53.0,346539.0,15.3
+997,2008.0,Arizona,Asian or Pacific Islander,14.0,209252.0,Unreliable
+998,2008.0,Arizona,Black or African American,20.0,294617.0,6.8
+999,2008.0,Arizona,White,885.0,5429954.0,16.3
+1000,2008.0,Arkansas,Black or African American,25.0,458375.0,5.5
+1001,2008.0,Arkansas,White,418.0,2346846.0,17.8
+1002,2008.0,California,American Indian or Alaska Native,26.0,669667.0,3.9
+1003,2008.0,California,Asian or Pacific Islander,309.0,5281970.0,5.9
+1004,2008.0,California,Black or African American,176.0,2662354.0,6.6
+1005,2008.0,California,White,3254.0,27990346.0,11.6
+1006,2008.0,Colorado,Asian or Pacific Islander,15.0,159295.0,Unreliable
+1007,2008.0,Colorado,Black or African American,21.0,231792.0,9.1
+1008,2008.0,Colorado,White,759.0,4414527.0,17.2
+1009,2008.0,Connecticut,Black or African American,11.0,401643.0,Unreliable
+1010,2008.0,Connecticut,White,299.0,2984016.0,10
+1011,2008.0,Delaware,Black or African American,14.0,197813.0,Unreliable
+1012,2008.0,Delaware,White,93.0,650311.0,14.3
+1013,2008.0,District of Columbia,Black or African American,18.0,318392.0,Unreliable
+1014,2008.0,District of Columbia,White,22.0,235420.0,9.3
+1015,2008.0,Florida,Asian or Pacific Islander,21.0,512331.0,4.1
+1016,2008.0,Florida,Black or African American,127.0,3086395.0,4.1
+1017,2008.0,Florida,White,2583.0,14832937.0,17.4
+1018,2008.0,Georgia,Asian or Pacific Islander,22.0,327759.0,6.7
+1019,2008.0,Georgia,Black or African American,144.0,2962628.0,4.9
+1020,2008.0,Georgia,White,814.0,6165916.0,13.2
+1021,2008.0,Hawaii,Asian or Pacific Islander,72.0,889527.0,8.1
+1022,2008.0,Hawaii,White,59.0,403775.0,14.6
+1023,2008.0,Idaho,White,241.0,1467743.0,16.4
+1024,2008.0,Illinois,Asian or Pacific Islander,22.0,612326.0,3.6
+1025,2008.0,Illinois,Black or African American,84.0,1955231.0,4.3
+1026,2008.0,Illinois,White,1086.0,10102663.0,10.7
+1027,2008.0,Indiana,Black or African American,29.0,624185.0,4.6
+1028,2008.0,Indiana,White,776.0,5664810.0,13.7
+1029,2008.0,Iowa,White,367.0,2847918.0,12.9
+1030,2008.0,Kansas,Black or African American,15.0,188485.0,Unreliable
+1031,2008.0,Kansas,White,318.0,2508363.0,12.7
+1032,2008.0,Kentucky,Black or African American,19.0,352036.0,Unreliable
+1033,2008.0,Kentucky,White,588.0,3872310.0,15.2
+1034,2008.0,Louisiana,Black or African American,74.0,1444476.0,5.1
+1035,2008.0,Louisiana,White,450.0,2883647.0,15.6
+1036,2008.0,Maine,White,182.0,1287317.0,14.1
+1037,2008.0,Maryland,Asian or Pacific Islander,20.0,330748.0,6
+1038,2008.0,Maryland,Black or African American,80.0,1741767.0,4.6
+1039,2008.0,Maryland,White,403.0,3579667.0,11.3
+1040,2008.0,Massachusetts,Asian or Pacific Islander,11.0,357575.0,Unreliable
+1041,2008.0,Massachusetts,Black or African American,15.0,517040.0,Unreliable
+1042,2008.0,Massachusetts,White,482.0,5562217.0,8.7
+1043,2008.0,Michigan,Asian or Pacific Islander,11.0,260068.0,Unreliable
+1044,2008.0,Michigan,Black or African American,103.0,1485681.0,6.9
+1045,2008.0,Michigan,White,1061.0,8118649.0,13.1
+1046,2008.0,Minnesota,American Indian or Alaska Native,10.0,75748.0,Unreliable
+1047,2008.0,Minnesota,Asian or Pacific Islander,12.0,219151.0,Unreliable
+1048,2008.0,Minnesota,Black or African American,23.0,294544.0,7.8
+1049,2008.0,Minnesota,White,550.0,4657575.0,11.8
+1050,2008.0,Mississippi,Black or African American,51.0,1103216.0,4.6
+1051,2008.0,Mississippi,White,356.0,1799399.0,19.8
+1052,2008.0,Missouri,Black or African American,39.0,719723.0,5.4
+1053,2008.0,Missouri,White,737.0,5057536.0,14.6
+1054,2008.0,Montana,American Indian or Alaska Native,16.0,67202.0,Unreliable
+1055,2008.0,Montana,White,186.0,894799.0,20.8
+1056,2008.0,Nebraska,White,179.0,1644461.0,10.9
+1057,2008.0,Nevada,Asian or Pacific Islander,12.0,226589.0,Unreliable
+1058,2008.0,Nevada,Black or African American,17.0,244200.0,Unreliable
+1059,2008.0,Nevada,White,494.0,2135244.0,23.1
+1060,2008.0,New Hampshire,White,179.0,1262351.0,14.2
+1061,2008.0,New Jersey,Asian or Pacific Islander,37.0,736423.0,5
+1062,2008.0,New Jersey,Black or African American,42.0,1311696.0,3.2
+1063,2008.0,New Jersey,White,532.0,6611708.0,8
+1064,2008.0,New Mexico,American Indian or Alaska Native,51.0,213396.0,23.9
+1065,2008.0,New Mexico,White,356.0,1707457.0,20.8
+1066,2008.0,New York,Asian or Pacific Islander,69.0,1485783.0,4.6
+1067,2008.0,New York,Black or African American,115.0,3473867.0,3.3
+1068,2008.0,New York,White,1216.0,14057786.0,8.7
+1069,2008.0,North Carolina,American Indian or Alaska Native,12.0,147170.0,Unreliable
+1070,2008.0,North Carolina,Asian or Pacific Islander,17.0,221145.0,Unreliable
+1071,2008.0,North Carolina,Black or African American,112.0,2084901.0,5.4
+1072,2008.0,North Carolina,White,1019.0,6856233.0,14.9
+1073,2008.0,North Dakota,White,77.0,603568.0,12.8
+1074,2008.0,Ohio,Asian or Pacific Islander,13.0,207654.0,Unreliable
+1075,2008.0,Ohio,Black or African American,114.0,1488002.0,7.7
+1076,2008.0,Ohio,White,1281.0,9781972.0,13.1
+1077,2008.0,Oklahoma,American Indian or Alaska Native,38.0,370624.0,10.3
+1078,2008.0,Oklahoma,Black or African American,23.0,307270.0,7.5
+1079,2008.0,Oklahoma,White,507.0,2917406.0,17.4
+1080,2008.0,Oregon,White,550.0,3434397.0,16
+1081,2008.0,Pennsylvania,Asian or Pacific Islander,12.0,356895.0,Unreliable
+1082,2008.0,Pennsylvania,Black or African American,81.0,1469600.0,5.5
+1083,2008.0,Pennsylvania,White,1444.0,10743098.0,13.4
+1084,2008.0,Rhode Island,White,105.0,929381.0,11.3
+1085,2008.0,South Carolina,Black or African American,61.0,1308465.0,4.7
+1086,2008.0,South Carolina,White,499.0,3129618.0,15.9
+1087,2008.0,South Dakota,American Indian or Alaska Native,27.0,74790.0,36.1
+1088,2008.0,South Dakota,White,96.0,704618.0,13.6
+1089,2008.0,Tennessee,Black or African American,79.0,1074684.0,7.4
+1090,2008.0,Tennessee,White,886.0,5046296.0,17.6
+1091,2008.0,Texas,Asian or Pacific Islander,32.0,1000104.0,3.2
+1092,2008.0,Texas,Black or African American,114.0,3027152.0,3.8
+1093,2008.0,Texas,White,2397.0,20037899.0,12
+1094,2008.0,Utah,White,372.0,2495003.0,14.9
+1095,2008.0,Vermont,White,93.0,605092.0,15.4
+1096,2008.0,Virginia,Asian or Pacific Islander,34.0,455516.0,7.5
+1097,2008.0,Virginia,Black or African American,105.0,1602530.0,6.6
+1098,2008.0,Virginia,White,805.0,5733461.0,14
+1099,2008.0,Washington,American Indian or Alaska Native,23.0,140912.0,16.3
+1100,2008.0,Washington,Asian or Pacific Islander,35.0,549453.0,6.4
+1101,2008.0,Washington,Black or African American,14.0,294548.0,Unreliable
+1102,2008.0,Washington,White,813.0,5577318.0,14.6
+1103,2008.0,West Virginia,White,257.0,1753592.0,14.7
+1104,2008.0,Wisconsin,American Indian or Alaska Native,10.0,64716.0,Unreliable
+1105,2008.0,Wisconsin,Black or African American,20.0,381998.0,5.2
+1106,2008.0,Wisconsin,White,704.0,5060201.0,13.9
+1107,2008.0,Wyoming,White,121.0,519057.0,23.3
+1108,2009.0,Alabama,Black or African American,60.0,1271247.0,4.7
+1109,2009.0,Alabama,White,610.0,3389202.0,18
+1110,2009.0,Alaska,American Indian or Alaska Native,44.0,119327.0,36.9
+1111,2009.0,Alaska,White,92.0,499867.0,18.4
+1112,2009.0,Arizona,American Indian or Alaska Native,58.0,353144.0,16.4
+1113,2009.0,Arizona,Asian or Pacific Islander,17.0,217943.0,Unreliable
+1114,2009.0,Arizona,Black or African American,27.0,308020.0,8.8
+1115,2009.0,Arizona,White,956.0,5464047.0,17.5
+1116,2009.0,Arkansas,Black or African American,17.0,462207.0,Unreliable
+1117,2009.0,Arkansas,White,397.0,2361582.0,16.8
+1118,2009.0,California,American Indian or Alaska Native,29.0,709279.0,4.1
+1119,2009.0,California,Asian or Pacific Islander,342.0,5412716.0,6.3
+1120,2009.0,California,Black or African American,142.0,2691724.0,5.3
+1121,2009.0,California,White,3297.0,28147510.0,11.7
+1122,2009.0,Colorado,American Indian or Alaska Native,11.0,88634.0,Unreliable
+1123,2009.0,Colorado,Asian or Pacific Islander,10.0,165687.0,Unreliable
+1124,2009.0,Colorado,Black or African American,24.0,239309.0,10
+1125,2009.0,Colorado,White,896.0,4478565.0,20
+1126,2009.0,Connecticut,Black or African American,20.0,409897.0,4.9
+1127,2009.0,Connecticut,White,291.0,2985844.0,9.7
+1128,2009.0,Delaware,Black or African American,14.0,201775.0,Unreliable
+1129,2009.0,Delaware,White,93.0,652605.0,14.3
+1130,2009.0,District of Columbia,Black or African American,17.0,317978.0,Unreliable
+1131,2009.0,District of Columbia,White,11.0,247187.0,Unreliable
+1132,2009.0,Florida,Asian or Pacific Islander,30.0,527477.0,5.7
+1133,2009.0,Florida,Black or African American,173.0,3133488.0,5.5
+1134,2009.0,Florida,White,2645.0,14894191.0,17.8
+1135,2009.0,Georgia,Asian or Pacific Islander,21.0,342019.0,6.1
+1136,2009.0,Georgia,Black or African American,143.0,3023009.0,4.7
+1137,2009.0,Georgia,White,967.0,6204180.0,15.6
+1138,2009.0,Hawaii,Asian or Pacific Islander,83.0,900614.0,9.2
+1139,2009.0,Hawaii,White,87.0,406833.0,21.4
+1140,2009.0,Idaho,White,293.0,1485165.0,19.7
+1141,2009.0,Illinois,Asian or Pacific Islander,28.0,629853.0,4.4
+1142,2009.0,Illinois,Black or African American,77.0,1960826.0,3.9
+1143,2009.0,Illinois,White,1071.0,10123738.0,10.6
+1144,2009.0,Indiana,Black or African American,24.0,635234.0,3.8
+1145,2009.0,Indiana,White,794.0,5681764.0,14
+1146,2009.0,Iowa,White,349.0,2856456.0,12.2
+1147,2009.0,Kansas,Black or African American,12.0,192058.0,Unreliable
+1148,2009.0,Kansas,White,365.0,2525097.0,14.5
+1149,2009.0,Kentucky,Black or African American,26.0,359228.0,7.2
+1150,2009.0,Kentucky,White,560.0,3889498.0,14.4
+1151,2009.0,Louisiana,Black or African American,64.0,1468988.0,4.4
+1152,2009.0,Louisiana,White,420.0,2910509.0,14.4
+1153,2009.0,Maine,White,191.0,1284844.0,14.9
+1154,2009.0,Maryland,Asian or Pacific Islander,17.0,343110.0,Unreliable
+1155,2009.0,Maryland,Black or African American,95.0,1764644.0,5.4
+1156,2009.0,Maryland,White,438.0,3587821.0,12.2
+1157,2009.0,Massachusetts,Asian or Pacific Islander,16.0,371539.0,Unreliable
+1158,2009.0,Massachusetts,Black or African American,21.0,530509.0,4
+1159,2009.0,Massachusetts,White,493.0,5581686.0,8.8
+1160,2009.0,Michigan,American Indian or Alaska Native,10.0,83957.0,Unreliable
+1161,2009.0,Michigan,Asian or Pacific Islander,11.0,263190.0,Unreliable
+1162,2009.0,Michigan,Black or African American,88.0,1481101.0,5.9
+1163,2009.0,Michigan,White,1060.0,8073343.0,13.1
+1164,2009.0,Minnesota,American Indian or Alaska Native,14.0,76722.0,Unreliable
+1165,2009.0,Minnesota,Black or African American,18.0,304750.0,Unreliable
+1166,2009.0,Minnesota,White,542.0,4672941.0,11.6
+1167,2009.0,Mississippi,Black or African American,52.0,1108721.0,4.7
+1168,2009.0,Mississippi,White,328.0,1803266.0,18.2
+1169,2009.0,Missouri,Black or African American,39.0,728187.0,5.4
+1170,2009.0,Missouri,White,810.0,5081387.0,15.9
+1171,2009.0,Montana,American Indian or Alaska Native,25.0,68342.0,36.6
+1172,2009.0,Montana,White,191.0,900620.0,21.2
+1173,2009.0,Nebraska,White,159.0,1656315.0,9.6
+1174,2009.0,Nevada,Asian or Pacific Islander,23.0,235624.0,9.8
+1175,2009.0,Nevada,Black or African American,12.0,251426.0,Unreliable
+1176,2009.0,Nevada,White,465.0,2148708.0,21.6
+1177,2009.0,New Hampshire,White,164.0,1260984.0,13
+1178,2009.0,New Jersey,Asian or Pacific Islander,26.0,760885.0,3.4
+1179,2009.0,New Jersey,Black or African American,31.0,1323532.0,2.3
+1180,2009.0,New Jersey,White,496.0,6615988.0,7.5
+1181,2009.0,New Mexico,American Indian or Alaska Native,39.0,217796.0,17.9
+1182,2009.0,New Mexico,White,328.0,1725799.0,19
+1183,2009.0,New York,Asian or Pacific Islander,68.0,1529520.0,4.4
+1184,2009.0,New York,Black or African American,123.0,3498751.0,3.5
+1185,2009.0,New York,White,1221.0,14072238.0,8.7
+1186,2009.0,North Carolina,American Indian or Alaska Native,14.0,152931.0,Unreliable
+1187,2009.0,North Carolina,Asian or Pacific Islander,15.0,232059.0,Unreliable
+1188,2009.0,North Carolina,Black or African American,101.0,2125058.0,4.8
+1189,2009.0,North Carolina,White,1043.0,6939518.0,15
+1190,2009.0,North Dakota,White,79.0,609013.0,13
+1191,2009.0,Ohio,Black or African American,72.0,1501406.0,4.8
+1192,2009.0,Ohio,White,1098.0,9775738.0,11.2
+1193,2009.0,Oklahoma,American Indian or Alaska Native,39.0,380066.0,10.3
+1194,2009.0,Oklahoma,Black or African American,22.0,314025.0,7
+1195,2009.0,Oklahoma,White,499.0,2946778.0,16.9
+1196,2009.0,Oregon,Asian or Pacific Islander,10.0,174455.0,Unreliable
+1197,2009.0,Oregon,Black or African American,10.0,92275.0,Unreliable
+1198,2009.0,Oregon,White,613.0,3462337.0,17.7
+1199,2009.0,Pennsylvania,Asian or Pacific Islander,19.0,370947.0,Unreliable
+1200,2009.0,Pennsylvania,Black or African American,89.0,1492281.0,6
+1201,2009.0,Pennsylvania,White,1519.0,10758201.0,14.1
+1202,2009.0,Rhode Island,White,114.0,925159.0,12.3
+1203,2009.0,South Carolina,Black or African American,66.0,1320564.0,5
+1204,2009.0,South Carolina,White,546.0,3174776.0,17.2
+1205,2009.0,South Dakota,American Indian or Alaska Native,35.0,76035.0,46
+1206,2009.0,South Dakota,White,93.0,709532.0,13.1
+1207,2009.0,Tennessee,Black or African American,55.0,1087674.0,5.1
+1208,2009.0,Tennessee,White,876.0,5086681.0,17.2
+1209,2009.0,Texas,Asian or Pacific Islander,53.0,1051726.0,5
+1210,2009.0,Texas,Black or African American,151.0,3101293.0,4.9
+1211,2009.0,Texas,White,2598.0,20386890.0,12.7
+1212,2009.0,Utah,White,433.0,2547024.0,17
+1213,2009.0,Vermont,White,86.0,604741.0,14.2
+1214,2009.0,Virginia,Asian or Pacific Islander,25.0,475414.0,5.3
+1215,2009.0,Virginia,Black or African American,99.0,1623781.0,6.1
+1216,2009.0,Virginia,White,834.0,5782225.0,14.4
+1217,2009.0,Washington,American Indian or Alaska Native,22.0,144735.0,15.2
+1218,2009.0,Washington,Asian or Pacific Islander,46.0,571869.0,8
+1219,2009.0,Washington,Black or African American,27.0,305941.0,8.8
+1220,2009.0,Washington,White,824.0,5644881.0,14.6
+1221,2009.0,West Virginia,White,248.0,1758904.0,14.1
+1222,2009.0,Wisconsin,Black or African American,34.0,389316.0,8.7
+1223,2009.0,Wisconsin,White,679.0,5075213.0,13.4
+1224,2009.0,Wyoming,White,108.0,531442.0,20.3
+1225,2010.0,Alabama,Black or African American,55.0,1279072.0,4.3
+1226,2010.0,Alabama,White,619.0,3399975.0,18.2
+1227,2010.0,Alaska,American Indian or Alaska Native,52.0,120452.0,43.2
+1228,2010.0,Alaska,White,102.0,507431.0,20.1
+1229,2010.0,Arizona,American Indian or Alaska Native,64.0,358486.0,17.9
+1230,2010.0,Arizona,Asian or Pacific Islander,16.0,223902.0,Unreliable
+1231,2010.0,Arizona,Black or African American,18.0,316039.0,Unreliable
+1232,2010.0,Arizona,White,994.0,5493590.0,18.1
+1233,2010.0,Arkansas,Black or African American,27.0,466200.0,5.8
+1234,2010.0,Arkansas,White,416.0,2373667.0,17.5
+1235,2010.0,California,American Indian or Alaska Native,32.0,739342.0,4.3
+1236,2010.0,California,Asian or Pacific Islander,361.0,5515120.0,6.5
+1237,2010.0,California,Black or African American,170.0,2718779.0,6.3
+1238,2010.0,California,White,3341.0,28280715.0,11.8
+1239,2010.0,Colorado,Asian or Pacific Islander,13.0,170692.0,Unreliable
+1240,2010.0,Colorado,Black or African American,23.0,245200.0,9.4
+1241,2010.0,Colorado,White,822.0,4520301.0,18.2
+1242,2010.0,Connecticut,Asian or Pacific Islander,10.0,150814.0,Unreliable
+1243,2010.0,Connecticut,Black or African American,20.0,416130.0,4.8
+1244,2010.0,Connecticut,White,323.0,2987138.0,10.8
+1245,2010.0,Delaware,White,97.0,654944.0,14.8
+1246,2010.0,District of Columbia,Black or African American,20.0,317619.0,6.3
+1247,2010.0,District of Columbia,White,20.0,255534.0,7.8
+1248,2010.0,Florida,Asian or Pacific Islander,30.0,540137.0,5.6
+1249,2010.0,Florida,Black or African American,132.0,3172720.0,4.2
+1250,2010.0,Florida,White,2620.0,14989125.0,17.5
+1251,2010.0,Georgia,Asian or Pacific Islander,26.0,352249.0,7.4
+1252,2010.0,Georgia,Black or African American,153.0,3057817.0,5
+1253,2010.0,Georgia,White,948.0,6223554.0,15.2
+1254,2010.0,Hawaii,Asian or Pacific Islander,113.0,910638.0,12.4
+1255,2010.0,Hawaii,White,90.0,410433.0,21.9
+1256,2010.0,Idaho,White,280.0,1496784.0,18.7
+1257,2010.0,Illinois,Asian or Pacific Islander,30.0,641679.0,4.7
+1258,2010.0,Illinois,Black or African American,75.0,1965842.0,3.8
+1259,2010.0,Illinois,White,1072.0,10136715.0,10.6
+1260,2010.0,Indiana,Black or African American,33.0,643598.0,5.1
+1261,2010.0,Indiana,White,823.0,5693566.0,14.5
+1262,2010.0,Iowa,White,364.0,2864005.0,12.7
+1263,2010.0,Kansas,Black or African American,17.0,195412.0,Unreliable
+1264,2010.0,Kansas,White,379.0,2538944.0,14.9
+1265,2010.0,Kentucky,Black or African American,18.0,364148.0,Unreliable
+1266,2010.0,Kentucky,White,610.0,3904888.0,15.6
+1267,2010.0,Louisiana,Black or African American,63.0,1485375.0,4.2
+1268,2010.0,Louisiana,White,486.0,2932468.0,16.6
+1269,2010.0,Maine,White,182.0,1282994.0,14.2
+1270,2010.0,Maryland,Asian or Pacific Islander,21.0,353335.0,5.9
+1271,2010.0,Maryland,Black or African American,78.0,1783183.0,4.4
+1272,2010.0,Maryland,White,403.0,3600864.0,11.2
+1273,2010.0,Massachusetts,Asian or Pacific Islander,15.0,381023.0,Unreliable
+1274,2010.0,Massachusetts,Black or African American,26.0,539664.0,4.8
+1275,2010.0,Massachusetts,White,555.0,5591798.0,9.9
+1276,2010.0,Michigan,American Indian or Alaska Native,14.0,85730.0,Unreliable
+1277,2010.0,Michigan,Asian or Pacific Islander,11.0,265830.0,Unreliable
+1278,2010.0,Michigan,Black or African American,102.0,1483261.0,6.9
+1279,2010.0,Michigan,White,1135.0,8048819.0,14.1
+1280,2010.0,Minnesota,American Indian or Alaska Native,10.0,78005.0,Unreliable
+1281,2010.0,Minnesota,Asian or Pacific Islander,23.0,232323.0,9.9
+1282,2010.0,Minnesota,Black or African American,16.0,311471.0,Unreliable
+1283,2010.0,Minnesota,White,554.0,4682126.0,11.8
+1284,2010.0,Mississippi,Black or African American,47.0,1115323.0,4.2
+1285,2010.0,Mississippi,White,338.0,1804239.0,18.7
+1286,2010.0,Missouri,Black or African American,44.0,734657.0,6
+1287,2010.0,Missouri,White,801.0,5098388.0,15.7
+1288,2010.0,Montana,American Indian or Alaska Native,22.0,69329.0,31.7
+1289,2010.0,Montana,White,202.0,905118.0,22.3
+1290,2010.0,Nebraska,White,184.0,1666286.0,11
+1291,2010.0,Nevada,Asian or Pacific Islander,14.0,242385.0,Unreliable
+1292,2010.0,Nevada,Black or African American,20.0,255727.0,7.8
+1293,2010.0,Nevada,White,506.0,2152677.0,23.5
+1294,2010.0,New Hampshire,White,194.0,1260654.0,15.4
+1295,2010.0,New Jersey,Asian or Pacific Islander,35.0,778053.0,4.5
+1296,2010.0,New Jersey,Black or African American,68.0,1333527.0,5.1
+1297,2010.0,New Jersey,White,615.0,6621985.0,9.3
+1298,2010.0,New Mexico,American Indian or Alaska Native,41.0,220615.0,18.6
+1299,2010.0,New Mexico,White,365.0,1742790.0,20.9
+1300,2010.0,New York,Asian or Pacific Islander,78.0,1561960.0,5
+1301,2010.0,New York,Black or African American,138.0,3523196.0,3.9
+1302,2010.0,New York,White,1327.0,14078317.0,9.4
+1303,2010.0,North Carolina,American Indian or Alaska Native,14.0,157331.0,Unreliable
+1304,2010.0,North Carolina,Black or African American,95.0,2151978.0,4.4
+1305,2010.0,North Carolina,White,1056.0,6985358.0,15.1
+1306,2010.0,North Dakota,American Indian or Alaska Native,13.0,39204.0,Unreliable
+1307,2010.0,North Dakota,White,92.0,615263.0,15
+1308,2010.0,Ohio,Asian or Pacific Islander,10.0,218652.0,Unreliable
+1309,2010.0,Ohio,Black or African American,81.0,1510985.0,5.4
+1310,2010.0,Ohio,White,1343.0,9767820.0,13.7
+1311,2010.0,Oklahoma,American Indian or Alaska Native,56.0,387227.0,14.5
+1312,2010.0,Oklahoma,Black or African American,25.0,319116.0,7.8
+1313,2010.0,Oklahoma,White,531.0,2965869.0,17.9
+1314,2010.0,Oregon,American Indian or Alaska Native,11.0,81786.0,Unreliable
+1315,2010.0,Oregon,Asian or Pacific Islander,10.0,178276.0,Unreliable
+1316,2010.0,Oregon,White,657.0,3476736.0,18.9
+1317,2010.0,Pennsylvania,Asian or Pacific Islander,22.0,381910.0,5.8
+1318,2010.0,Pennsylvania,Black or African American,78.0,1506459.0,5.2
+1319,2010.0,Pennsylvania,White,1474.0,10766954.0,13.7
+1320,2010.0,Rhode Island,White,120.0,922331.0,13
+1321,2010.0,South Carolina,Black or African American,67.0,1329507.0,5
+1322,2010.0,South Carolina,White,560.0,3198579.0,17.5
+1323,2010.0,South Dakota,American Indian or Alaska Native,28.0,77193.0,36.3
+1324,2010.0,South Dakota,White,111.0,714718.0,15.5
+1325,2010.0,Tennessee,Asian or Pacific Islander,10.0,106644.0,Unreliable
+1326,2010.0,Tennessee,Black or African American,60.0,1097940.0,5.5
+1327,2010.0,Tennessee,White,870.0,5113124.0,17
+1328,2010.0,Texas,Asian or Pacific Islander,48.0,1088578.0,4.4
+1329,2010.0,Texas,Black or African American,174.0,3156011.0,5.5
+1330,2010.0,Texas,White,2662.0,20624991.0,12.9
+1331,2010.0,Utah,White,459.0,2581722.0,17.8
+1332,2010.0,Vermont,White,105.0,605609.0,17.3
+1333,2010.0,Virginia,Asian or Pacific Islander,29.0,492031.0,5.9
+1334,2010.0,Virginia,Black or African American,96.0,1640836.0,5.9
+1335,2010.0,Virginia,White,836.0,5821714.0,14.4
+1336,2010.0,Washington,American Indian or Alaska Native,22.0,147822.0,14.9
+1337,2010.0,Washington,Asian or Pacific Islander,37.0,585845.0,6.3
+1338,2010.0,Washington,Black or African American,25.0,310869.0,8
+1339,2010.0,Washington,White,871.0,5680004.0,15.3
+1340,2010.0,West Virginia,White,274.0,1763290.0,15.5
+1341,2010.0,Wisconsin,American Indian or Alaska Native,11.0,67724.0,Unreliable
+1342,2010.0,Wisconsin,Asian or Pacific Islander,21.0,141521.0,14.8
+1343,2010.0,Wisconsin,Black or African American,28.0,394478.0,7.1
+1344,2010.0,Wisconsin,White,730.0,5083263.0,14.4
+1345,2010.0,Wyoming,White,126.0,535163.0,23.5
+1346,2011.0,Alabama,Black or African American,70.0,1293037.0,5.4
+1347,2011.0,Alabama,White,580.0,3406474.0,17
+1348,2011.0,Alaska,American Indian or Alaska Native,47.0,121915.0,38.6
+1349,2011.0,Alaska,White,87.0,514612.0,16.9
+1350,2011.0,Arizona,American Indian or Alaska Native,67.0,363483.0,18.4
+1351,2011.0,Arizona,Asian or Pacific Islander,13.0,231717.0,Unreliable
+1352,2011.0,Arizona,Black or African American,28.0,327548.0,8.5
+1353,2011.0,Arizona,White,1052.0,5559757.0,18.9
+1354,2011.0,Arkansas,Black or African American,18.0,471035.0,Unreliable
+1355,2011.0,Arkansas,White,439.0,2386839.0,18.4
+1356,2011.0,California,American Indian or Alaska Native,40.0,756441.0,5.3
+1357,2011.0,California,Asian or Pacific Islander,360.0,5634880.0,6.4
+1358,2011.0,California,Black or African American,165.0,2749509.0,6
+1359,2011.0,California,White,3425.0,28551082.0,12
+1360,2011.0,Colorado,American Indian or Alaska Native,10.0,95952.0,Unreliable
+1361,2011.0,Colorado,Asian or Pacific Islander,15.0,177324.0,Unreliable
+1362,2011.0,Colorado,Black or African American,26.0,254320.0,10.2
+1363,2011.0,Colorado,White,859.0,4589200.0,18.7
+1364,2011.0,Connecticut,Black or African American,18.0,420735.0,Unreliable
+1365,2011.0,Connecticut,White,346.0,2984193.0,11.6
+1366,2011.0,Delaware,Black or African American,10.0,207425.0,Unreliable
+1367,2011.0,Delaware,White,95.0,660104.0,14.4
+1368,2011.0,District of Columbia,Black or African American,19.0,320832.0,Unreliable
+1369,2011.0,District of Columbia,White,17.0,266864.0,Unreliable
+1370,2011.0,Florida,Asian or Pacific Islander,28.0,562698.0,5
+1371,2011.0,Florida,Black or African American,153.0,3242646.0,4.7
+1372,2011.0,Florida,White,2689.0,15148280.0,17.8
+1373,2011.0,Georgia,Asian or Pacific Islander,22.0,365731.0,6
+1374,2011.0,Georgia,Black or African American,152.0,3113361.0,4.9
+1375,2011.0,Georgia,White,982.0,6280506.0,15.6
+1376,2011.0,Hawaii,Asian or Pacific Islander,95.0,909176.0,10.4
+1377,2011.0,Hawaii,White,81.0,420022.0,19.3
+1378,2011.0,Idaho,White,274.0,1510289.0,18.1
+1379,2011.0,Illinois,Asian or Pacific Islander,20.0,657394.0,3
+1380,2011.0,Illinois,Black or African American,98.0,1971805.0,5
+1381,2011.0,Illinois,White,1102.0,10152278.0,10.9
+1382,2011.0,Indiana,Black or African American,42.0,652559.0,6.4
+1383,2011.0,Indiana,White,829.0,5711984.0,14.5
+1384,2011.0,Iowa,White,407.0,2873019.0,14.2
+1385,2011.0,Kansas,White,380.0,2549248.0,14.9
+1386,2011.0,Kentucky,Black or African American,26.0,372115.0,7
+1387,2011.0,Kentucky,White,645.0,3924165.0,16.4
+1388,2011.0,Louisiana,Black or African American,87.0,1506336.0,5.8
+1389,2011.0,Louisiana,White,477.0,2949133.0,16.2
+1390,2011.0,Maine,White,231.0,1281361.0,18
+1391,2011.0,Maryland,Asian or Pacific Islander,22.0,365437.0,6
+1392,2011.0,Maryland,Black or African American,95.0,1802494.0,5.3
+1393,2011.0,Maryland,White,437.0,3623463.0,12.1
+1394,2011.0,Massachusetts,Asian or Pacific Islander,16.0,393671.0,Unreliable
+1395,2011.0,Massachusetts,Black or African American,19.0,549080.0,Unreliable
+1396,2011.0,Massachusetts,White,549.0,5609013.0,9.8
+1397,2011.0,Michigan,American Indian or Alaska Native,16.0,86216.0,Unreliable
+1398,2011.0,Michigan,Asian or Pacific Islander,11.0,274926.0,Unreliable
+1399,2011.0,Michigan,Black or African American,99.0,1488254.0,6.7
+1400,2011.0,Michigan,White,1095.0,8026791.0,13.6
+1401,2011.0,Minnesota,American Indian or Alaska Native,13.0,78981.0,Unreliable
+1402,2011.0,Minnesota,Asian or Pacific Islander,20.0,240575.0,8.3
+1403,2011.0,Minnesota,Black or African American,22.0,319140.0,6.9
+1404,2011.0,Minnesota,White,628.0,4706165.0,13.3
+1405,2011.0,Mississippi,Black or African American,47.0,1125114.0,4.2
+1406,2011.0,Mississippi,White,339.0,1803538.0,18.8
+1407,2011.0,Missouri,Black or African American,53.0,740525.0,7.2
+1408,2011.0,Missouri,White,871.0,5110036.0,17
+1409,2011.0,Montana,American Indian or Alaska Native,16.0,70075.0,Unreliable
+1410,2011.0,Montana,White,214.0,911044.0,23.5
+1411,2011.0,Nebraska,White,185.0,1678482.0,11
+1412,2011.0,Nevada,Asian or Pacific Islander,22.0,248431.0,8.9
+1413,2011.0,Nevada,Black or African American,20.0,259830.0,7.7
+1414,2011.0,Nevada,White,469.0,2163970.0,21.7
+1415,2011.0,New Hampshire,White,195.0,1260043.0,15.5
+1416,2011.0,New Jersey,Asian or Pacific Islander,21.0,799630.0,2.6
+1417,2011.0,New Jersey,Black or African American,53.0,1343487.0,3.9
+1418,2011.0,New Jersey,White,613.0,6618403.0,9.3
+1419,2011.0,New Mexico,American Indian or Alaska Native,40.0,222486.0,18
+1420,2011.0,New Mexico,White,369.0,1758658.0,21
+1421,2011.0,New York,Asian or Pacific Islander,91.0,1599823.0,5.7
+1422,2011.0,New York,Black or African American,137.0,3556174.0,3.9
+1423,2011.0,New York,White,1419.0,14092429.0,10.1
+1424,2011.0,North Carolina,American Indian or Alaska Native,14.0,159075.0,Unreliable
+1425,2011.0,North Carolina,Asian or Pacific Islander,13.0,251639.0,Unreliable
+1426,2011.0,North Carolina,Black or African American,106.0,2188334.0,4.8
+1427,2011.0,North Carolina,White,1080.0,7057353.0,15.3
+1428,2011.0,North Dakota,American Indian or Alaska Native,10.0,39882.0,Unreliable
+1429,2011.0,North Dakota,White,90.0,624328.0,14.4
+1430,2011.0,Ohio,Asian or Pacific Islander,16.0,224607.0,Unreliable
+1431,2011.0,Ohio,Black or African American,91.0,1521089.0,6
+1432,2011.0,Ohio,White,1354.0,9759657.0,13.9
+1433,2011.0,Oklahoma,American Indian or Alaska Native,56.0,390357.0,14.3
+1434,2011.0,Oklahoma,Asian or Pacific Islander,12.0,82388.0,Unreliable
+1435,2011.0,Oklahoma,Black or African American,32.0,327715.0,9.8
+1436,2011.0,Oklahoma,White,591.0,2991048.0,19.8
+1437,2011.0,Oregon,American Indian or Alaska Native,11.0,83720.0,Unreliable
+1438,2011.0,Oregon,Asian or Pacific Islander,11.0,185062.0,Unreliable
+1439,2011.0,Oregon,White,628.0,3505165.0,17.9
+1440,2011.0,Pennsylvania,Asian or Pacific Islander,20.0,393508.0,5.1
+1441,2011.0,Pennsylvania,Black or African American,84.0,1521882.0,5.5
+1442,2011.0,Pennsylvania,White,1638.0,10779681.0,15.2
+1443,2011.0,Rhode Island,White,94.0,919534.0,10.2
+1444,2011.0,South Carolina,Black or African American,70.0,1343297.0,5.2
+1445,2011.0,South Carolina,White,581.0,3234809.0,18
+1446,2011.0,South Dakota,American Indian or Alaska Native,24.0,77737.0,30.9
+1447,2011.0,South Dakota,White,102.0,721987.0,14.1
+1448,2011.0,Tennessee,Black or African American,48.0,1114647.0,4.3
+1449,2011.0,Tennessee,White,902.0,5149029.0,17.5
+1450,2011.0,Texas,Asian or Pacific Islander,57.0,1133209.0,5
+1451,2011.0,Texas,Black or African American,161.0,3231968.0,5
+1452,2011.0,Texas,White,2663.0,21020190.0,12.7
+1453,2011.0,Utah,American Indian or Alaska Native,10.0,47656.0,Unreliable
+1454,2011.0,Utah,White,479.0,2625630.0,18.2
+1455,2011.0,Vermont,White,119.0,605260.0,19.7
+1456,2011.0,Virginia,Asian or Pacific Islander,23.0,510912.0,4.5
+1457,2011.0,Virginia,Black or African American,82.0,1664318.0,4.9
+1458,2011.0,Virginia,White,946.0,5873838.0,16.1
+1459,2011.0,Washington,American Indian or Alaska Native,23.0,150334.0,15.3
+1460,2011.0,Washington,Asian or Pacific Islander,49.0,606556.0,8.1
+1461,2011.0,Washington,Black or African American,24.0,324542.0,7.4
+1462,2011.0,Washington,White,924.0,5748606.0,16.1
+1463,2011.0,West Virginia,White,302.0,1762304.0,17.1
+1464,2011.0,Wisconsin,Asian or Pacific Islander,10.0,146661.0,Unreliable
+1465,2011.0,Wisconsin,Black or African American,19.0,399745.0,Unreliable
+1466,2011.0,Wisconsin,White,709.0,5096616.0,13.9
+1467,2011.0,Wyoming,White,129.0,537851.0,24
+1468,2012.0,Alabama,Black or African American,80.0,1302210.0,6.1
+1469,2012.0,Alabama,White,636.0,3413571.0,18.6
+1470,2012.0,Alaska,American Indian or Alaska Native,54.0,122904.0,43.9
+1471,2012.0,Alaska,White,102.0,518096.0,19.7
+1472,2012.0,Arizona,American Indian or Alaska Native,71.0,369956.0,19.2
+1473,2012.0,Arizona,Asian or Pacific Islander,16.0,242799.0,Unreliable
+1474,2012.0,Arizona,Black or African American,32.0,336915.0,9.5
+1475,2012.0,Arizona,White,1032.0,5603585.0,18.4
+1476,2012.0,Arkansas,Black or African American,32.0,473402.0,6.8
+1477,2012.0,Arkansas,White,447.0,2393011.0,18.7
+1478,2012.0,California,American Indian or Alaska Native,35.0,760492.0,4.6
+1479,2012.0,California,Asian or Pacific Islander,343.0,5796976.0,5.9
+1480,2012.0,California,Black or African American,179.0,2767389.0,6.5
+1481,2012.0,California,White,3331.0,28716573.0,11.6
+1482,2012.0,Colorado,American Indian or Alaska Native,15.0,97236.0,Unreliable
+1483,2012.0,Colorado,Asian or Pacific Islander,16.0,183568.0,Unreliable
+1484,2012.0,Colorado,Black or African American,25.0,259561.0,9.6
+1485,2012.0,Colorado,White,993.0,4647217.0,21.4
+1486,2012.0,Connecticut,Black or African American,13.0,426892.0,Unreliable
+1487,2012.0,Connecticut,White,345.0,2980691.0,11.6
+1488,2012.0,Delaware,Black or African American,13.0,211248.0,Unreliable
+1489,2012.0,Delaware,White,107.0,664309.0,16.1
+1490,2012.0,District of Columbia,Black or African American,21.0,324476.0,6.5
+1491,2012.0,District of Columbia,White,14.0,276057.0,Unreliable
+1492,2012.0,Florida,Asian or Pacific Islander,35.0,583337.0,6
+1493,2012.0,Florida,Black or African American,184.0,3311596.0,5.6
+1494,2012.0,Florida,White,2774.0,15316649.0,18.1
+1495,2012.0,Georgia,Asian or Pacific Islander,26.0,383205.0,6.8
+1496,2012.0,Georgia,Black or African American,149.0,3163293.0,4.7
+1497,2012.0,Georgia,White,989.0,6317264.0,15.7
+1498,2012.0,Hawaii,Asian or Pacific Islander,98.0,917473.0,10.7
+1499,2012.0,Hawaii,White,87.0,426884.0,20.4
+1500,2012.0,Idaho,White,291.0,1519716.0,19.1
+1501,2012.0,Illinois,Asian or Pacific Islander,32.0,677533.0,4.7
+1502,2012.0,Illinois,Black or African American,92.0,1968408.0,4.7
+1503,2012.0,Illinois,White,1167.0,10140667.0,11.5
+1504,2012.0,Indiana,Asian or Pacific Islander,11.0,129142.0,Unreliable
+1505,2012.0,Indiana,Black or African American,37.0,660228.0,5.6
+1506,2012.0,Indiana,White,891.0,5717757.0,15.6
+1507,2012.0,Iowa,White,369.0,2877696.0,12.8
+1508,2012.0,Kansas,Black or African American,17.0,203096.0,Unreliable
+1509,2012.0,Kansas,White,476.0,2557493.0,18.6
+1510,2012.0,Kentucky,Black or African American,31.0,377606.0,8.2
+1511,2012.0,Kentucky,White,687.0,3926441.0,17.5
+1512,2012.0,Louisiana,Black or African American,72.0,1516716.0,4.7
+1513,2012.0,Louisiana,White,490.0,2962171.0,16.5
+1514,2012.0,Maine,White,204.0,1280768.0,15.9
+1515,2012.0,Maryland,Asian or Pacific Islander,21.0,381025.0,5.5
+1516,2012.0,Maryland,Black or African American,96.0,1822097.0,5.3
+1517,2012.0,Maryland,White,463.0,3643570.0,12.7
+1518,2012.0,Massachusetts,Asian or Pacific Islander,17.0,411033.0,Unreliable
+1519,2012.0,Massachusetts,Black or African American,29.0,564804.0,5.1
+1520,2012.0,Massachusetts,White,554.0,5633673.0,9.8
+1521,2012.0,Michigan,American Indian or Alaska Native,11.0,87278.0,Unreliable
+1522,2012.0,Michigan,Asian or Pacific Islander,14.0,284131.0,Unreliable
+1523,2012.0,Michigan,Black or African American,104.0,1488275.0,7
+1524,2012.0,Michigan,White,1129.0,8023676.0,14.1
+1525,2012.0,Minnesota,American Indian or Alaska Native,10.0,79665.0,Unreliable
+1526,2012.0,Minnesota,Asian or Pacific Islander,23.0,250828.0,9.2
+1527,2012.0,Minnesota,Black or African American,27.0,332106.0,8.1
+1528,2012.0,Minnesota,White,596.0,4716540.0,12.6
+1529,2012.0,Mississippi,Black or African American,57.0,1129882.0,5
+1530,2012.0,Mississippi,White,352.0,1804534.0,19.5
+1531,2012.0,Missouri,Black or African American,45.0,743924.0,6
+1532,2012.0,Missouri,White,855.0,5112730.0,16.7
+1533,2012.0,Montana,American Indian or Alaska Native,19.0,71293.0,Unreliable
+1534,2012.0,Montana,White,210.0,915857.0,22.9
+1535,2012.0,Nebraska,White,222.0,1687030.0,13.2
+1536,2012.0,Nevada,American Indian or Alaska Native,10.0,51679.0,Unreliable
+1537,2012.0,Nevada,Asian or Pacific Islander,26.0,258291.0,10.1
+1538,2012.0,Nevada,Black or African American,26.0,271301.0,9.6
+1539,2012.0,Nevada,White,462.0,2177660.0,21.2
+1540,2012.0,New Hampshire,White,198.0,1260026.0,15.7
+1541,2012.0,New Jersey,Asian or Pacific Islander,40.0,829106.0,4.8
+1542,2012.0,New Jersey,Black or African American,55.0,1354962.0,4.1
+1543,2012.0,New Jersey,White,583.0,6619471.0,8.8
+1544,2012.0,New Mexico,American Indian or Alaska Native,59.0,225079.0,26.2
+1545,2012.0,New Mexico,White,372.0,1758585.0,21.2
+1546,2012.0,New York,Asian or Pacific Islander,91.0,1650175.0,5.5
+1547,2012.0,New York,Black or African American,119.0,3583475.0,3.3
+1548,2012.0,New York,White,1491.0,14117965.0,10.6
+1549,2012.0,North Carolina,Asian or Pacific Islander,21.0,265858.0,7.9
+1550,2012.0,North Carolina,Black or African American,86.0,2217811.0,3.9
+1551,2012.0,North Carolina,White,1167.0,7107633.0,16.4
+1552,2012.0,North Dakota,American Indian or Alaska Native,10.0,40716.0,Unreliable
+1553,2012.0,North Dakota,White,95.0,636983.0,14.9
+1554,2012.0,Ohio,Black or African American,111.0,1530803.0,7.3
+1555,2012.0,Ohio,White,1415.0,9739254.0,14.5
+1556,2012.0,Oklahoma,American Indian or Alaska Native,50.0,395280.0,12.6
+1557,2012.0,Oklahoma,Asian or Pacific Islander,10.0,85808.0,Unreliable
+1558,2012.0,Oklahoma,Black or African American,32.0,330614.0,9.7
+1559,2012.0,Oklahoma,White,576.0,3003118.0,19.2
+1560,2012.0,Oregon,Asian or Pacific Islander,18.0,192314.0,Unreliable
+1561,2012.0,Oregon,White,692.0,3522848.0,19.6
+1562,2012.0,Pennsylvania,Asian or Pacific Islander,25.0,409742.0,6.1
+1563,2012.0,Pennsylvania,Black or African American,101.0,1538330.0,6.6
+1564,2012.0,Pennsylvania,White,1520.0,10766181.0,14.1
+1565,2012.0,Rhode Island,White,100.0,915095.0,10.9
+1566,2012.0,South Carolina,Asian or Pacific Islander,10.0,77484.0,Unreliable
+1567,2012.0,South Carolina,Black or African American,54.0,1351898.0,4
+1568,2012.0,South Carolina,White,608.0,3266812.0,18.6
+1569,2012.0,South Dakota,American Indian or Alaska Native,22.0,78781.0,27.9
+1570,2012.0,South Dakota,White,117.0,726989.0,16.1
+1571,2012.0,Tennessee,Asian or Pacific Islander,10.0,116671.0,Unreliable
+1572,2012.0,Tennessee,Black or African American,63.0,1131376.0,5.6
+1573,2012.0,Tennessee,White,903.0,5178755.0,17.4
+1574,2012.0,Texas,Asian or Pacific Islander,67.0,1192519.0,5.6
+1575,2012.0,Texas,Black or African American,179.0,3313287.0,5.4
+1576,2012.0,Texas,White,2780.0,21261333.0,13.1
+1577,2012.0,Utah,White,527.0,2658464.0,19.8
+1578,2012.0,Vermont,White,84.0,604354.0,13.9
+1579,2012.0,Virginia,Asian or Pacific Islander,37.0,533764.0,6.9
+1580,2012.0,Virginia,Black or African American,93.0,1679707.0,5.5
+1581,2012.0,Virginia,White,931.0,5923590.0,15.7
+1582,2012.0,Washington,American Indian or Alaska Native,25.0,152328.0,16.4
+1583,2012.0,Washington,Asian or Pacific Islander,39.0,632347.0,6.2
+1584,2012.0,Washington,Black or African American,28.0,333148.0,8.4
+1585,2012.0,Washington,White,946.0,5779189.0,16.4
+1586,2012.0,West Virginia,White,320.0,1761559.0,18.2
+1587,2012.0,Wisconsin,Asian or Pacific Islander,12.0,151314.0,Unreliable
+1588,2012.0,Wisconsin,Black or African American,16.0,403754.0,Unreliable
+1589,2012.0,Wisconsin,White,687.0,5101525.0,13.5
+1590,2012.0,Wyoming,White,163.0,542938.0,30
+1591,2013.0,Alabama,Black or African American,61.0,1307660.0,4.7
+1592,2013.0,Alabama,White,654.0,3417357.0,19.1
+1593,2013.0,Alaska,American Indian or Alaska Native,56.0,122612.0,45.7
+1594,2013.0,Alaska,White,106.0,519545.0,20.4
+1595,2013.0,Arizona,American Indian or Alaska Native,78.0,376115.0,20.7
+1596,2013.0,Arizona,Asian or Pacific Islander,18.0,252207.0,Unreliable
+1597,2013.0,Arizona,Black or African American,26.0,347699.0,7.5
+1598,2013.0,Arizona,White,1040.0,5650603.0,18.4
+1599,2013.0,Arkansas,Black or African American,21.0,475853.0,4.4
+1600,2013.0,Arkansas,White,488.0,2397814.0,20.4
+1601,2013.0,California,American Indian or Alaska Native,40.0,763452.0,5.2
+1602,2013.0,California,Asian or Pacific Islander,345.0,5917918.0,5.8
+1603,2013.0,California,Black or African American,174.0,2778851.0,6.3
+1604,2013.0,California,White,3453.0,28872300.0,12
+1605,2013.0,Colorado,American Indian or Alaska Native,14.0,99380.0,Unreliable
+1606,2013.0,Colorado,Asian or Pacific Islander,16.0,190219.0,Unreliable
+1607,2013.0,Colorado,Black or African American,20.0,266564.0,7.5
+1608,2013.0,Colorado,White,957.0,4712204.0,20.3
+1609,2013.0,Connecticut,Black or African American,14.0,434310.0,Unreliable
+1610,2013.0,Connecticut,White,310.0,2973463.0,10.4
+1611,2013.0,Delaware,White,113.0,668143.0,16.9
+1612,2013.0,District of Columbia,Black or African American,20.0,328102.0,6.1
+1613,2013.0,District of Columbia,White,16.0,285467.0,Unreliable
+1614,2013.0,Florida,Asian or Pacific Islander,42.0,603348.0,7
+1615,2013.0,Florida,Black or African American,174.0,3371252.0,5.2
+1616,2013.0,Florida,White,2699.0,15470380.0,17.4
+1617,2013.0,Georgia,Asian or Pacific Islander,30.0,399271.0,7.5
+1618,2013.0,Georgia,Black or African American,146.0,3206522.0,4.6
+1619,2013.0,Georgia,White,1026.0,6329913.0,16.2
+1620,2013.0,Hawaii,Asian or Pacific Islander,79.0,915836.0,8.6
+1621,2013.0,Hawaii,White,82.0,436884.0,18.8
+1622,2013.0,Idaho,White,304.0,1533351.0,19.8
+1623,2013.0,Illinois,Asian or Pacific Islander,28.0,699051.0,4
+1624,2013.0,Illinois,Black or African American,102.0,1965178.0,5.2
+1625,2013.0,Illinois,White,1189.0,10129482.0,11.7
+1626,2013.0,Indiana,Asian or Pacific Islander,12.0,137870.0,Unreliable
+1627,2013.0,Indiana,Black or African American,44.0,669408.0,6.6
+1628,2013.0,Indiana,White,887.0,5732863.0,15.5
+1629,2013.0,Iowa,Black or African American,11.0,119604.0,Unreliable
+1630,2013.0,Iowa,White,428.0,2884447.0,14.8
+1631,2013.0,Kansas,Black or African American,19.0,205055.0,Unreliable
+1632,2013.0,Kansas,White,392.0,2560201.0,15.3
+1633,2013.0,Kentucky,Black or African American,26.0,383114.0,6.8
+1634,2013.0,Kentucky,White,668.0,3932899.0,17
+1635,2013.0,Louisiana,Black or African American,75.0,1526736.0,4.9
+1636,2013.0,Louisiana,White,499.0,2971695.0,16.8
+1637,2013.0,Maine,White,243.0,1278933.0,19
+1638,2013.0,Maryland,Asian or Pacific Islander,17.0,394078.0,Unreliable
+1639,2013.0,Maryland,Black or African American,91.0,1844337.0,4.9
+1640,2013.0,Maryland,White,457.0,3651845.0,12.5
+1641,2013.0,Massachusetts,Asian or Pacific Islander,19.0,426894.0,Unreliable
+1642,2013.0,Massachusetts,Black or African American,22.0,580805.0,3.8
+1643,2013.0,Massachusetts,White,528.0,5647620.0,9.3
+1644,2013.0,Michigan,American Indian or Alaska Native,10.0,88291.0,Unreliable
+1645,2013.0,Michigan,Asian or Pacific Islander,25.0,294647.0,8.5
+1646,2013.0,Michigan,Black or African American,107.0,1485621.0,7.2
+1647,2013.0,Michigan,White,1151.0,8027063.0,14.3
+1648,2013.0,Minnesota,American Indian or Alaska Native,23.0,81661.0,28.2
+1649,2013.0,Minnesota,Asian or Pacific Islander,17.0,260868.0,Unreliable
+1650,2013.0,Minnesota,Black or African American,20.0,343718.0,5.8
+1651,2013.0,Minnesota,White,616.0,4734133.0,13
+1652,2013.0,Mississippi,Black or African American,55.0,1133698.0,4.9
+1653,2013.0,Mississippi,White,329.0,1805480.0,18.2
+1654,2013.0,Missouri,Asian or Pacific Islander,14.0,129269.0,Unreliable
+1655,2013.0,Missouri,Black or African American,48.0,749790.0,6.4
+1656,2013.0,Missouri,White,896.0,5124168.0,17.5
+1657,2013.0,Montana,American Indian or Alaska Native,25.0,72458.0,34.5
+1658,2013.0,Montana,White,212.0,923756.0,22.9
+1659,2013.0,Nebraska,White,208.0,1694611.0,12.3
+1660,2013.0,Nevada,American Indian or Alaska Native,10.0,52623.0,Unreliable
+1661,2013.0,Nevada,Asian or Pacific Islander,20.0,268157.0,7.5
+1662,2013.0,Nevada,Black or African American,21.0,278299.0,7.5
+1663,2013.0,Nevada,White,490.0,2191057.0,22.4
+1664,2013.0,New Hampshire,White,179.0,1260482.0,14.2
+1665,2013.0,New Jersey,Asian or Pacific Islander,25.0,852323.0,2.9
+1666,2013.0,New Jersey,Black or African American,59.0,1366160.0,4.3
+1667,2013.0,New Jersey,White,669.0,6618759.0,10.1
+1668,2013.0,New Mexico,American Indian or Alaska Native,32.0,228157.0,14
+1669,2013.0,New Mexico,White,386.0,1753479.0,22
+1670,2013.0,New York,Asian or Pacific Islander,100.0,1697670.0,5.9
+1671,2013.0,New York,Black or African American,136.0,3606924.0,3.8
+1672,2013.0,New York,White,1444.0,14125951.0,10.2
+1673,2013.0,North Carolina,American Indian or Alaska Native,12.0,163239.0,Unreliable
+1674,2013.0,North Carolina,Asian or Pacific Islander,11.0,279871.0,Unreliable
+1675,2013.0,North Carolina,Black or African American,116.0,2244173.0,5.2
+1676,2013.0,North Carolina,White,1140.0,7160777.0,15.9
+1677,2013.0,North Dakota,American Indian or Alaska Native,20.0,42031.0,47.6
+1678,2013.0,North Dakota,White,104.0,655643.0,15.9
+1679,2013.0,Ohio,Asian or Pacific Islander,16.0,244027.0,Unreliable
+1680,2013.0,Ohio,Black or African American,109.0,1544643.0,7.1
+1681,2013.0,Ohio,White,1401.0,9741342.0,14.4
+1682,2013.0,Oklahoma,American Indian or Alaska Native,64.0,400255.0,16
+1683,2013.0,Oklahoma,Black or African American,17.0,336487.0,Unreliable
+1684,2013.0,Oklahoma,White,577.0,3024255.0,19.1
+1685,2013.0,Oregon,American Indian or Alaska Native,10.0,85363.0,Unreliable
+1686,2013.0,Oregon,Asian or Pacific Islander,15.0,198945.0,Unreliable
+1687,2013.0,Oregon,Black or African American,10.0,101720.0,Unreliable
+1688,2013.0,Oregon,White,660.0,3544037.0,18.6
+1689,2013.0,Pennsylvania,Asian or Pacific Islander,28.0,424326.0,6.6
+1690,2013.0,Pennsylvania,Black or African American,88.0,1554879.0,5.7
+1691,2013.0,Pennsylvania,White,1669.0,10743840.0,15.5
+1692,2013.0,Rhode Island,White,125.0,913178.0,13.7
+1693,2013.0,South Carolina,Black or African American,64.0,1362515.0,4.7
+1694,2013.0,South Carolina,White,624.0,3302732.0,18.9
+1695,2013.0,South Dakota,American Indian or Alaska Native,23.0,79903.0,28.8
+1696,2013.0,South Dakota,White,122.0,734427.0,16.6
+1697,2013.0,Tennessee,Black or African American,63.0,1142045.0,5.5
+1698,2013.0,Tennessee,White,960.0,5202797.0,18.5
+1699,2013.0,Texas,Asian or Pacific Islander,73.0,1252181.0,5.8
+1700,2013.0,Texas,Black or African American,182.0,3386416.0,5.4
+1701,2013.0,Texas,White,2795.0,21512952.0,13
+1702,2013.0,Utah,American Indian or Alaska Native,13.0,48912.0,Unreliable
+1703,2013.0,Utah,Asian or Pacific Islander,16.0,106448.0,Unreliable
+1704,2013.0,Utah,White,546.0,2697259.0,20.2
+1705,2013.0,Vermont,White,109.0,604251.0,18
+1706,2013.0,Virginia,Asian or Pacific Islander,23.0,554117.0,4.2
+1707,2013.0,Virginia,Black or African American,93.0,1695095.0,5.5
+1708,2013.0,Virginia,White,950.0,5961061.0,15.9
+1709,2013.0,Washington,American Indian or Alaska Native,32.0,155662.0,20.6
+1710,2013.0,Washington,Asian or Pacific Islander,46.0,654999.0,7
+1711,2013.0,Washington,Black or African American,26.0,344242.0,7.6
+1712,2013.0,Washington,White,921.0,5816503.0,15.8
+1713,2013.0,West Virginia,White,318.0,1758444.0,18.1
+1714,2013.0,Wisconsin,American Indian or Alaska Native,10.0,71020.0,Unreliable
+1715,2013.0,Wisconsin,Black or African American,19.0,407587.0,Unreliable
+1716,2013.0,Wisconsin,White,812.0,5107934.0,15.9
+1717,2013.0,Wyoming,White,127.0,546718.0,23.2
+1718,2014.0,Alabama,Black or African American,68.0,1317566.0,5.2
+1719,2014.0,Alabama,White,644.0,3419940.0,18.8
+1720,2014.0,Alaska,American Indian or Alaska Native,39.0,123350.0,31.6
+1721,2014.0,Alaska,White,117.0,517504.0,22.6
+1722,2014.0,Arizona,American Indian or Alaska Native,69.0,382889.0,18
+1723,2014.0,Arizona,Asian or Pacific Islander,20.0,262371.0,7.6
+1724,2014.0,Arizona,Black or African American,39.0,360893.0,10.8
+1725,2014.0,Arizona,White,1113.0,5725331.0,19.4
+1726,2014.0,Arkansas,Black or African American,34.0,478462.0,7.1
+1727,2014.0,Arkansas,White,476.0,2399804.0,19.8
+1728,2014.0,California,American Indian or Alaska Native,33.0,768510.0,4.3
+1729,2014.0,California,Asian or Pacific Islander,376.0,6113222.0,6.2
+1730,2014.0,California,Black or African American,150.0,2808562.0,5.3
+1731,2014.0,California,White,3648.0,29112206.0,12.5
+1732,2014.0,Colorado,Asian or Pacific Islander,26.0,199451.0,13
+1733,2014.0,Colorado,Black or African American,19.0,275766.0,Unreliable
+1734,2014.0,Colorado,White,1030.0,4779487.0,21.6
+1735,2014.0,Connecticut,Black or African American,14.0,440994.0,Unreliable
+1736,2014.0,Connecticut,White,356.0,2960214.0,12
+1737,2014.0,Delaware,White,118.0,672852.0,17.5
+1738,2014.0,District of Columbia,Black or African American,23.0,331672.0,6.9
+1739,2014.0,District of Columbia,White,28.0,292649.0,9.6
+1740,2014.0,Florida,Asian or Pacific Islander,33.0,631668.0,5.2
+1741,2014.0,Florida,Black or African American,161.0,3451906.0,4.7
+1742,2014.0,Florida,White,2831.0,15699343.0,18
+1743,2014.0,Georgia,Asian or Pacific Islander,21.0,421265.0,5
+1744,2014.0,Georgia,Black or African American,167.0,3260440.0,5.1
+1745,2014.0,Georgia,White,1098.0,6358763.0,17.3
+1746,2014.0,Hawaii,Asian or Pacific Islander,95.0,922982.0,10.3
+1747,2014.0,Hawaii,White,107.0,442721.0,24.2
+1748,2014.0,Idaho,White,312.0,1552607.0,20.1
+1749,2014.0,Illinois,Asian or Pacific Islander,34.0,726423.0,4.7
+1750,2014.0,Illinois,Black or African American,94.0,1964390.0,4.8
+1751,2014.0,Illinois,White,1267.0,10101430.0,12.5
+1752,2014.0,Indiana,Black or African American,34.0,678326.0,5
+1753,2014.0,Indiana,White,902.0,5740600.0,15.7
+1754,2014.0,Iowa,White,398.0,2888971.0,13.8
+1755,2014.0,Kansas,Black or African American,14.0,207381.0,Unreliable
+1756,2014.0,Kansas,White,429.0,2563233.0,16.7
+1757,2014.0,Kentucky,Black or African American,29.0,388837.0,7.5
+1758,2014.0,Kentucky,White,693.0,3941696.0,17.6
+1759,2014.0,Louisiana,Black or African American,84.0,1538168.0,5.5
+1760,2014.0,Louisiana,White,585.0,2980699.0,19.6
+1761,2014.0,Maine,White,216.0,1278430.0,16.9
+1762,2014.0,Maryland,Asian or Pacific Islander,19.0,411163.0,Unreliable
+1763,2014.0,Maryland,Black or African American,97.0,1868002.0,5.2
+1764,2014.0,Maryland,White,487.0,3658054.0,13.3
+1765,2014.0,Massachusetts,Asian or Pacific Islander,13.0,450445.0,Unreliable
+1766,2014.0,Massachusetts,Black or African American,21.0,601765.0,3.5
+1767,2014.0,Massachusetts,White,559.0,5654782.0,9.9
+1768,2014.0,Michigan,American Indian or Alaska Native,11.0,88922.0,Unreliable
+1769,2014.0,Michigan,Asian or Pacific Islander,10.0,309905.0,Unreliable
+1770,2014.0,Michigan,Black or African American,99.0,1487623.0,6.7
+1771,2014.0,Michigan,White,1232.0,8023427.0,15.4
+1772,2014.0,Minnesota,American Indian or Alaska Native,19.0,82815.0,Unreliable
+1773,2014.0,Minnesota,Asian or Pacific Islander,16.0,273756.0,Unreliable
+1774,2014.0,Minnesota,Black or African American,29.0,357154.0,8.1
+1775,2014.0,Minnesota,White,622.0,4743448.0,13.1
+1776,2014.0,Mississippi,Black or African American,52.0,1137829.0,4.6
+1777,2014.0,Mississippi,White,323.0,1803115.0,17.9
+1778,2014.0,Missouri,Black or African American,47.0,755768.0,6.2
+1779,2014.0,Missouri,White,962.0,5130149.0,18.8
+1780,2014.0,Montana,American Indian or Alaska Native,20.0,73410.0,27.2
+1781,2014.0,Montana,White,227.0,930226.0,24.4
+1782,2014.0,Nebraska,White,239.0,1701738.0,14
+1783,2014.0,Nevada,Asian or Pacific Islander,19.0,280325.0,Unreliable
+1784,2014.0,Nevada,Black or African American,30.0,287687.0,10.4
+1785,2014.0,Nevada,White,514.0,2217014.0,23.2
+1786,2014.0,New Hampshire,White,244.0,1261412.0,19.3
+1787,2014.0,New Jersey,Asian or Pacific Islander,39.0,880934.0,4.4
+1788,2014.0,New Jersey,Black or African American,60.0,1381439.0,4.3
+1789,2014.0,New Jersey,White,685.0,6613281.0,10.4
+1790,2014.0,New Mexico,American Indian or Alaska Native,33.0,229626.0,14.4
+1791,2014.0,New Mexico,Black or African American,11.0,63023.0,Unreliable
+1792,2014.0,New Mexico,White,403.0,1750345.0,23
+1793,2014.0,New York,Asian or Pacific Islander,99.0,1767565.0,5.6
+1794,2014.0,New York,Black or African American,144.0,3648167.0,3.9
+1795,2014.0,New York,White,1445.0,14107369.0,10.2
+1796,2014.0,North Carolina,American Indian or Alaska Native,17.0,164993.0,Unreliable
+1797,2014.0,North Carolina,Asian or Pacific Islander,19.0,296909.0,Unreliable
+1798,2014.0,North Carolina,Black or African American,126.0,2272052.0,5.5
+1799,2014.0,North Carolina,White,1191.0,7210010.0,16.5
+1800,2014.0,North Dakota,White,128.0,667148.0,19.2
+1801,2014.0,Ohio,Asian or Pacific Islander,26.0,258339.0,10.1
+1802,2014.0,Ohio,Black or African American,97.0,1561477.0,6.2
+1803,2014.0,Ohio,White,1367.0,9733011.0,14
+1804,2014.0,Oklahoma,American Indian or Alaska Native,71.0,405267.0,17.5
+1805,2014.0,Oklahoma,Black or African American,27.0,341243.0,7.9
+1806,2014.0,Oklahoma,White,628.0,3035813.0,20.7
+1807,2014.0,Oregon,Asian or Pacific Islander,21.0,208263.0,10.1
+1808,2014.0,Oregon,White,749.0,3570524.0,21
+1809,2014.0,Pennsylvania,Asian or Pacific Islander,25.0,445760.0,5.6
+1810,2014.0,Pennsylvania,Black or African American,94.0,1572487.0,6
+1811,2014.0,Pennsylvania,White,1693.0,10716775.0,15.8
+1812,2014.0,Rhode Island,White,103.0,911548.0,11.3
+1813,2014.0,South Carolina,Black or African American,72.0,1374865.0,5.2
+1814,2014.0,South Carolina,White,674.0,3343943.0,20.2
+1815,2014.0,South Dakota,American Indian or Alaska Native,23.0,80657.0,28.5
+1816,2014.0,South Dakota,White,116.0,740650.0,15.7
+1817,2014.0,Tennessee,Black or African American,55.0,1155583.0,4.8
+1818,2014.0,Tennessee,White,935.0,5235081.0,17.9
+1819,2014.0,Texas,Asian or Pacific Islander,68.0,1331159.0,5.1
+1820,2014.0,Texas,Black or African American,234.0,3471829.0,6.7
+1821,2014.0,Texas,White,2938.0,21851213.0,13.4
+1822,2014.0,Utah,Asian or Pacific Islander,10.0,111790.0,Unreliable
+1823,2014.0,Utah,White,537.0,2730417.0,19.7
+1824,2014.0,Vermont,White,122.0,602857.0,20.2
+1825,2014.0,Virginia,Asian or Pacific Islander,36.0,577726.0,6.2
+1826,2014.0,Virginia,Black or African American,97.0,1711801.0,5.7
+1827,2014.0,Virginia,White,984.0,5985615.0,16.4
+1828,2014.0,Washington,American Indian or Alaska Native,33.0,159484.0,20.7
+1829,2014.0,Washington,Asian or Pacific Islander,60.0,684889.0,8.8
+1830,2014.0,Washington,Black or African American,24.0,355573.0,6.7
+1831,2014.0,Washington,White,998.0,5861584.0,17
+1832,2014.0,West Virginia,White,352.0,1752941.0,20.1
+1833,2014.0,Wisconsin,Asian or Pacific Islander,10.0,163934.0,Unreliable
+1834,2014.0,Wisconsin,Black or African American,21.0,411489.0,5.1
+1835,2014.0,Wisconsin,White,728.0,5109986.0,14.2
+1836,2014.0,Wyoming,White,117.0,548511.0,21.3
+1837,2015.0,Alabama,Black or African American,70.0,1325905.0,5.3
+1838,2015.0,Alabama,White,677.0,3418094.0,19.8
+1839,2015.0,Alaska,American Indian or Alaska Native,64.0,123952.0,51.6
+1840,2015.0,Alaska,White,125.0,516494.0,24.2
+1841,2015.0,Arizona,American Indian or Alaska Native,65.0,388640.0,16.7
+1842,2015.0,Arizona,Asian or Pacific Islander,20.0,273899.0,7.3
+1843,2015.0,Arizona,Black or African American,29.0,374864.0,7.7
+1844,2015.0,Arizona,White,1162.0,5790662.0,20.1
+1845,2015.0,Arkansas,Black or African American,23.0,481843.0,4.8
+1846,2015.0,Arkansas,White,545.0,2404531.0,22.7
+1847,2015.0,California,American Indian or Alaska Native,32.0,772709.0,4.1
+1848,2015.0,California,Asian or Pacific Islander,393.0,6276070.0,6.3
+1849,2015.0,California,Black or African American,164.0,2827821.0,5.8
+1850,2015.0,California,White,3576.0,29268218.0,12.2
+1851,2015.0,Colorado,American Indian or Alaska Native,13.0,103235.0,Unreliable
+1852,2015.0,Colorado,Asian or Pacific Islander,16.0,209275.0,Unreliable
+1853,2015.0,Colorado,Black or African American,29.0,284005.0,10.2
+1854,2015.0,Colorado,White,1035.0,4860059.0,21.3
+1855,2015.0,Connecticut,Asian or Pacific Islander,11.0,178368.0,Unreliable
+1856,2015.0,Connecticut,Black or African American,17.0,445929.0,Unreliable
+1857,2015.0,Connecticut,White,355.0,2944009.0,12.1
+1858,2015.0,Delaware,Black or African American,22.0,221986.0,9.9
+1859,2015.0,Delaware,White,98.0,677149.0,14.5
+1860,2015.0,District of Columbia,Black or African American,18.0,333883.0,Unreliable
+1861,2015.0,District of Columbia,White,15.0,301687.0,Unreliable
+1862,2015.0,Florida,Asian or Pacific Islander,43.0,658187.0,6.5
+1863,2015.0,Florida,Black or African American,172.0,3528984.0,4.9
+1864,2015.0,Florida,White,2978.0,15971454.0,18.6
+1865,2015.0,Georgia,Asian or Pacific Islander,35.0,444592.0,7.9
+1866,2015.0,Georgia,Black or African American,201.0,3320419.0,6.1
+1867,2015.0,Georgia,White,1081.0,6392399.0,16.9
+1868,2015.0,Hawaii,Asian or Pacific Islander,107.0,927227.0,11.5
+1869,2015.0,Hawaii,White,86.0,447725.0,19.2
+1870,2015.0,Idaho,White,346.0,1570040.0,22
+1871,2015.0,Illinois,Asian or Pacific Islander,36.0,750026.0,4.8
+1872,2015.0,Illinois,Black or African American,98.0,1962578.0,5
+1873,2015.0,Illinois,White,1227.0,10058772.0,12.2
+1874,2015.0,Indiana,Black or African American,48.0,685966.0,7
+1875,2015.0,Indiana,White,908.0,5745559.0,15.8
+1876,2015.0,Iowa,White,421.0,2895570.0,14.5
+1877,2015.0,Kansas,American Indian or Alaska Native,10.0,42729.0,Unreliable
+1878,2015.0,Kansas,Black or African American,22.0,209415.0,10.5
+1879,2015.0,Kansas,White,438.0,2564958.0,17.1
+1880,2015.0,Kentucky,Black or African American,23.0,392826.0,5.9
+1881,2015.0,Kentucky,White,750.0,3945716.0,19
+1882,2015.0,Louisiana,Black or African American,89.0,1546176.0,5.8
+1883,2015.0,Louisiana,White,623.0,2990198.0,20.8
+1884,2015.0,Maine,White,231.0,1276636.0,18.1
+1885,2015.0,Maryland,Asian or Pacific Islander,18.0,424047.0,Unreliable
+1886,2015.0,Maryland,Black or African American,87.0,1890111.0,4.6
+1887,2015.0,Maryland,White,448.0,3652546.0,12.3
+1888,2015.0,Massachusetts,Asian or Pacific Islander,17.0,471888.0,Unreliable
+1889,2015.0,Massachusetts,Black or African American,30.0,619655.0,4.8
+1890,2015.0,Massachusetts,White,594.0,5663975.0,10.5
+1891,2015.0,Michigan,American Indian or Alaska Native,17.0,89554.0,Unreliable
+1892,2015.0,Michigan,Asian or Pacific Islander,11.0,324446.0,Unreliable
+1893,2015.0,Michigan,Black or African American,88.0,1489718.0,5.9
+1894,2015.0,Michigan,White,1292.0,8018858.0,16.1
+1895,2015.0,Minnesota,American Indian or Alaska Native,17.0,84122.0,Unreliable
+1896,2015.0,Minnesota,Asian or Pacific Islander,23.0,285588.0,8.1
+1897,2015.0,Minnesota,Black or African American,25.0,366862.0,6.8
+1898,2015.0,Minnesota,White,664.0,4753022.0,14
+1899,2015.0,Mississippi,Black or African American,63.0,1140310.0,5.5
+1900,2015.0,Mississippi,White,365.0,1797286.0,20.3
+1901,2015.0,Missouri,Asian or Pacific Islander,13.0,141960.0,Unreliable
+1902,2015.0,Missouri,Black or African American,51.0,761321.0,6.7
+1903,2015.0,Missouri,White,981.0,5137798.0,19.1
+1904,2015.0,Montana,American Indian or Alaska Native,21.0,74383.0,28.2
+1905,2015.0,Montana,White,249.0,937867.0,26.5
+1906,2015.0,Nebraska,White,213.0,1709900.0,12.5
+1907,2015.0,Nevada,Asian or Pacific Islander,32.0,292939.0,10.9
+1908,2015.0,Nevada,Black or African American,27.0,298727.0,9
+1909,2015.0,Nevada,White,492.0,2243778.0,21.9
+1910,2015.0,New Hampshire,White,225.0,1263680.0,17.8
+1911,2015.0,New Jersey,Asian or Pacific Islander,36.0,906393.0,4
+1912,2015.0,New Jersey,Black or African American,56.0,1392086.0,4
+1913,2015.0,New Jersey,White,695.0,6596284.0,10.5
+1914,2015.0,New Mexico,American Indian or Alaska Native,50.0,231645.0,21.6
+1915,2015.0,New Mexico,White,438.0,1745634.0,25.1
+1916,2015.0,New York,Asian or Pacific Islander,98.0,1826093.0,5.4
+1917,2015.0,New York,Black or African American,152.0,3665284.0,4.1
+1918,2015.0,New York,White,1397.0,14080073.0,9.9
+1919,2015.0,North Carolina,American Indian or Alaska Native,17.0,166648.0,Unreliable
+1920,2015.0,North Carolina,Asian or Pacific Islander,16.0,314937.0,Unreliable
+1921,2015.0,North Carolina,Black or African American,112.0,2301313.0,4.9
+1922,2015.0,North Carolina,White,1258.0,7259904.0,17.3
+1923,2015.0,North Dakota,American Indian or Alaska Native,10.0,44351.0,Unreliable
+1924,2015.0,North Dakota,White,112.0,678936.0,16.5
+1925,2015.0,Ohio,Asian or Pacific Islander,20.0,270659.0,7.4
+1926,2015.0,Ohio,Black or African American,105.0,1578549.0,6.7
+1927,2015.0,Ohio,White,1523.0,9722459.0,15.7
+1928,2015.0,Oklahoma,American Indian or Alaska Native,72.0,410725.0,17.5
+1929,2015.0,Oklahoma,Black or African American,26.0,346973.0,7.5
+1930,2015.0,Oklahoma,White,683.0,3052773.0,22.4
+1931,2015.0,Oregon,American Indian or Alaska Native,11.0,88423.0,Unreliable
+1932,2015.0,Oregon,Asian or Pacific Islander,24.0,218013.0,11
+1933,2015.0,Oregon,Black or African American,14.0,108507.0,Unreliable
+1934,2015.0,Oregon,White,711.0,3614034.0,19.7
+1935,2015.0,Pennsylvania,Asian or Pacific Islander,34.0,464227.0,7.3
+1936,2015.0,Pennsylvania,Black or African American,101.0,1588739.0,6.4
+1937,2015.0,Pennsylvania,White,1755.0,10695940.0,16.4
+1938,2015.0,Rhode Island,White,113.0,908987.0,12.4
+1939,2015.0,South Carolina,Asian or Pacific Islander,16.0,89474.0,Unreliable
+1940,2015.0,South Carolina,Black or African American,71.0,1387150.0,5.1
+1941,2015.0,South Carolina,White,652.0,3390607.0,19.2
+1942,2015.0,South Dakota,American Indian or Alaska Native,51.0,81550.0,62.5
+1943,2015.0,South Dakota,White,115.0,743966.0,15.5
+1944,2015.0,Tennessee,Asian or Pacific Islander,14.0,133060.0,Unreliable
+1945,2015.0,Tennessee,Black or African American,65.0,1167771.0,5.6
+1946,2015.0,Tennessee,White,988.0,5267640.0,18.8
+1947,2015.0,Texas,American Indian or Alaska Native,10.0,309742.0,Unreliable
+1948,2015.0,Texas,Asian or Pacific Islander,84.0,1412908.0,5.9
+1949,2015.0,Texas,Black or African American,197.0,3557565.0,5.5
+1950,2015.0,Texas,White,3109.0,22188899.0,14
+1951,2015.0,Utah,American Indian or Alaska Native,16.0,52088.0,Unreliable
+1952,2015.0,Utah,Asian or Pacific Islander,12.0,117854.0,Unreliable
+1953,2015.0,Utah,White,599.0,2774714.0,21.6
+1954,2015.0,Vermont,White,101.0,601224.0,16.8
+1955,2015.0,Virginia,Asian or Pacific Islander,39.0,598807.0,6.5
+1956,2015.0,Virginia,Black or African American,107.0,1729691.0,6.2
+1957,2015.0,Virginia,White,963.0,6003584.0,16
+1958,2015.0,Washington,American Indian or Alaska Native,28.0,163021.0,17.2
+1959,2015.0,Washington,Asian or Pacific Islander,58.0,717568.0,8.1
+1960,2015.0,Washington,Black or African American,30.0,366391.0,8.2
+1961,2015.0,Washington,White,1018.0,5923371.0,17.2
+1962,2015.0,West Virginia,White,333.0,1745625.0,19.1
+1963,2015.0,Wisconsin,Asian or Pacific Islander,12.0,171414.0,Unreliable
+1964,2015.0,Wisconsin,Black or African American,13.0,415631.0,Unreliable
+1965,2015.0,Wisconsin,White,842.0,5111213.0,16.5
+1966,2015.0,Wyoming,White,153.0,550547.0,27.8
+1967,2016.0,Alabama,Black or African American,70.0,1329648.0,5.3
+1968,2016.0,Alabama,White,714.0,3416909.0,20.9
+1969,2016.0,Alaska,American Indian or Alaska Native,60.0,127052.0,47.2
+1970,2016.0,Alaska,Asian or Pacific Islander,11.0,62157.0,Unreliable
+1971,2016.0,Alaska,White,115.0,516247.0,22.3
+1972,2016.0,Arizona,American Indian or Alaska Native,82.0,397840.0,20.6
+1973,2016.0,Arizona,Asian or Pacific Islander,28.0,280091.0,10
+1974,2016.0,Arizona,Black or African American,34.0,385444.0,8.8
+1975,2016.0,Arizona,White,1125.0,5867696.0,19.2
+1976,2016.0,Arkansas,Black or African American,36.0,484598.0,7.4
+1977,2016.0,Arkansas,White,510.0,2411255.0,21.2
+1978,2016.0,California,American Indian or Alaska Native,52.0,773355.0,6.7
+1979,2016.0,California,Asian or Pacific Islander,409.0,6362798.0,6.4
+1980,2016.0,California,Black or African American,185.0,2829264.0,6.5
+1981,2016.0,California,White,3633.0,29284600.0,12.4
+1982,2016.0,Colorado,American Indian or Alaska Native,18.0,105212.0,Unreliable
+1983,2016.0,Colorado,Asian or Pacific Islander,21.0,213854.0,9.8
+1984,2016.0,Colorado,Black or African American,30.0,289206.0,10.4
+1985,2016.0,Colorado,White,1098.0,4932273.0,22.3
+1986,2016.0,Connecticut,Black or African American,19.0,449615.0,Unreliable
+1987,2016.0,Connecticut,White,368.0,2924274.0,12.6
+1988,2016.0,Delaware,Black or African American,13.0,225293.0,Unreliable
+1989,2016.0,Delaware,White,106.0,679017.0,15.6
+1990,2016.0,District of Columbia,Black or African American,15.0,334736.0,Unreliable
+1991,2016.0,District of Columbia,White,23.0,309313.0,7.4
+1992,2016.0,Florida,Asian or Pacific Islander,50.0,671619.0,7.4
+1993,2016.0,Florida,Black or African American,191.0,3597739.0,5.3
+1994,2016.0,Florida,White,2888.0,16228615.0,17.8
+1995,2016.0,Georgia,Asian or Pacific Islander,30.0,456404.0,6.6
+1996,2016.0,Georgia,Black or African American,214.0,3384642.0,6.3
+1997,2016.0,Georgia,White,1158.0,6410781.0,18.1
+1998,2016.0,Hawaii,Asian or Pacific Islander,111.0,942954.0,11.8
+1999,2016.0,Hawaii,White,56.0,435637.0,12.9
+2000,2016.0,Idaho,White,337.0,1596443.0,21.1
+2001,2016.0,Illinois,Asian or Pacific Islander,41.0,752406.0,5.4
+2002,2016.0,Illinois,Black or African American,94.0,1953836.0,4.8
+2003,2016.0,Illinois,White,1278.0,10006563.0,12.8
+2004,2016.0,Indiana,Asian or Pacific Islander,16.0,164449.0,Unreliable
+2005,2016.0,Indiana,Black or African American,63.0,692488.0,9.1
+2006,2016.0,Indiana,White,953.0,5744213.0,16.6
+2007,2016.0,Iowa,Black or African American,12.0,135448.0,Unreliable
+2008,2016.0,Iowa,White,427.0,2894851.0,14.8
+2009,2016.0,Kansas,American Indian or Alaska Native,10.0,42527.0,Unreliable
+2010,2016.0,Kansas,Black or African American,26.0,206845.0,12.6
+2011,2016.0,Kansas,White,470.0,2561433.0,18.3
+2012,2016.0,Kentucky,Black or African American,33.0,395083.0,8.4
+2013,2016.0,Kentucky,White,715.0,3952664.0,18.1
+2014,2016.0,Louisiana,Black or African American,89.0,1554167.0,5.7
+2015,2016.0,Louisiana,White,576.0,2993420.0,19.2
+2016,2016.0,Maine,White,214.0,1277480.0,16.8
+2017,2016.0,Maryland,Asian or Pacific Islander,32.0,428535.0,7.5
+2018,2016.0,Maryland,Black or African American,97.0,1907689.0,5.1
+2019,2016.0,Maryland,White,456.0,3639880.0,12.5
+2020,2016.0,Massachusetts,Asian or Pacific Islander,23.0,480956.0,4.8
+2021,2016.0,Massachusetts,Black or African American,31.0,634682.0,4.9
+2022,2016.0,Massachusetts,White,575.0,5656810.0,10.2
+2023,2016.0,Michigan,American Indian or Alaska Native,11.0,90456.0,Unreliable
+2024,2016.0,Michigan,Asian or Pacific Islander,13.0,333893.0,Unreliable
+2025,2016.0,Michigan,Black or African American,110.0,1488644.0,7.4
+2026,2016.0,Michigan,White,1228.0,8015307.0,15.3
+2027,2016.0,Minnesota,American Indian or Alaska Native,18.0,85051.0,Unreliable
+2028,2016.0,Minnesota,Asian or Pacific Islander,20.0,290391.0,6.9
+2029,2016.0,Minnesota,Black or African American,25.0,383880.0,6.5
+2030,2016.0,Minnesota,White,682.0,4760630.0,14.3
+2031,2016.0,Mississippi,Black or African American,51.0,1142681.0,4.5
+2032,2016.0,Mississippi,White,328.0,1790820.0,18.3
+2033,2016.0,Missouri,Asian or Pacific Islander,20.0,142940.0,14
+2034,2016.0,Missouri,Black or African American,71.0,765154.0,9.3
+2035,2016.0,Missouri,White,1037.0,5141898.0,20.2
+2036,2016.0,Montana,American Indian or Alaska Native,18.0,75653.0,Unreliable
+2037,2016.0,Montana,White,249.0,946324.0,26.3
+2038,2016.0,Nebraska,Black or African American,14.0,108122.0,Unreliable
+2039,2016.0,Nebraska,White,222.0,1715806.0,12.9
+2040,2016.0,Nevada,Asian or Pacific Islander,33.0,302266.0,10.9
+2041,2016.0,Nevada,Black or African American,36.0,313615.0,11.5
+2042,2016.0,Nevada,White,573.0,2267822.0,25.3
+2043,2016.0,New Hampshire,White,240.0,1266167.0,19
+2044,2016.0,New Jersey,Asian or Pacific Islander,39.0,915125.0,4.3
+2045,2016.0,New Jersey,Black or African American,45.0,1401290.0,3.2
+2046,2016.0,New Jersey,White,601.0,6564595.0,9.2
+2047,2016.0,New Mexico,American Indian or Alaska Native,42.0,232324.0,18.1
+2048,2016.0,New Mexico,White,420.0,1742956.0,24.1
+2049,2016.0,New York,Asian or Pacific Islander,91.0,1844346.0,4.9
+2050,2016.0,New York,Black or African American,161.0,3667316.0,4.4
+2051,2016.0,New York,White,1418.0,14007968.0,10.1
+2052,2016.0,North Carolina,American Indian or Alaska Native,12.0,169303.0,Unreliable
+2053,2016.0,North Carolina,Asian or Pacific Islander,29.0,328335.0,8.8
+2054,2016.0,North Carolina,Black or African American,111.0,2333929.0,4.8
+2055,2016.0,North Carolina,White,1218.0,7315221.0,16.7
+2056,2016.0,North Dakota,American Indian or Alaska Native,20.0,44676.0,44.8
+2057,2016.0,North Dakota,White,118.0,674630.0,17.5
+2058,2016.0,Ohio,Asian or Pacific Islander,26.0,282599.0,9.2
+2059,2016.0,Ohio,Black or African American,119.0,1592236.0,7.5
+2060,2016.0,Ohio,White,1557.0,9697106.0,16.1
+2061,2016.0,Oklahoma,American Indian or Alaska Native,82.0,415768.0,19.7
+2062,2016.0,Oklahoma,Asian or Pacific Islander,11.0,103997.0,Unreliable
+2063,2016.0,Oklahoma,Black or African American,22.0,348988.0,6.3
+2064,2016.0,Oklahoma,White,706.0,3054808.0,23.1
+2065,2016.0,Oregon,American Indian or Alaska Native,13.0,89876.0,Unreliable
+2066,2016.0,Oregon,Asian or Pacific Islander,17.0,225173.0,Unreliable
+2067,2016.0,Oregon,Black or African American,11.0,112667.0,Unreliable
+2068,2016.0,Oregon,White,730.0,3665749.0,19.9
+2069,2016.0,Pennsylvania,Asian or Pacific Islander,29.0,472834.0,6.1
+2070,2016.0,Pennsylvania,Black or African American,103.0,1599349.0,6.4
+2071,2016.0,Pennsylvania,White,1832.0,10656890.0,17.2
+2072,2016.0,Rhode Island,White,121.0,906089.0,13.4
+2073,2016.0,South Carolina,Black or African American,80.0,1398222.0,5.7
+2074,2016.0,South Carolina,White,727.0,3441510.0,21.1
+2075,2016.0,South Dakota,American Indian or Alaska Native,43.0,82770.0,52
+2076,2016.0,South Dakota,White,117.0,747000.0,15.7
+2077,2016.0,Tennessee,Asian or Pacific Islander,13.0,136497.0,Unreliable
+2078,2016.0,Tennessee,Black or African American,80.0,1177064.0,6.8
+2079,2016.0,Tennessee,White,1015.0,5305294.0,19.1
+2080,2016.0,Texas,American Indian or Alaska Native,10.0,313507.0,Unreliable
+2081,2016.0,Texas,Asian or Pacific Islander,87.0,1467555.0,5.9
+2082,2016.0,Texas,Black or African American,237.0,3634085.0,6.5
+2083,2016.0,Texas,White,3143.0,22447449.0,14
+2084,2016.0,Utah,Asian or Pacific Islander,10.0,122084.0,Unreliable
+2085,2016.0,Utah,White,596.0,2822315.0,21.1
+2086,2016.0,Vermont,White,114.0,598811.0,19
+2087,2016.0,Virginia,Asian or Pacific Islander,36.0,608678.0,5.9
+2088,2016.0,Virginia,Black or African American,122.0,1741448.0,7
+2089,2016.0,Virginia,White,1003.0,6010786.0,16.7
+2090,2016.0,Washington,American Indian or Alaska Native,31.0,166151.0,18.7
+2091,2016.0,Washington,Asian or Pacific Islander,62.0,743134.0,8.3
+2092,2016.0,Washington,Black or African American,40.0,376367.0,10.6
+2093,2016.0,Washington,White,1001.0,6002348.0,16.7
+2094,2016.0,West Virginia,Black or African American,11.0,75405.0,Unreliable
+2095,2016.0,West Virginia,White,350.0,1733549.0,20.2
+2096,2016.0,Wisconsin,American Indian or Alaska Native,17.0,73825.0,Unreliable
+2097,2016.0,Wisconsin,Asian or Pacific Islander,12.0,175761.0,Unreliable
+2098,2016.0,Wisconsin,Black or African American,27.0,417195.0,6.5
+2099,2016.0,Wisconsin,White,809.0,5111927.0,15.8
+2100,2016.0,Wyoming,White,139.0,550665.0,25.2
+2101,2017.0,Alabama,Black or African American,78.0,1335240.0,5.8
+2102,2017.0,Alabama,White,750.0,3419705.0,21.9
+2103,2017.0,Alaska,American Indian or Alaska Native,68.0,127624.0,53.3
+2104,2017.0,Alaska,White,119.0,512623.0,23.2
+2105,2017.0,Arizona,American Indian or Alaska Native,91.0,400322.0,22.7
+2106,2017.0,Arizona,Asian or Pacific Islander,25.0,292842.0,8.5
+2107,2017.0,Arizona,Black or African American,40.0,397421.0,10.1
+2108,2017.0,Arizona,White,1169.0,5925685.0,19.7
+2109,2017.0,Arkansas,Asian or Pacific Islander,11.0,62867.0,Unreliable
+2110,2017.0,Arkansas,Black or African American,36.0,487926.0,7.4
+2111,2017.0,Arkansas,White,578.0,2420319.0,23.9
+2112,2017.0,California,American Indian or Alaska Native,41.0,776662.0,5.3
+2113,2017.0,California,Asian or Pacific Islander,420.0,6548662.0,6.4
+2114,2017.0,California,Black or African American,200.0,2841787.0,7
+2115,2017.0,California,White,3639.0,29369542.0,12.4
+2116,2017.0,Colorado,American Indian or Alaska Native,18.0,106359.0,Unreliable
+2117,2017.0,Colorado,Asian or Pacific Islander,24.0,222838.0,10.8
+2118,2017.0,Colorado,Black or African American,37.0,295430.0,12.5
+2119,2017.0,Colorado,White,1099.0,4982527.0,22.1
+2120,2017.0,Connecticut,Black or African American,30.0,456300.0,6.6
+2121,2017.0,Connecticut,White,368.0,2922942.0,12.6
+2122,2017.0,Delaware,Black or African American,10.0,230038.0,Unreliable
+2123,2017.0,Delaware,White,99.0,682095.0,14.5
+2124,2017.0,District of Columbia,Black or African American,21.0,336542.0,6.2
+2125,2017.0,District of Columbia,White,26.0,318871.0,8.2
+2126,2017.0,Florida,Asian or Pacific Islander,47.0,700659.0,6.7
+2127,2017.0,Florida,Black or African American,192.0,3678445.0,5.2
+2128,2017.0,Florida,White,2977.0,16488470.0,18.1
+2129,2017.0,Georgia,Asian or Pacific Islander,29.0,477375.0,6.1
+2130,2017.0,Georgia,Black or African American,225.0,3447386.0,6.5
+2131,2017.0,Georgia,White,1193.0,6444657.0,18.5
+2132,2017.0,Hawaii,Asian or Pacific Islander,111.0,944282.0,11.8
+2133,2017.0,Hawaii,White,111.0,433320.0,25.6
+2134,2017.0,Idaho,White,383.0,1626437.0,23.5
+2135,2017.0,Illinois,Asian or Pacific Islander,34.0,774210.0,4.4
+2136,2017.0,Illinois,Black or African American,134.0,1950271.0,6.9
+2137,2017.0,Illinois,White,1302.0,9988400.0,13
+2138,2017.0,Indiana,Asian or Pacific Islander,10.0,173590.0,Unreliable
+2139,2017.0,Indiana,Black or African American,61.0,702537.0,8.7
+2140,2017.0,Indiana,White,1020.0,5758280.0,17.7
+2141,2017.0,Iowa,White,462.0,2895505.0,16
+2142,2017.0,Kansas,American Indian or Alaska Native,10.0,42676.0,Unreliable
+2143,2017.0,Kansas,Asian or Pacific Islander,15.0,100376.0,Unreliable
+2144,2017.0,Kansas,Black or African American,24.0,207469.0,11.6
+2145,2017.0,Kansas,White,503.0,2562602.0,19.6
+2146,2017.0,Kentucky,Black or African American,32.0,401334.0,8
+2147,2017.0,Kentucky,White,730.0,3959768.0,18.4
+2148,2017.0,Louisiana,Black or African American,118.0,1558498.0,7.6
+2149,2017.0,Louisiana,White,594.0,2988801.0,19.9
+2150,2017.0,Maine,White,268.0,1280369.0,20.9
+2151,2017.0,Maryland,Asian or Pacific Islander,24.0,440915.0,5.4
+2152,2017.0,Maryland,Black or African American,109.0,1926348.0,5.7
+2153,2017.0,Maryland,White,495.0,3643426.0,13.6
+2154,2017.0,Massachusetts,Asian or Pacific Islander,25.0,500403.0,5
+2155,2017.0,Massachusetts,Black or African American,25.0,653142.0,3.8
+2156,2017.0,Massachusetts,White,632.0,5666330.0,11.2
+2157,2017.0,Michigan,American Indian or Alaska Native,12.0,91554.0,Unreliable
+2158,2017.0,Michigan,Asian or Pacific Islander,23.0,348202.0,6.6
+2159,2017.0,Michigan,Black or African American,94.0,1493499.0,6.3
+2160,2017.0,Michigan,White,1327.0,8029056.0,16.5
+2161,2017.0,Minnesota,American Indian or Alaska Native,21.0,86751.0,24.2
+2162,2017.0,Minnesota,Asian or Pacific Islander,27.0,303639.0,8.9
+2163,2017.0,Minnesota,Black or African American,23.0,406448.0,5.7
+2164,2017.0,Minnesota,White,707.0,4779768.0,14.8
+2165,2017.0,Mississippi,Black or African American,58.0,1142650.0,5.1
+2166,2017.0,Mississippi,White,382.0,1785378.0,21.4
+2167,2017.0,Missouri,Black or African American,70.0,768926.0,9.1
+2168,2017.0,Missouri,White,1070.0,5152579.0,20.8
+2169,2017.0,Montana,American Indian or Alaska Native,32.0,76587.0,41.8
+2170,2017.0,Montana,White,276.0,952702.0,29
+2171,2017.0,Nebraska,White,258.0,1722394.0,15
+2172,2017.0,Nevada,Asian or Pacific Islander,38.0,314262.0,12.1
+2173,2017.0,Nevada,Black or African American,45.0,328672.0,13.7
+2174,2017.0,Nevada,White,540.0,2297024.0,23.5
+2175,2017.0,New Hampshire,White,260.0,1271499.0,20.4
+2176,2017.0,New Jersey,Asian or Pacific Islander,50.0,945732.0,5.3
+2177,2017.0,New Jersey,Black or African American,70.0,1412387.0,5
+2178,2017.0,New Jersey,White,675.0,6583130.0,10.3
+2179,2017.0,New Mexico,American Indian or Alaska Native,44.0,239695.0,18.4
+2180,2017.0,New Mexico,White,435.0,1740703.0,25
+2181,2017.0,New York,Asian or Pacific Islander,99.0,1902407.0,5.2
+2182,2017.0,New York,Black or African American,169.0,3695842.0,4.6
+2183,2017.0,New York,White,1422.0,14023221.0,10.1
+2184,2017.0,North Carolina,American Indian or Alaska Native,20.0,172072.0,11.6
+2185,2017.0,North Carolina,Asian or Pacific Islander,18.0,346695.0,Unreliable
+2186,2017.0,North Carolina,Black or African American,145.0,2364451.0,6.1
+2187,2017.0,North Carolina,White,1338.0,7390201.0,18.1
+2188,2017.0,North Dakota,American Indian or Alaska Native,17.0,44685.0,Unreliable
+2189,2017.0,North Dakota,White,135.0,670004.0,20.1
+2190,2017.0,Ohio,Asian or Pacific Islander,28.0,299358.0,9.4
+2191,2017.0,Ohio,Black or African American,138.0,1613123.0,8.6
+2192,2017.0,Ohio,White,1573.0,9702995.0,16.2
+2193,2017.0,Oklahoma,American Indian or Alaska Native,77.0,419507.0,18.4
+2194,2017.0,Oklahoma,Asian or Pacific Islander,12.0,107783.0,Unreliable
+2195,2017.0,Oklahoma,Black or African American,35.0,351707.0,10
+2196,2017.0,Oklahoma,White,632.0,3051867.0,20.7
+2197,2017.0,Oregon,American Indian or Alaska Native,14.0,91652.0,Unreliable
+2198,2017.0,Oregon,Asian or Pacific Islander,23.0,236022.0,9.7
+2199,2017.0,Oregon,Black or African American,13.0,117380.0,Unreliable
+2200,2017.0,Oregon,White,774.0,3697722.0,20.9
+2201,2017.0,Pennsylvania,Asian or Pacific Islander,27.0,494034.0,5.5
+2202,2017.0,Pennsylvania,Black or African American,131.0,1617500.0,8.1
+2203,2017.0,Pennsylvania,White,1872.0,10637357.0,17.6
+2204,2017.0,Rhode Island,White,115.0,905231.0,12.7
+2205,2017.0,South Carolina,Asian or Pacific Islander,10.0,98226.0,Unreliable
+2206,2017.0,South Carolina,Black or African American,100.0,1409678.0,7.1
+2207,2017.0,South Carolina,White,724.0,3486473.0,20.8
+2208,2017.0,South Dakota,American Indian or Alaska Native,47.0,83602.0,56.2
+2209,2017.0,South Dakota,White,141.0,748768.0,18.8
+2210,2017.0,Tennessee,Asian or Pacific Islander,10.0,142118.0,Unreliable
+2211,2017.0,Tennessee,Black or African American,73.0,1189804.0,6.1
+2212,2017.0,Tennessee,White,1081.0,5350680.0,20.2
+2213,2017.0,Texas,Asian or Pacific Islander,102.0,1540052.0,6.6
+2214,2017.0,Texas,Black or African American,285.0,3717259.0,7.7
+2215,2017.0,Texas,White,3376.0,22728838.0,14.9
+2216,2017.0,Utah,American Indian or Alaska Native,13.0,53958.0,Unreliable
+2217,2017.0,Utah,Asian or Pacific Islander,16.0,126054.0,Unreliable
+2218,2017.0,Utah,White,628.0,2866353.0,21.9
+2219,2017.0,Vermont,White,108.0,597247.0,18.1
+2220,2017.0,Virginia,Asian or Pacific Islander,33.0,630376.0,5.2
+2221,2017.0,Virginia,Black or African American,99.0,1760262.0,5.6
+2222,2017.0,Virginia,White,1040.0,6027893.0,17.3
+2223,2017.0,Washington,American Indian or Alaska Native,24.0,169752.0,14.1
+2224,2017.0,Washington,Asian or Pacific Islander,76.0,783704.0,9.7
+2225,2017.0,Washington,Black or African American,37.0,387793.0,9.5
+2226,2017.0,Washington,White,1157.0,6064494.0,19.1
+2227,2017.0,West Virginia,White,382.0,1719416.0,22.2
+2228,2017.0,Wisconsin,American Indian or Alaska Native,12.0,75021.0,Unreliable
+2229,2017.0,Wisconsin,Asian or Pacific Islander,10.0,181101.0,Unreliable
+2230,2017.0,Wisconsin,Black or African American,31.0,422159.0,7.3
+2231,2017.0,Wisconsin,White,872.0,5117202.0,17
+2232,2017.0,Wyoming,White,150.0,544781.0,27.5
+2233,2018.0,Alabama,Asian or Pacific Islander,10.0,84490.0,Unreliable
+2234,2018.0,Alabama,Black or African American,91.0,1338846.0,6.8
+2235,2018.0,Alabama,White,721.0,3426745.0,21
+2236,2018.0,Alaska,American Indian or Alaska Native,59.0,128033.0,46.1
+2237,2018.0,Alaska,White,120.0,507912.0,23.6
+2238,2018.0,Arizona,American Indian or Alaska Native,117.0,407595.0,28.7
+2239,2018.0,Arizona,Asian or Pacific Islander,23.0,310608.0,7.4
+2240,2018.0,Arizona,Black or African American,57.0,413873.0,13.8
+2241,2018.0,Arizona,White,1239.0,6039570.0,20.5
+2242,2018.0,Arkansas,Black or African American,32.0,489759.0,6.5
+2243,2018.0,Arkansas,White,519.0,2424998.0,21.4
+2244,2018.0,California,American Indian or Alaska Native,44.0,777959.0,5.7
+2245,2018.0,California,Asian or Pacific Islander,444.0,6626166.0,6.7
+2246,2018.0,California,Black or African American,215.0,2851095.0,7.5
+2247,2018.0,California,White,3781.0,29301825.0,12.9
+2248,2018.0,Colorado,American Indian or Alaska Native,20.0,108684.0,18.4
+2249,2018.0,Colorado,Asian or Pacific Islander,23.0,233219.0,9.9
+2250,2018.0,Colorado,Black or African American,42.0,303260.0,13.8
+2251,2018.0,Colorado,White,1197.0,5050401.0,23.7
+2252,2018.0,Connecticut,Black or African American,26.0,459499.0,5.7
+2253,2018.0,Connecticut,White,386.0,2903404.0,13.3
+2254,2018.0,Delaware,Black or African American,16.0,233113.0,Unreliable
+2255,2018.0,Delaware,White,95.0,683930.0,13.9
+2256,2018.0,District of Columbia,Black or African American,17.0,336228.0,Unreliable
+2257,2018.0,District of Columbia,White,35.0,326137.0,10.7
+2258,2018.0,Florida,American Indian or Alaska Native,10.0,119648.0,Unreliable
+2259,2018.0,Florida,Asian or Pacific Islander,46.0,721486.0,6.4
+2260,2018.0,Florida,Black or African American,221.0,3736443.0,5.9
+2261,2018.0,Florida,White,3287.0,16721748.0,19.7
+2262,2018.0,Georgia,Asian or Pacific Islander,43.0,491893.0,8.7
+2263,2018.0,Georgia,Black or African American,270.0,3499496.0,7.7
+2264,2018.0,Georgia,White,1255.0,6466753.0,19.4
+2265,2018.0,Hawaii,Asian or Pacific Islander,101.0,940001.0,10.7
+2266,2018.0,Hawaii,White,71.0,430497.0,16.5
+2267,2018.0,Idaho,American Indian or Alaska Native,18.0,35530.0,Unreliable
+2268,2018.0,Idaho,White,395.0,1660028.0,23.8
+2269,2018.0,Illinois,Asian or Pacific Islander,45.0,794211.0,5.7
+2270,2018.0,Illinois,Black or African American,123.0,1940291.0,6.3
+2271,2018.0,Illinois,White,1318.0,9917646.0,13.3
+2272,2018.0,Indiana,Asian or Pacific Islander,13.0,181775.0,Unreliable
+2273,2018.0,Indiana,Black or African American,61.0,713302.0,8.6
+2274,2018.0,Indiana,White,1004.0,5763803.0,17.4
+2275,2018.0,Iowa,White,473.0,2896007.0,16.3
+2276,2018.0,Kansas,Asian or Pacific Islander,16.0,102046.0,Unreliable
+2277,2018.0,Kansas,Black or African American,27.0,207156.0,13
+2278,2018.0,Kansas,White,507.0,2559361.0,19.8
+2279,2018.0,Kentucky,Black or African American,36.0,405485.0,8.9
+2280,2018.0,Kentucky,White,756.0,3966164.0,19.1
+2281,2018.0,Louisiana,Black or African American,107.0,1557173.0,6.9
+2282,2018.0,Louisiana,White,599.0,2968719.0,20.2
+2283,2018.0,Maine,White,260.0,1281687.0,20.3
+2284,2018.0,Maryland,Asian or Pacific Islander,30.0,439857.0,6.8
+2285,2018.0,Maryland,Black or African American,102.0,1932392.0,5.3
+2286,2018.0,Maryland,White,518.0,3628187.0,14.3
+2287,2018.0,Massachusetts,Asian or Pacific Islander,19.0,521006.0,Unreliable
+2288,2018.0,Massachusetts,Black or African American,43.0,669506.0,6.4
+2289,2018.0,Massachusetts,White,674.0,5670599.0,11.9
+2290,2018.0,Michigan,American Indian or Alaska Native,13.0,92145.0,Unreliable
+2291,2018.0,Michigan,Asian or Pacific Islander,27.0,366543.0,7.4
+2292,2018.0,Michigan,Black or African American,137.0,1496029.0,9.2
+2293,2018.0,Michigan,White,1370.0,8041198.0,17
+2294,2018.0,Minnesota,American Indian or Alaska Native,19.0,88043.0,Unreliable
+2295,2018.0,Minnesota,Asian or Pacific Islander,24.0,308651.0,7.8
+2296,2018.0,Minnesota,Black or African American,22.0,423054.0,5.2
+2297,2018.0,Minnesota,White,673.0,4791431.0,14
+2298,2018.0,Mississippi,Black or African American,56.0,1145398.0,4.9
+2299,2018.0,Mississippi,White,360.0,1785077.0,20.2
+2300,2018.0,Missouri,Asian or Pacific Islander,13.0,153584.0,Unreliable
+2301,2018.0,Missouri,Black or African American,87.0,772024.0,11.3
+2302,2018.0,Missouri,White,1128.0,5156415.0,21.9
+2303,2018.0,Montana,American Indian or Alaska Native,20.0,77367.0,25.9
+2304,2018.0,Montana,White,237.0,962460.0,24.6
+2305,2018.0,Nebraska,White,262.0,1725837.0,15.2
+2306,2018.0,Nevada,Asian or Pacific Islander,40.0,315944.0,12.7
+2307,2018.0,Nevada,Black or African American,36.0,341394.0,10.5
+2308,2018.0,Nevada,White,575.0,2317575.0,24.8
+2309,2018.0,New Hampshire,White,273.0,1279355.0,21.3
+2310,2018.0,New Jersey,Asian or Pacific Islander,48.0,929088.0,5.2
+2311,2018.0,New Jersey,Black or African American,55.0,1404125.0,3.9
+2312,2018.0,New Jersey,White,675.0,6511007.0,10.4
+2313,2018.0,New Mexico,American Indian or Alaska Native,67.0,241055.0,27.8
+2314,2018.0,New Mexico,Asian or Pacific Islander,13.0,45322.0,Unreliable
+2315,2018.0,New Mexico,Black or African American,11.0,64722.0,Unreliable
+2316,2018.0,New Mexico,White,444.0,1744329.0,25.5
+2317,2018.0,New York,Asian or Pacific Islander,100.0,1846015.0,5.4
+2318,2018.0,New York,Black or African American,177.0,3634305.0,4.9
+2319,2018.0,New York,White,1442.0,13837347.0,10.4
+2320,2018.0,North Carolina,Asian or Pacific Islander,21.0,363120.0,5.8
+2321,2018.0,North Carolina,Black or African American,140.0,2394548.0,5.8
+2322,2018.0,North Carolina,White,1325.0,7451579.0,17.8
+2323,2018.0,North Dakota,American Indian or Alaska Native,10.0,45201.0,Unreliable
+2324,2018.0,North Dakota,White,130.0,670697.0,19.4
+2325,2018.0,Ohio,Asian or Pacific Islander,17.0,316182.0,Unreliable
+2326,2018.0,Ohio,Black or African American,151.0,1630541.0,9.3
+2327,2018.0,Ohio,White,1666.0,9698709.0,17.2
+2328,2018.0,Oklahoma,American Indian or Alaska Native,81.0,423467.0,19.1
+2329,2018.0,Oklahoma,Black or African American,35.0,353715.0,9.9
+2330,2018.0,Oklahoma,White,665.0,3056708.0,21.8
+2331,2018.0,Oregon,American Indian or Alaska Native,12.0,93400.0,Unreliable
+2332,2018.0,Oregon,Asian or Pacific Islander,20.0,247156.0,8.1
+2333,2018.0,Oregon,Black or African American,11.0,121398.0,Unreliable
+2334,2018.0,Oregon,White,801.0,3728759.0,21.5
+2335,2018.0,Pennsylvania,Asian or Pacific Islander,44.0,506492.0,8.7
+2336,2018.0,Pennsylvania,Black or African American,117.0,1632313.0,7.2
+2337,2018.0,Pennsylvania,White,1852.0,10609745.0,17.5
+2338,2018.0,Rhode Island,White,101.0,901715.0,11.2
+2339,2018.0,South Carolina,Asian or Pacific Islander,10.0,103090.0,Unreliable
+2340,2018.0,South Carolina,Black or African American,91.0,1418868.0,6.4
+2341,2018.0,South Carolina,White,707.0,3531746.0,20
+2342,2018.0,South Dakota,American Indian or Alaska Native,36.0,84659.0,42.5
+2343,2018.0,South Dakota,White,128.0,755314.0,16.9
+2344,2018.0,Tennessee,Asian or Pacific Islander,10.0,145794.0,Unreliable
+2345,2018.0,Tennessee,Black or African American,94.0,1198663.0,7.8
+2346,2018.0,Tennessee,White,1054.0,5391207.0,19.6
+2347,2018.0,Texas,American Indian or Alaska Native,19.0,322926.0,Unreliable
+2348,2018.0,Texas,Asian or Pacific Islander,126.0,1614008.0,7.8
+2349,2018.0,Texas,Black or African American,262.0,3803248.0,6.9
+2350,2018.0,Texas,White,3521.0,22961663.0,15.3
+2351,2018.0,Utah,American Indian or Alaska Native,13.0,55230.0,Unreliable
+2352,2018.0,Utah,Asian or Pacific Islander,15.0,133800.0,Unreliable
+2353,2018.0,Utah,White,627.0,2913538.0,21.5
+2354,2018.0,Vermont,White,118.0,598200.0,19.7
+2355,2018.0,Virginia,Asian or Pacific Islander,46.0,646251.0,7.1
+2356,2018.0,Virginia,Black or African American,135.0,1773427.0,7.6
+2357,2018.0,Virginia,White,1058.0,6045867.0,17.5
+2358,2018.0,Washington,American Indian or Alaska Native,39.0,173187.0,22.5
+2359,2018.0,Washington,Asian or Pacific Islander,68.0,830775.0,8.2
+2360,2018.0,Washington,Black or African American,45.0,403402.0,11.2
+2361,2018.0,Washington,White,1099.0,6128227.0,17.9
+2362,2018.0,West Virginia,Black or African American,11.0,75210.0,Unreliable
+2363,2018.0,West Virginia,White,382.0,1708531.0,22.4
+2364,2018.0,Wisconsin,American Indian or Alaska Native,13.0,75987.0,Unreliable
+2365,2018.0,Wisconsin,Asian or Pacific Islander,16.0,189159.0,Unreliable
+2366,2018.0,Wisconsin,Black or African American,36.0,427026.0,8.4
+2367,2018.0,Wisconsin,White,823.0,5121396.0,16.1
+2368,2018.0,Wyoming,White,144.0,542483.0,26.5
+2369,2019.0,Alabama,Asian or Pacific Islander,12.0,85143.0,Unreliable
+2370,2019.0,Alabama,Black or African American,83.0,1342306.0,6.2
+2371,2019.0,Alabama,White,707.0,3437480.0,20.6
+2372,2019.0,Alaska,American Indian or Alaska Native,83.0,128261.0,64.7
+2373,2019.0,Alaska,White,118.0,503476.0,23.4
+2374,2019.0,Arizona,American Indian or Alaska Native,92.0,414011.0,22.2
+2375,2019.0,Arizona,Asian or Pacific Islander,23.0,317182.0,7.3
+2376,2019.0,Arizona,Black or African American,49.0,428589.0,11.4
+2377,2019.0,Arizona,White,1253.0,6118935.0,20.5
+2378,2019.0,Arkansas,Black or African American,32.0,491009.0,6.5
+2379,2019.0,Arkansas,White,504.0,2426008.0,20.8
+2380,2019.0,California,American Indian or Alaska Native,29.0,776684.0,3.7
+2381,2019.0,California,Asian or Pacific Islander,437.0,6678634.0,6.5
+2382,2019.0,California,Black or African American,224.0,2853140.0,7.9
+2383,2019.0,California,White,3741.0,29203765.0,12.8
+2384,2019.0,Colorado,American Indian or Alaska Native,23.0,110781.0,20.8
+2385,2019.0,Colorado,Asian or Pacific Islander,23.0,239239.0,9.6
+2386,2019.0,Colorado,Black or African American,43.0,309178.0,13.9
+2387,2019.0,Colorado,White,1222.0,5099538.0,24
+2388,2019.0,Connecticut,Asian or Pacific Islander,10.0,189183.0,Unreliable
+2389,2019.0,Connecticut,Black or African American,36.0,465439.0,7.7
+2390,2019.0,Connecticut,White,389.0,2886404.0,13.5
+2391,2019.0,Delaware,Black or African American,10.0,236868.0,Unreliable
+2392,2019.0,Delaware,White,99.0,686304.0,14.4
+2393,2019.0,District of Columbia,Black or African American,24.0,334846.0,7.2
+2394,2019.0,District of Columbia,White,20.0,330479.0,6.1
+2395,2019.0,Florida,Asian or Pacific Islander,52.0,726986.0,7.2
+2396,2019.0,Florida,Black or African American,224.0,3774446.0,5.9
+2397,2019.0,Florida,White,3182.0,16854502.0,18.9
+2398,2019.0,Georgia,Asian or Pacific Islander,41.0,503548.0,8.1
+2399,2019.0,Georgia,Black or African American,265.0,3549778.0,7.5
+2400,2019.0,Georgia,White,1276.0,6501503.0,19.6
+2401,2019.0,Hawaii,Asian or Pacific Islander,127.0,937458.0,13.5
+2402,2019.0,Hawaii,White,93.0,428523.0,21.7
+2403,2019.0,Idaho,American Indian or Alaska Native,12.0,36276.0,Unreliable
+2404,2019.0,Idaho,White,344.0,1691082.0,20.3
+2405,2019.0,Illinois,Asian or Pacific Islander,54.0,793915.0,6.8
+2406,2019.0,Illinois,Black or African American,115.0,1934399.0,5.9
+2407,2019.0,Illinois,White,1269.0,9854559.0,12.9
+2408,2019.0,Indiana,Asian or Pacific Islander,10.0,191638.0,Unreliable
+2409,2019.0,Indiana,Black or African American,58.0,726166.0,8
+2410,2019.0,Indiana,White,901.0,5780770.0,15.6
+2411,2019.0,Iowa,Asian or Pacific Islander,10.0,93459.0,Unreliable
+2412,2019.0,Iowa,Black or African American,21.0,150737.0,13.9
+2413,2019.0,Iowa,White,493.0,2891595.0,17
+2414,2019.0,Kansas,Black or African American,24.0,207755.0,11.6
+2415,2019.0,Kansas,White,487.0,2558440.0,19
+2416,2019.0,Kentucky,Black or African American,37.0,408675.0,9.1
+2417,2019.0,Kentucky,White,709.0,3963276.0,17.9
+2418,2019.0,Louisiana,Asian or Pacific Islander,11.0,94118.0,Unreliable
+2419,2019.0,Louisiana,Black or African American,98.0,1556514.0,6.3
+2420,2019.0,Louisiana,White,593.0,2958038.0,20
+2421,2019.0,Maine,White,271.0,1285624.0,21.1
+2422,2019.0,Maryland,Asian or Pacific Islander,30.0,441092.0,6.8
+2423,2019.0,Maryland,Black or African American,116.0,1944767.0,6
+2424,2019.0,Maryland,White,509.0,3616873.0,14.1
+2425,2019.0,Massachusetts,Asian or Pacific Islander,17.0,526423.0,Unreliable
+2426,2019.0,Massachusetts,Black or African American,35.0,675621.0,5.2
+2427,2019.0,Massachusetts,White,595.0,5649253.0,10.5
+2428,2019.0,Michigan,American Indian or Alaska Native,11.0,92670.0,Unreliable
+2429,2019.0,Michigan,Asian or Pacific Islander,24.0,366260.0,6.6
+2430,2019.0,Michigan,Black or African American,133.0,1497477.0,8.9
+2431,2019.0,Michigan,White,1304.0,8030450.0,16.2
+2432,2019.0,Minnesota,American Indian or Alaska Native,32.0,88978.0,36
+2433,2019.0,Minnesota,Asian or Pacific Islander,36.0,312656.0,11.5
+2434,2019.0,Minnesota,Black or African American,41.0,439435.0,9.3
+2435,2019.0,Minnesota,White,720.0,4798563.0,15
+2436,2019.0,Mississippi,Black or African American,70.0,1141493.0,6.1
+2437,2019.0,Mississippi,White,360.0,1777310.0,20.3
+2438,2019.0,Missouri,Asian or Pacific Islander,14.0,156501.0,Unreliable
+2439,2019.0,Missouri,Black or African American,59.0,774069.0,7.6
+2440,2019.0,Missouri,White,1062.0,5161380.0,20.6
+2441,2019.0,Montana,American Indian or Alaska Native,31.0,77993.0,39.7
+2442,2019.0,Montana,White,253.0,967929.0,26.1
+2443,2019.0,Nebraska,Black or African American,11.0,115754.0,Unreliable
+2444,2019.0,Nebraska,White,288.0,1726955.0,16.7
+2445,2019.0,Nevada,Asian or Pacific Islander,36.0,321630.0,11.2
+2446,2019.0,Nevada,Black or African American,37.0,353548.0,10.5
+2447,2019.0,Nevada,White,563.0,2344105.0,24
+2448,2019.0,New Hampshire,White,246.0,1281488.0,19.2
+2449,2019.0,New Jersey,Asian or Pacific Islander,50.0,927284.0,5.4
+2450,2019.0,New Jersey,Black or African American,71.0,1404990.0,5.1
+2451,2019.0,New Jersey,White,641.0,6484830.0,9.9
+2452,2019.0,New Mexico,American Indian or Alaska Native,61.0,242463.0,25.2
+2453,2019.0,New Mexico,Black or African American,13.0,66216.0,Unreliable
+2454,2019.0,New Mexico,White,432.0,1742518.0,24.8
+2455,2019.0,New York,Asian or Pacific Islander,124.0,1850616.0,6.7
+2456,2019.0,New York,Black or African American,149.0,3611420.0,4.1
+2457,2019.0,New York,White,1426.0,13767670.0,10.4
+2458,2019.0,North Carolina,American Indian or Alaska Native,10.0,177169.0,Unreliable
+2459,2019.0,North Carolina,Asian or Pacific Islander,25.0,369134.0,6.8
+2460,2019.0,North Carolina,Black or African American,146.0,2421439.0,6
+2461,2019.0,North Carolina,White,1176.0,7520342.0,15.6
+2462,2019.0,North Dakota,White,125.0,672030.0,18.6
+2463,2019.0,Ohio,Asian or Pacific Islander,23.0,321113.0,7.2
+2464,2019.0,Ohio,Black or African American,152.0,1640963.0,9.3
+2465,2019.0,Ohio,White,1628.0,9682405.0,16.8
+2466,2019.0,Oklahoma,American Indian or Alaska Native,80.0,427718.0,18.7
+2467,2019.0,Oklahoma,Asian or Pacific Islander,12.0,112610.0,Unreliable
+2468,2019.0,Oklahoma,Black or African American,41.0,355533.0,11.5
+2469,2019.0,Oklahoma,White,683.0,3061110.0,22.3
+2470,2019.0,Oregon,American Indian or Alaska Native,17.0,94617.0,Unreliable
+2471,2019.0,Oregon,Asian or Pacific Islander,26.0,250417.0,10.4
+2472,2019.0,Oregon,Black or African American,13.0,123019.0,Unreliable
+2473,2019.0,Oregon,White,850.0,3749684.0,22.7
+2474,2019.0,Pennsylvania,Asian or Pacific Islander,38.0,514851.0,7.4
+2475,2019.0,Pennsylvania,Black or African American,127.0,1643677.0,7.7
+2476,2019.0,Pennsylvania,White,1729.0,10583680.0,16.3
+2477,2019.0,Rhode Island,White,118.0,900386.0,13.1
+2478,2019.0,South Carolina,Black or African American,111.0,1428188.0,7.8
+2479,2019.0,South Carolina,White,728.0,3581951.0,20.3
+2480,2019.0,South Dakota,American Indian or Alaska Native,31.0,85302.0,36.3
+2481,2019.0,South Dakota,White,142.0,758952.0,18.7
+2482,2019.0,Tennessee,Asian or Pacific Islander,20.0,151946.0,13.2
+2483,2019.0,Tennessee,Black or African American,102.0,1209147.0,8.4
+2484,2019.0,Tennessee,White,1096.0,5432785.0,20.2
+2485,2019.0,Texas,Asian or Pacific Islander,105.0,1642328.0,6.4
+2486,2019.0,Texas,Black or African American,274.0,3873093.0,7.1
+2487,2019.0,Texas,White,3499.0,23152887.0,15.1
+2488,2019.0,Utah,American Indian or Alaska Native,17.0,56461.0,Unreliable
+2489,2019.0,Utah,Asian or Pacific Islander,13.0,135124.0,Unreliable
+2490,2019.0,Utah,Black or African American,11.0,60833.0,Unreliable
+2491,2019.0,Utah,White,612.0,2953540.0,20.7
+2492,2019.0,Vermont,White,108.0,596426.0,18.1
+2493,2019.0,Virginia,Asian or Pacific Islander,38.0,648345.0,5.9
+2494,2019.0,Virginia,Black or African American,132.0,1781520.0,7.4
+2495,2019.0,Virginia,White,964.0,6053235.0,15.9
+2496,2019.0,Washington,American Indian or Alaska Native,25.0,176019.0,14.2
+2497,2019.0,Washington,Asian or Pacific Islander,75.0,858662.0,8.7
+2498,2019.0,Washington,Black or African American,46.0,414916.0,11.1
+2499,2019.0,Washington,White,1116.0,6165296.0,18.1
+2500,2019.0,West Virginia,White,325.0,1695855.0,19.2
+2501,2019.0,Wisconsin,American Indian or Alaska Native,14.0,77185.0,Unreliable
+2502,2019.0,Wisconsin,Asian or Pacific Islander,11.0,188865.0,Unreliable
+2503,2019.0,Wisconsin,Black or African American,31.0,429528.0,7.2
+2504,2019.0,Wisconsin,White,787.0,5126856.0,15.4
+2505,2019.0,Wyoming,White,158.0,543158.0,29.1
+2506,2020.0,Alabama,Black or African American,85.0,1350111.0,6.3
+2507,2020.0,Alabama,White,696.0,3445489.0,20.2
+2508,2020.0,Alaska,American Indian or Alaska Native,71.0,128350.0,55.3
+2509,2020.0,Alaska,White,124.0,500604.0,24.8
+2510,2020.0,Arizona,American Indian or Alaska Native,94.0,420587.0,22.3
+2511,2020.0,Arizona,Asian or Pacific Islander,23.0,332262.0,6.9
+2512,2020.0,Arizona,Black or African American,57.0,450623.0,12.6
+2513,2020.0,Arizona,White,1189.0,6217929.0,19.1
+2514,2020.0,Arkansas,Black or African American,51.0,494526.0,10.3
+2515,2020.0,Arkansas,White,521.0,2430075.0,21.4
+2516,2020.0,California,American Indian or Alaska Native,32.0,795861.0,4
+2517,2020.0,California,Asian or Pacific Islander,442.0,6819552.0,6.5
+2518,2020.0,California,Black or African American,234.0,2871450.0,8.1
+2519,2020.0,California,White,3433.0,28881215.0,11.9
+2520,2020.0,Colorado,American Indian or Alaska Native,19.0,114533.0,Unreliable
+2521,2020.0,Colorado,Asian or Pacific Islander,29.0,245849.0,11.8
+2522,2020.0,Colorado,Black or African American,48.0,316428.0,15.2
+2523,2020.0,Colorado,White,1204.0,5130909.0,23.5
+2524,2020.0,Connecticut,Black or African American,28.0,476687.0,5.9
+2525,2020.0,Connecticut,White,332.0,2862056.0,11.6
+2526,2020.0,Delaware,Black or African American,16.0,242960.0,Unreliable
+2527,2020.0,Delaware,White,105.0,690968.0,15.2
+2528,2020.0,District of Columbia,Black or African American,18.0,335168.0,Unreliable
+2529,2020.0,District of Columbia,White,17.0,335845.0,Unreliable
+2530,2020.0,Florida,Asian or Pacific Islander,49.0,750143.0,6.5
+2531,2020.0,Florida,Black or African American,212.0,3840185.0,5.5
+2532,2020.0,Florida,White,2857.0,17016011.0,16.8
+2533,2020.0,Georgia,Asian or Pacific Islander,37.0,524915.0,7
+2534,2020.0,Georgia,Black or African American,289.0,3606257.0,8
+2535,2020.0,Georgia,White,1163.0,6514563.0,17.9
+2536,2020.0,Hawaii,Asian or Pacific Islander,96.0,934235.0,10.3
+2537,2020.0,Hawaii,White,83.0,423120.0,19.6
+2538,2020.0,Idaho,White,411.0,1727195.0,23.8
+2539,2020.0,Illinois,Asian or Pacific Islander,55.0,807706.0,6.8
+2540,2020.0,Illinois,Black or African American,155.0,1937515.0,8
+2541,2020.0,Illinois,White,1152.0,9751287.0,11.8
+2542,2020.0,Indiana,Asian or Pacific Islander,11.0,197193.0,Unreliable
+2543,2020.0,Indiana,Black or African American,79.0,741160.0,10.7
+2544,2020.0,Indiana,White,931.0,5781775.0,16.1
+2545,2020.0,Iowa,Black or African American,13.0,156619.0,Unreliable
+2546,2020.0,Iowa,White,525.0,2889308.0,18.2
+2547,2020.0,Kansas,Black or African American,29.0,210495.0,13.8
+2548,2020.0,Kansas,White,487.0,2554397.0,19.1
+2549,2020.0,Kentucky,Black or African American,48.0,413976.0,11.6
+2550,2020.0,Kentucky,White,749.0,3963013.0,18.9
+2551,2020.0,Louisiana,Black or African American,96.0,1561145.0,6.1
+2552,2020.0,Louisiana,White,534.0,2946293.0,18.1
+2553,2020.0,Maine,White,226.0,1289612.0,17.5
+2554,2020.0,Maryland,Asian or Pacific Islander,21.0,452059.0,4.6
+2555,2020.0,Maryland,Black or African American,115.0,1963360.0,5.9
+2556,2020.0,Maryland,White,448.0,3595768.0,12.5
+2557,2020.0,Massachusetts,Asian or Pacific Islander,24.0,542099.0,4.4
+2558,2020.0,Massachusetts,Black or African American,27.0,689362.0,3.9
+2559,2020.0,Massachusetts,White,564.0,5619604.0,10
+2560,2020.0,Michigan,American Indian or Alaska Native,19.0,92800.0,Unreliable
+2561,2020.0,Michigan,Asian or Pacific Islander,23.0,369384.0,6.2
+2562,2020.0,Michigan,Black or African American,134.0,1499982.0,8.9
+2563,2020.0,Michigan,White,1267.0,8004389.0,15.8
+2564,2020.0,Minnesota,American Indian or Alaska Native,26.0,89130.0,29.2
+2565,2020.0,Minnesota,Asian or Pacific Islander,25.0,322504.0,7.8
+2566,2020.0,Minnesota,Black or African American,36.0,456060.0,7.9
+2567,2020.0,Minnesota,White,671.0,4789648.0,14
+2568,2020.0,Mississippi,Black or African American,73.0,1141283.0,6.4
+2569,2020.0,Mississippi,White,331.0,1768002.0,18.7
+2570,2020.0,Missouri,Asian or Pacific Islander,16.0,161238.0,Unreliable
+2571,2020.0,Missouri,Black or African American,78.0,776770.0,10
+2572,2020.0,Missouri,White,1023.0,5167287.0,19.8
+2573,2020.0,Montana,American Indian or Alaska Native,37.0,78116.0,47.4
+2574,2020.0,Montana,White,258.0,978119.0,26.4
+2575,2020.0,Nebraska,Black or African American,17.0,118129.0,Unreliable
+2576,2020.0,Nebraska,White,257.0,1725392.0,14.9
+2577,2020.0,Nevada,American Indian or Alaska Native,11.0,62401.0,Unreliable
+2578,2020.0,Nevada,Asian or Pacific Islander,37.0,339340.0,10.9
+2579,2020.0,Nevada,Black or African American,44.0,368812.0,11.9
+2580,2020.0,Nevada,White,510.0,2367706.0,21.5
+2581,2020.0,New Hampshire,White,230.0,1285020.0,17.9
+2582,2020.0,New Jersey,Asian or Pacific Islander,49.0,950124.0,5.2
+2583,2020.0,New Jersey,Black or African American,59.0,1421916.0,4.1
+2584,2020.0,New Jersey,White,571.0,6440419.0,8.9
+2585,2020.0,New Mexico,American Indian or Alaska Native,71.0,246161.0,28.8
+2586,2020.0,New Mexico,Black or African American,13.0,68577.0,Unreliable
+2587,2020.0,New Mexico,White,426.0,1743560.0,24.4
+2588,2020.0,New York,Asian or Pacific Islander,107.0,1881911.0,5.7
+2589,2020.0,New York,Black or African American,157.0,3604597.0,4.4
+2590,2020.0,New York,White,1375.0,13619969.0,10.1
+2591,2020.0,North Carolina,American Indian or Alaska Native,10.0,180238.0,Unreliable
+2592,2020.0,North Carolina,Asian or Pacific Islander,35.0,391163.0,8.9
+2593,2020.0,North Carolina,Black or African American,157.0,2453861.0,6.4
+2594,2020.0,North Carolina,White,1239.0,7575561.0,16.4
+2595,2020.0,North Dakota,American Indian or Alaska Native,21.0,46239.0,45.4
+2596,2020.0,North Dakota,White,111.0,673624.0,16.5
+2597,2020.0,Ohio,Asian or Pacific Islander,19.0,336291.0,Unreliable
+2598,2020.0,Ohio,Black or African American,159.0,1658318.0,9.6
+2599,2020.0,Ohio,White,1460.0,9653181.0,15.1
+2600,2020.0,Oklahoma,American Indian or Alaska Native,104.0,439943.0,23.6
+2601,2020.0,Oklahoma,Asian or Pacific Islander,15.0,115635.0,Unreliable
+2602,2020.0,Oklahoma,Black or African American,52.0,361521.0,14.4
+2603,2020.0,Oklahoma,White,698.0,3063684.0,22.8
+2604,2020.0,Oregon,American Indian or Alaska Native,10.0,96577.0,Unreliable
+2605,2020.0,Oregon,Asian or Pacific Islander,18.0,256465.0,Unreliable
+2606,2020.0,Oregon,Black or African American,13.0,125990.0,Unreliable
+2607,2020.0,Oregon,White,791.0,3762475.0,21
+2608,2020.0,Pennsylvania,Asian or Pacific Islander,33.0,529546.0,6.2
+2609,2020.0,Pennsylvania,Black or African American,127.0,1660533.0,7.6
+2610,2020.0,Pennsylvania,White,1529.0,10530577.0,14.5
+2611,2020.0,Rhode Island,White,85.0,895772.0,9.5
+2612,2020.0,South Carolina,Asian or Pacific Islander,11.0,113140.0,Unreliable
+2613,2020.0,South Carolina,Black or African American,108.0,1441509.0,7.5
+2614,2020.0,South Carolina,White,748.0,3631407.0,20.6
+2615,2020.0,South Dakota,American Indian or Alaska Native,45.0,85421.0,52.7
+2616,2020.0,South Dakota,White,134.0,763985.0,17.5
+2617,2020.0,Tennessee,Asian or Pacific Islander,10.0,155853.0,Unreliable
+2618,2020.0,Tennessee,Black or African American,99.0,1219237.0,8.1
+2619,2020.0,Tennessee,White,1106.0,5475185.0,20.2
+2620,2020.0,Texas,Asian or Pacific Islander,129.0,1721732.0,7.5
+2621,2020.0,Texas,Black or African American,313.0,3984144.0,7.9
+2622,2020.0,Texas,White,3469.0,23314879.0,14.9
+2623,2020.0,Utah,Asian or Pacific Islander,15.0,139944.0,Unreliable
+2624,2020.0,Utah,Black or African American,11.0,62659.0,Unreliable
+2625,2020.0,Utah,White,615.0,2989783.0,20.6
+2626,2020.0,Vermont,White,114.0,594964.0,19.2
+2627,2020.0,Virginia,Asian or Pacific Islander,57.0,671362.0,8.5
+2628,2020.0,Virginia,Black or African American,153.0,1801495.0,8.5
+2629,2020.0,Virginia,White,989.0,6063666.0,16.3
+2630,2020.0,Washington,American Indian or Alaska Native,31.0,179917.0,17.2
+2631,2020.0,Washington,Asian or Pacific Islander,81.0,893265.0,9.1
+2632,2020.0,Washington,Black or African American,42.0,430125.0,9.8
+2633,2020.0,Washington,White,1058.0,6190305.0,17.1
+2634,2020.0,West Virginia,Black or African American,14.0,75782.0,Unreliable
+2635,2020.0,West Virginia,White,337.0,1686512.0,20
+2636,2020.0,Wisconsin,American Indian or Alaska Native,10.0,78876.0,Unreliable
+2637,2020.0,Wisconsin,Asian or Pacific Islander,12.0,197416.0,Unreliable
+2638,2020.0,Wisconsin,Black or African American,40.0,435275.0,9.2
+2639,2020.0,Wisconsin,White,804.0,5121088.0,15.7
+2640,2020.0,Wyoming,White,177.0,546461.0,32.4
