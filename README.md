@@ -93,6 +93,14 @@ A scatterplot followed by a linear regression can be used to determine whethere 
 The linear correlation coefficient (_r_) is always between -1 and +1 and if r is close to 0, then there is no significant linear correlation between x and y. _r_ measures the strength of a linear association. Based on the definition, there does not appear to be a strong linear correlation between crude suicide mortality rate and working poor rate. 
 
 
+### Two-sample _t_-test: Method used to test whether the population means of two groups are equal or not. 
+
+In order to apply the two-sample _t_-test there are a few asumptions that have to be met.
+1. The two samples are independent.
+2. The two samples are simple random samples.
+3. Both samples are large and from normally distributed populations. 
+4. Unknown population variance (assumed unequal)
+
 
 
 
