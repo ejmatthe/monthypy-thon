@@ -1,6 +1,8 @@
 # Team Monty py-thon 👑
 
-![](output/Python-Code-scaled-e1661466414554-1024x576.jpg)
+<p align="center">
+  <img width="600" height="600" src="https://github.com/ejmatthe/montypy-thon/blob/426a3f8e5a29d013ef855da6ebca68082020f1c7/output/Screenshot%202023-04-08%20134253.png">
+</p>
 
 ## **Title:**  Analyzing Suicide Rates in the United States by Census Regions (1999-2020)
 
