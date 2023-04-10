@@ -1,6 +1,6 @@
 # Team Monty py-thon 👑
 
-
+![](output/Python-Code-scaled-e1661466414554-1024x576.jpg)
 
 ## **Title:**  Analyzing Suicide Rates in the United States by Census Regions (1999-2020)
 
@@ -15,6 +15,8 @@
 - Suicide was the second leading cause of death among individuals between the ages of 10-14 and 25-34 , the third leading cause of death among individuals between the ages of 15-24, and the fourth leading cause of death among individuals between the ages of 35 and 44.
 - There were nearly two times as many suicides (45,979) in the United States as there were homicides (24,576).<sup>1</sup>
 - Suicide is rarely caused by a single circumstance or event. Thus, understanding individual, relationships, community, and societal level factors are necessary to identify protective and risk factors.<sup>2</sup>
+
+
 
                 
 
