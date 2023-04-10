@@ -16,27 +16,22 @@
 - There were nearly two times as many suicides (45,979) in the United States as there were homicides (24,576).<sup>1</sup>
 - Suicide is rarely caused by a single circumstance or event. Thus, understanding individual, relationships, community, and societal level factors are necessary to identify protective and risk factors.<sup>2</sup>
 
+## Purpose 
+- Research has shown significant variation in suicide risk among different races, genders, and geographical locations in the US, defined by Census Region. <sup>3</sup> The outcome of the analysis will help guide targeted interventions when drafting important legislative policies or plans for programs that aim to reduce suicide mortality by identifying the association of suicide rates by gender, race, and geographical location. 
 
 
-                
+## Methodology
 
+**Step 1**. Gathered relevant data from reliable sources.
+Sources: 	CDC Wonder & U.S. Bureau of labor statistics 5
 
+**Step 2**. Cleaned and arranged data by gender, race, and census region using Jupyter Notebook. 
 
+**Step 3**. Created visuals that depict trends
 
+**Step 4**. Applied statistical testing
 
-
-
-
-
-
-
-
-Sources will go
-here
-
-
-
-With the datasets from the CDC, we pulled reports that provided the annual suicide rate by census region, one that was further filtered by gender and another by race.
+**Step 5**. Conclusion, Interpretation, Future Implications, and limitations
 
 The Census Regions are defined as follows.
 
@@ -51,3 +46,24 @@ This includes the states Alabama, Arkansas, Delaware, District of Columbia, Flor
 
 **Census Region 4 - West**<br>
 This includes the states Alaska, Arizona, California, Colorado, Hawaii, Idaho, Montana, Nevada, New Mexico, Oregon, Utah, Washington, and Wyoming.
+
+![](https://github.com/ejmatthe/montypy-thon/blob/b2b9f32ddda0454c5da933aa3ad5861b719bd245/output/Screenshot%202023-04-08%20143225.png)
+
+## Analysis 
+
+![](output/suicides-national.png)
+**Figure 1**. Suicides per 100,000 people by 5-year increments
+
+- Crude suicide rates have steadily risen from 1999 until 2017, when there appears to be a dip in suicide rates.
+
+- Suicide rates have been on the rise since the SARS-COV-2 outbreak in 2020. <sup>6</sup>
+
+![](output/suicides-male.png) 
+**Figure 2**. Annual Suicide Rate of US Population in Males by 5-year increments
+
+
+![](output/suicides-female.png) 
+**Figure 3**. Annual Suicide Rate of US Population in Females by 5-year increments
+
+
+
