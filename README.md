@@ -102,5 +102,17 @@ In order to apply the two-sample _t_-test there are a few asumptions that have t
 4. Unknown population variance (assumed unequal)
 
 
+**Result**. With a p-value of 2.51 x 10<sup>-66</sup> << 0.05, there is sufficient evident to support the claim that the mean crude suicide mortality rate in males is
+different or not equal to crude suicide mortality rate in females. 
 
+
+## Conclusion 
+- The highest suicide rates, irrespective of gender and race, prevail in Western and Southern Census regions. 
+- The crude suicide rate in the South and West regions per 100,000 people in males [1999:2020, 18:24] is higher than the national crude suicide rate per 100,000 people in females within the same regions [1999:2020, 10:14].
+- Crude suicide rates in the South and West regions per 100,000 people amongst Native Americans are higher [1999:2020, 12.5:22.5] than other races.
+- Crude suicide rates in Whites[1999:2020, 12:18]
+- Crude suicide rates in Blacks [1999:2020, 6:8]
+- Crude suicide rates in Asians [1999:2020, 8:6]	
+- There does not appear to be a strong linear correlation between crude suicide mortality rate and working poor rate. 
+- There is sufficient evident to support the claim that the mean crude suicide mortality rate in males is different or not equal to crude suicide mortality rate in females
 
