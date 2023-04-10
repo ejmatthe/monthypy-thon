@@ -116,3 +116,20 @@ different or not equal to crude suicide mortality rate in females.
 - There does not appear to be a strong linear correlation between crude suicide mortality rate and working poor rate. 
 - There is sufficient evident to support the claim that the mean crude suicide mortality rate in males is different or not equal to crude suicide mortality rate in females
 
+## Future Implications and Limitation
+
+- Population data iis not standardized 
+- Population data is not adjusted by age
+- Meditating factors have to be considered and controlled for using statistical applications
+- The rate of movement between states can skew the output
+- Testing for internal and external validity is essential for accuracy. 
+
+## References 
+
+1. Suicide defintion. https://www.nimh.nih.gov/health/statistics/suicide. Accessed on April 8, 2023. 
+2. Suicide factors. https://www.cdc.gov/suicide/factors/index.html. Accessed on April 8, 2023.
+3. The effects of race/ethnicity, income, and family structure on adolescent risk behaviors. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1446419/. Accessed on April 8, 2023. 
+4.  Census Regions and Divisions of the United States. https://www2.census.gov/geo/pdfs/maps-data/maps/reference/us_regdiv.pdf. Accessed on April 8, 2023. 
+5. CDC WONDER. https://wonder.cdc.gov/WelcomeT.html. Accessed on April 8, 2023. 
+6. Association between COVID-19 pandemic and the suicide rate in Nepal. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0262958#:~:text=Over%20the%20entire%20pandemic%20period,0.45)%20suicide%20per%20100%2C000%20population. Accessed on April 8, 2023.
+7. BLS Reports. https://www.bls.gov/opub/reports/archive.htm. Accessed on April 6, 2023. 
