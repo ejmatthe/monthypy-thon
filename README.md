@@ -118,7 +118,7 @@ different or not equal to crude suicide mortality rate in females.
 
 ## Future Implications and Limitation
 
-- Population data iis not standardized 
+- Population data is not standardized 
 - Population data is not adjusted by age
 - Meditating factors have to be considered and controlled for using statistical applications
 - The rate of movement between states can skew the output
