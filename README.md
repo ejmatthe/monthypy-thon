@@ -81,7 +81,7 @@ This includes the states Alaska, Arizona, California, Colorado, Hawaii, Idaho, M
 
 ## Statistical Outputs
 
-A scatterplot followed by a linear regression can be used to determine whethere there is an association between two continunous variables. For the analysis depicted below, the output is crude population suicide mortality rate, and the independent variable is working poor rate. 
+A scatterplot followed by a linear regression can be used to determine whether there is an association between two continuous variables. For the analysis depicted below, the output is crude population suicide mortality rate, and the independent variable is working poor rate. 
 
 ![](output/Scatterplot_withregression.png)
 
