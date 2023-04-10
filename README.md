@@ -65,5 +65,16 @@ This includes the states Alaska, Arizona, California, Colorado, Hawaii, Idaho, M
 ![](output/suicides-female.png) 
 **Figure 3**. Annual Suicide Rate of US Population in Females by 5-year increments
 
+![](output/suicides-asian.png)
+**Figure 4**. Annual suicide rate of US population in Asians by 5-year increments
+
+![](output/suicides-white.png)
+**Figure 5**. Annual Suicide Rate of US Population in Whites by 5-year increments
+
+![](output/suicides-native.png)
+**Figure 6**. Annual Suicide Rate of US Population in Native Americans by 5-year increments
+
+![](output/suicides-black.png)
+**Figure 7**. Annual Suicide Rate of US Population in Blacks by 5-year increments
 
 
