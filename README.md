@@ -77,4 +77,22 @@ This includes the states Alaska, Arizona, California, Colorado, Hawaii, Idaho, M
 ![](output/suicides-black.png)
 **Figure 7**. Annual Suicide Rate of US Population in Blacks by 5-year increments
 
+## Statistical Outputs
+
+A scatterplot followed by a linear regression can be used to determine whethere there is an association between two continunous variables. For the analysis depicted below, the output is crude population suicide mortality rate, and the independent variable is working poor rate. 
+
+![](output/Scatterplot_withregression.png)
+
+**Figure 8**. Least Squares Regression line of crude working poor rate and crude population suicide mortality rate from 1999-2020 
+
+
+![](output/Scatterplot.png)
+
+**Figure 9**. Scatter plot of crude working poor rate and crude population suicide mortality rate from 1999-2020  
+
+The linear correlation coefficient (_r_) is always between -1 and +1 and if r is close to 0, then there is no significant linear correlation between x and y. _r_ measures the strength of a linear association. Based on the definition, there does not appear to be a strong linear correlation between crude suicide mortality rate and working poor rate. 
+
+
+
+
 
